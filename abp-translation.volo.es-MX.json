@@ -8,12 +8,12 @@
         {
           "LocalizationKey": "Menu:Home",
           "Reference": "Home",
-          "Target": ""
+          "Target": "Inicio"
         },
         {
           "LocalizationKey": "Welcome",
           "Reference": "Welcome",
-          "Target": ""
+          "Target": "Bienvenido"
         },
         {
           "LocalizationKey": "LongWelcomeMessage",
@@ -23,87 +23,87 @@
         {
           "LocalizationKey": "EndDate",
           "Reference": "End date",
-          "Target": ""
+          "Target": "Fecha final"
         },
         {
           "LocalizationKey": "StartDate",
           "Reference": "Start date",
-          "Target": ""
+          "Target": "Fecha inicial"
         },
         {
           "LocalizationKey": "Permission:Dashboard",
           "Reference": "Dashboard",
-          "Target": ""
+          "Target": "Tablero de control"
         },
         {
           "LocalizationKey": "Menu:Dashboard",
           "Reference": "Dashboard",
-          "Target": ""
+          "Target": "Tablero de control"
         },
         {
           "LocalizationKey": "Permission:Reservations",
           "Reference": "Reservations",
-          "Target": ""
+          "Target": "Reservaciones"
         },
         {
           "LocalizationKey": "Permission:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "Crear"
         },
         {
           "LocalizationKey": "Permission:Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "Permission:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "Reservations",
           "Reference": "Reservations",
-          "Target": ""
+          "Target": "Reservaciones"
         },
         {
           "LocalizationKey": "NewReservation",
           "Reference": "New Reservation",
-          "Target": ""
+          "Target": "Nueva reservacion"
         },
         {
           "LocalizationKey": "Actions",
           "Reference": "Actions",
-          "Target": ""
+          "Target": "Acciones"
         },
         {
           "LocalizationKey": "SuccessfullyDeleted",
           "Reference": "Successfully deleted",
-          "Target": ""
+          "Target": "Eliminado correctamente"
         },
         {
           "LocalizationKey": "DeleteConfirmationMessage",
           "Reference": "Are you sure you want to delete this record?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar este elemento?"
         },
         {
           "LocalizationKey": "Search",
           "Reference": "Search",
-          "Target": ""
+          "Target": "Buscar"
         },
         {
           "LocalizationKey": "CheckinDate",
           "Reference": "Checkin Date",
-          "Target": ""
+          "Target": "Fecha de registro"
         },
         {
           "LocalizationKey": "PersonCount",
           "Reference": "Person Count",
-          "Target": ""
+          "Target": "Recuento de personas"
         },
         {
           "LocalizationKey": "IsPaid",
           "Reference": "Is Paid",
-          "Target": ""
+          "Target": "Es de paga"
         },
         {
           "LocalizationKey": "DemoTenantConnectionStringCustomizationErrorMessage",
@@ -118,22 +118,22 @@
         {
           "LocalizationKey": "DemoLoginUserNameInfo",
           "Reference": "Use {0} as the username",
-          "Target": ""
+          "Target": "Use {0} como nombre de usuario"
         },
         {
           "LocalizationKey": "DemoLoginPasswordInfo",
           "Reference": "Use {0} as the password",
-          "Target": ""
+          "Target": "Use {0} como contraseña"
         },
         {
           "LocalizationKey": "Menu:Init",
           "Reference": "Initialize",
-          "Target": ""
+          "Target": "Inicializa"
         },
         {
           "LocalizationKey": "YourDemoIsBeingPrepared",
           "Reference": "Your demo is being prepared, please wait...",
-          "Target": ""
+          "Target": "Su version de prueba esta siendo preparada, por favor espere..."
         }
       ]
     },
@@ -143,142 +143,142 @@
         {
           "LocalizationKey": "Volo.Chat:010001",
           "Reference": "Message should not be empty!",
-          "Target": ""
+          "Target": "El mensage no puede estar vacio!"
         },
         {
           "LocalizationKey": "Volo.Chat:010002",
           "Reference": "Receiver user not found!",
-          "Target": ""
+          "Target": "Usuario receptor no encontrado!"
         },
         {
           "LocalizationKey": "Volo.Chat:010003",
           "Reference": "Other user not found!",
-          "Target": ""
+          "Target": "No se encontro el otro usuario!"
         },
         {
           "LocalizationKey": "Permission:Chat",
           "Reference": "Chat",
-          "Target": ""
+          "Target": "Chat"
         },
         {
           "LocalizationKey": "Permission:Messaging",
           "Reference": "Messaging",
-          "Target": ""
+          "Target": "Mensajeria"
         },
         {
           "LocalizationKey": "Feature:ChatGroup",
           "Reference": "Chat",
-          "Target": ""
+          "Target": "Chat"
         },
         {
           "LocalizationKey": "Feature:ChatEnable",
           "Reference": "Enable chat",
-          "Target": ""
+          "Target": "Activar chat"
         },
         {
           "LocalizationKey": "Feature:ChatEnableDescription",
           "Reference": "Enable messaging system in application.",
-          "Target": ""
+          "Target": "Activar sistema de mensajería en la aplicación"
         },
         {
           "LocalizationKey": "SearchInContacts",
           "Reference": "Search in Contacs...",
-          "Target": ""
+          "Target": "Buscar en contactos..."
         },
         {
           "LocalizationKey": "SendOnEnter",
           "Reference": "Send on enter",
-          "Target": ""
+          "Target": "Enviar al presionar enter"
         },
         {
           "LocalizationKey": "Send",
           "Reference": "Send",
-          "Target": ""
+          "Target": "Enviar"
         },
         {
           "LocalizationKey": "OtherContacts",
           "Reference": "OTHER CONTACTS",
-          "Target": ""
+          "Target": "OTROS CONTACTOS"
         },
         {
           "LocalizationKey": "TypeMessage",
           "Reference": "Type a message",
-          "Target": ""
+          "Target": "Escriba un mensaje"
         },
         {
           "LocalizationKey": "YouHave{0}UnreadMessages",
           "Reference": "You have {0} unread messages",
-          "Target": ""
+          "Target": "Tiene {0} mensajes sin leer"
         },
         {
           "LocalizationKey": "YouHaveAnUnreadMessage",
           "Reference": "You have an unread message",
-          "Target": ""
+          "Target": "Tiene un mensaje sin leer"
         },
         {
           "LocalizationKey": "NewChatMessage",
           "Reference": "New chat message",
-          "Target": ""
+          "Target": "Nuevo mensaje de chat"
         },
         {
           "LocalizationKey": "Jan",
           "Reference": "Jan",
-          "Target": ""
+          "Target": "Ene"
         },
         {
           "LocalizationKey": "Feb",
           "Reference": "Feb",
-          "Target": ""
+          "Target": "Feb"
         },
         {
           "LocalizationKey": "Mar",
           "Reference": "Mar",
-          "Target": ""
+          "Target": "Mar"
         },
         {
           "LocalizationKey": "Apr",
           "Reference": "Apr",
-          "Target": ""
+          "Target": "Abr"
         },
         {
           "LocalizationKey": "May",
           "Reference": "May",
-          "Target": ""
+          "Target": "May"
         },
         {
           "LocalizationKey": "Jun",
           "Reference": "Jun",
-          "Target": ""
+          "Target": "Jun"
         },
         {
           "LocalizationKey": "Jul",
           "Reference": "Jul",
-          "Target": ""
+          "Target": "Jul"
         },
         {
           "LocalizationKey": "Aug",
           "Reference": "Aug",
-          "Target": ""
+          "Target": "Ago"
         },
         {
           "LocalizationKey": "Sept",
           "Reference": "Sept",
-          "Target": ""
+          "Target": "Set"
         },
         {
           "LocalizationKey": "Oct",
           "Reference": "Oct",
-          "Target": ""
+          "Target": "Oct"
         },
         {
           "LocalizationKey": "Nov",
           "Reference": "Nov",
-          "Target": ""
+          "Target": "Nov"
         },
         {
           "LocalizationKey": "Dec",
           "Reference": "Dec",
-          "Target": ""
+          "Target": "Dic"
         }
       ]
     },
@@ -293,27 +293,27 @@
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "EmailAddress",
           "Reference": "E-mail Address",
-          "Target": ""
+          "Target": "Dirección de correo"
         },
         {
           "LocalizationKey": "YourMessage",
           "Reference": "Your Message",
-          "Target": ""
+          "Target": "Su Mensaje"
         },
         {
           "LocalizationKey": "SendMessage",
           "Reference": "Send Message",
-          "Target": ""
+          "Target": "Enviar Mensaje"
         },
         {
           "LocalizationKey": "YourFullName",
           "Reference": "Your full name",
-          "Target": ""
+          "Target": "Su nombre completo"
         },
         {
           "LocalizationKey": "YourEmailAddress",
@@ -328,67 +328,67 @@
         {
           "LocalizationKey": "ContactSuccess",
           "Reference": "Your message has been sent successfully.",
-          "Target": ""
+          "Target": "Su mensaje ha sido envido correctamente."
         },
         {
           "LocalizationKey": "Message",
           "Reference": "Message",
-          "Target": ""
+          "Target": "Mensaje"
         },
         {
           "LocalizationKey": "CreationTime",
           "Reference": "Creation Time",
-          "Target": ""
+          "Target": "Fecha de creación"
         },
         {
           "LocalizationKey": "Details",
           "Reference": "Details",
-          "Target": ""
+          "Target": "Detalles"
         },
         {
           "LocalizationKey": "Preference",
           "Reference": "Preference",
-          "Target": ""
+          "Target": "Configuración"
         },
         {
           "LocalizationKey": "Source",
           "Reference": "Source",
-          "Target": ""
+          "Target": "Origen"
         },
         {
           "LocalizationKey": "ExportCSV",
           "Reference": "Export CSV",
-          "Target": ""
+          "Target": "Exportar CSV"
         },
         {
           "LocalizationKey": "Newsletters",
           "Reference": "Newsletters",
-          "Target": ""
+          "Target": "Noticias"
         },
         {
           "LocalizationKey": "SourceUrl",
           "Reference": "Source Url",
-          "Target": ""
+          "Target": "Url origen"
         },
         {
           "LocalizationKey": "Detail",
           "Reference": "Detail",
-          "Target": ""
+          "Target": "Detalle"
         },
         {
           "LocalizationKey": "NewsletterSuccessMessage",
           "Reference": "Thank you",
-          "Target": ""
+          "Target": "Gracias"
         },
         {
           "LocalizationKey": "Subject",
           "Reference": "Subject",
-          "Target": ""
+          "Target": "Cuerpo"
         },
         {
           "LocalizationKey": "SubjectPlaceholder",
           "Reference": "Please type a subject",
-          "Target": ""
+          "Target": "Por favor escriba el cuerpo"
         },
         {
           "LocalizationKey": "EmailToException",
@@ -398,32 +398,32 @@
         {
           "LocalizationKey": "ChoosePreference",
           "Reference": "Choose Preference...",
-          "Target": ""
+          "Target": "Seleccione configuracion..."
         },
         {
           "LocalizationKey": "Permission:CmsKit",
           "Reference": "CmsKit",
-          "Target": ""
+          "Target": "CmsKit"
         },
         {
           "LocalizationKey": "Permission:NewsletterManagement",
           "Reference": "Newsletter Management",
-          "Target": ""
+          "Target": "Administracion de noticias"
         },
         {
           "LocalizationKey": "UpdateYourEmailPreferences",
           "Reference": "Update your email preferences",
-          "Target": ""
+          "Target": "Actualizar sus configuraciones de correo"
         },
         {
           "LocalizationKey": "SelectAll",
           "Reference": "Select All",
-          "Target": ""
+          "Target": "Seleccionar todo"
         },
         {
           "LocalizationKey": "SaveChanges",
           "Reference": "Save Changes",
-          "Target": ""
+          "Target": "Guardar Cambios"
         },
         {
           "LocalizationKey": "EmailAddressPermissionManagement",
@@ -438,22 +438,22 @@
         {
           "LocalizationKey": "Subscribe",
           "Reference": "Subscribe",
-          "Target": ""
+          "Target": "Suscribir"
         },
         {
           "LocalizationKey": "UpdatePreferenceSuccessMessage",
           "Reference": "Your preferences have been saved.",
-          "Target": ""
+          "Target": "Sus configuraciones han sido guardados."
         },
         {
           "LocalizationKey": "NewsletterEmailTitle",
           "Reference": "Thank you for subscribing!",
-          "Target": ""
+          "Target": "Gracias por suscribirse!"
         },
         {
           "LocalizationKey": "NewsletterEmailMessage",
           "Reference": "We are happy that you have chosen us.",
-          "Target": ""
+          "Target": "Estamos contentos que nos haya elegido."
         },
         {
           "LocalizationKey": "NewsletterEmailFooterTemplateTitle",
@@ -468,17 +468,17 @@
         {
           "LocalizationKey": "NewsletterEmailFooterTemplateManageEmail",
           "Reference": "You can manage email preferences.",
-          "Target": ""
+          "Target": "Usted puede administrar preferencias de correo."
         },
         {
           "LocalizationKey": "NewsletterEmailFooterUpdateTemplateMessage",
           "Reference": "Your email preferences have been updated successfully.",
-          "Target": ""
+          "Target": "Sus configuraciones de email han sido actualizadas exitosamente."
         },
         {
           "LocalizationKey": "NewsletterUpdatePreferenceTitle",
           "Reference": "Email Preferences",
-          "Target": ""
+          "Target": "Configuracion de correo electronico"
         },
         {
           "LocalizationKey": "NewsletterUpdatePreferenceMessage",
@@ -488,17 +488,17 @@
         {
           "LocalizationKey": "UpdatePreference",
           "Reference": "Update Preference",
-          "Target": ""
+          "Target": "Actualizar Configuracion"
         },
         {
           "LocalizationKey": "Cms",
           "Reference": "Cms",
-          "Target": ""
+          "Target": "Cms"
         },
         {
           "LocalizationKey": "NewsletterDeleteSubscriptionTitle",
           "Reference": "Your request has been received.",
-          "Target": ""
+          "Target": "Su peticion ha sido recevida."
         },
         {
           "LocalizationKey": "NewsletterDeleteSubscriptionMessage",
@@ -508,12 +508,12 @@
         {
           "LocalizationKey": "DeleteSubscriptionSubject",
           "Reference": "Delete E-mail Address",
-          "Target": ""
+          "Target": "Eliminar dirección de correo"
         },
         {
           "LocalizationKey": "ThankYou",
           "Reference": "Thank you",
-          "Target": ""
+          "Target": "Gracias"
         },
         {
           "LocalizationKey": "NewsletterEmailUnsubscriptionMessage",
@@ -523,12 +523,12 @@
         {
           "LocalizationKey": "IHaveReadThe",
           "Reference": "I have read the",
-          "Target": ""
+          "Target": "He leido el"
         },
         {
           "LocalizationKey": "PrivacyPolicy",
           "Reference": "Privacy Policy",
-          "Target": ""
+          "Target": "Politica de privacidad"
         },
         {
           "LocalizationKey": "AndUnderstandThatICanUnsubscribeAtAnyTime",
@@ -543,7 +543,7 @@
         {
           "LocalizationKey": "OK",
           "Reference": "OK",
-          "Target": ""
+          "Target": "Ok"
         },
         {
           "LocalizationKey": "DoYouPreferAdditionalEmails",
@@ -558,17 +558,17 @@
         {
           "LocalizationKey": "FileManagement:0001",
           "Reference": "'{DirectoryName}' is not a valid folder name for a folder.",
-          "Target": ""
+          "Target": "'{DirectoryName}' no es un nombre valido para un folder."
         },
         {
           "LocalizationKey": "FileManagement:0002",
           "Reference": "'{FileName}' is not a valid file name.",
-          "Target": ""
+          "Target": "'{FileName}' no es un nombre valido para un archivo."
         },
         {
           "LocalizationKey": "FileManagement:0003",
           "Reference": "Already exists a folder with the name '{DirectoryName}'",
-          "Target": ""
+          "Target": "Ya existe un folder con el nombre '{DirectoryName}'"
         },
         {
           "LocalizationKey": "FileManagement:0004",
@@ -578,12 +578,12 @@
         {
           "LocalizationKey": "FileManagement:0005",
           "Reference": "Already exists a file with the name '{FileName}'",
-          "Target": ""
+          "Target": "Ya existe un archivo con el nombre '{FileName}'"
         },
         {
           "LocalizationKey": "FileManagement:0006",
           "Reference": "Directory not found!",
-          "Target": ""
+          "Target": "Directorio no encontrado!"
         },
         {
           "LocalizationKey": "FileManagement:0007",
@@ -598,187 +598,187 @@
         {
           "LocalizationKey": "Menu:FileManagement",
           "Reference": "File Management",
-          "Target": ""
+          "Target": "Administración de archivos"
         },
         {
           "LocalizationKey": "Permission:FileManagement",
           "Reference": "File Management",
-          "Target": ""
+          "Target": "Administración de archivos"
         },
         {
           "LocalizationKey": "Permission:FileManagement:Directory",
           "Reference": "Directory",
-          "Target": ""
+          "Target": "Directorio"
         },
         {
           "LocalizationKey": "Permission:FileManagement:Directory:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "Crear"
         },
         {
           "LocalizationKey": "Permission:FileManagement:Directory:Update",
           "Reference": "Update",
-          "Target": ""
+          "Target": "Actualizar"
         },
         {
           "LocalizationKey": "Permission:FileManagement:Directory:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "Permission:FileManagement:File",
           "Reference": "File",
-          "Target": ""
+          "Target": "Archivo"
         },
         {
           "LocalizationKey": "Permission:FileManagement:File:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "Crear"
         },
         {
           "LocalizationKey": "Permission:FileManagement:File:Update",
           "Reference": "Update",
-          "Target": ""
+          "Target": "Actualizar"
         },
         {
           "LocalizationKey": "Permission:FileManagement:File:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "Feature:FileManagementGroup",
           "Reference": "File Management",
-          "Target": ""
+          "Target": "Administración de archivos"
         },
         {
           "LocalizationKey": "Feature:FileManagementEnable",
           "Reference": "Enable file management",
-          "Target": ""
+          "Target": "Activar administración de archivos"
         },
         {
           "LocalizationKey": "Feature:FileManagementEnableDescription",
           "Reference": "Enable file management system in the application.",
-          "Target": ""
+          "Target": "Activar sistema de administración de archivos en la aplicación."
         },
         {
           "LocalizationKey": "Feature:FileManagementStorageSize",
           "Reference": "Storage size",
-          "Target": ""
+          "Target": "Tamaño de almacenamiento"
         },
         {
           "LocalizationKey": "Feature:FileManagementStorageSizeDescription",
           "Reference": "Set maximum storage size in bytes. Zero or null will be unlimited.",
-          "Target": ""
+          "Target": "Establecer tamaño maximo de almacenamiento en bytes. Cero o null para ilimitado."
         },
         {
           "LocalizationKey": "Open",
           "Reference": "Open",
-          "Target": ""
+          "Target": "Abrir"
         },
         {
           "LocalizationKey": "Type",
           "Reference": "Type",
-          "Target": ""
+          "Target": "Tipo"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "Rename",
           "Reference": "Rename",
-          "Target": ""
+          "Target": "Cambiar nombre"
         },
         {
           "LocalizationKey": "CurrentName",
           "Reference": "Current Name",
-          "Target": ""
+          "Target": "Nombre actual"
         },
         {
           "LocalizationKey": "DirectoryDeleteConfirmationMessage",
           "Reference": "This directory and all contents will be deleted, you cannot revert this action.",
-          "Target": ""
+          "Target": "Este direcorio y todo su contenido será eliminado, no puede revertir esta accion."
         },
         {
           "LocalizationKey": "FileDeleteConfirmationMessage",
           "Reference": "File will be deleted, you cannot revert this action.",
-          "Target": ""
+          "Target": "El archivo sera eliminado, no puede revertir esta acción."
         },
         {
           "LocalizationKey": "SuccessfullyDeleted",
           "Reference": "Successfully deleted.",
-          "Target": ""
+          "Target": "Eliminado con exito."
         },
         {
           "LocalizationKey": "Download",
           "Reference": "Downlad",
-          "Target": ""
+          "Target": "Descargar"
         },
         {
           "LocalizationKey": "CantDownloadFolderDescription",
           "Reference": "You can not download the folder.",
-          "Target": ""
+          "Target": "No puede descargar el folder."
         },
         {
           "LocalizationKey": "CreateFolder",
           "Reference": "Create Folder",
-          "Target": ""
+          "Target": "Crear folder"
         },
         {
           "LocalizationKey": "UploadFiles",
           "Reference": "Upload Files",
-          "Target": ""
+          "Target": "Supir archivos"
         },
         {
           "LocalizationKey": "Root",
           "Reference": "Root",
-          "Target": ""
+          "Target": "Raiz"
         },
         {
           "LocalizationKey": "ThereIsNoDirectory",
           "Reference": "There is no directory.",
-          "Target": ""
+          "Target": "Esto no es un directorio."
         },
         {
           "LocalizationKey": "AreYouSure",
           "Reference": "Are you sure?",
-          "Target": ""
+          "Target": "Esta seguro?"
         },
         {
           "LocalizationKey": "DirectoryMoveConfirmMessage",
           "Reference": "Are you sure you want to move the {0} folder to under {1}?",
-          "Target": ""
+          "Target": "Esta seguro que desea mover folder {0} a {1}?"
         },
         {
           "LocalizationKey": "SuccessfullyMoved",
           "Reference": "Succesfully moved.",
-          "Target": ""
+          "Target": "Movido exitosamente."
         },
         {
           "LocalizationKey": "Move",
           "Reference": "Move",
-          "Target": ""
+          "Target": "Mover"
         },
         {
           "LocalizationKey": "MoveToUnder",
           "Reference": "Move to under",
-          "Target": ""
+          "Target": "Mover debajo"
         },
         {
           "LocalizationKey": "FileName",
           "Reference": "File Name",
-          "Target": ""
+          "Target": "Nombre de archivo"
         },
         {
           "LocalizationKey": "NotValidName",
           "Reference": "'{0}' is not valid name.",
-          "Target": ""
+          "Target": "'{0}' no es un nombre valido."
         },
         {
           "LocalizationKey": "AlreadyExist",
           "Reference": "'{0}' is alread exist.",
-          "Target": ""
+          "Target": "'{0}' ya existe."
         },
         {
           "LocalizationKey": "NotMovableToUnderChild",
@@ -788,47 +788,47 @@
         {
           "LocalizationKey": "GoUpFolder",
           "Reference": "Go Up Folder",
-          "Target": ""
+          "Target": "Ir un folder arriba"
         },
         {
           "LocalizationKey": "AllFiles",
           "Reference": "All files",
-          "Target": ""
+          "Target": "Todos los archivos"
         },
         {
           "LocalizationKey": "Filter",
           "Reference": "Filter",
-          "Target": ""
+          "Target": "Buscar"
         },
         {
           "LocalizationKey": "MoveHere",
           "Reference": "Move here",
-          "Target": ""
+          "Target": "Mover aquí"
         },
         {
           "LocalizationKey": "FilesWillBeOverrided",
           "Reference": "{0} files already exists. The files will be overrided.",
-          "Target": ""
+          "Target": "{0} archivos ya existen. Los archivos seran sobreescritos"
         },
         {
           "LocalizationKey": "NotValidFileNames",
           "Reference": "{0} file name(s) are not valid.",
-          "Target": ""
+          "Target": "{0} nombre de archivo(s) no son validos."
         },
         {
           "LocalizationKey": "FilesAlreadyExist",
           "Reference": "Some selected files already exists.",
-          "Target": ""
+          "Target": "Algunos archivos seleccionados ya existen."
         },
         {
           "LocalizationKey": "CloseModal",
           "Reference": "Close Modal",
-          "Target": ""
+          "Target": "Cerrar modal"
         },
         {
           "LocalizationKey": "AddMoreFiles",
           "Reference": "Add more files",
-          "Target": ""
+          "Target": "Agregar mas archivos"
         },
         {
           "LocalizationKey": "AddingMoreFiles",
@@ -838,7 +838,7 @@
         {
           "LocalizationKey": "ImportFrom",
           "Reference": "Import from %{name}",
-          "Target": ""
+          "Target": "Importar de %{name}"
         },
         {
           "LocalizationKey": "DashboardWindowTitle",
@@ -848,12 +848,12 @@
         {
           "LocalizationKey": "DashboardTitle",
           "Reference": "File Upload Dashboard",
-          "Target": ""
+          "Target": "Panel de subida de archivo"
         },
         {
           "LocalizationKey": "CopyLinkToClipboardSuccess",
           "Reference": "Link copied to clipboard.",
-          "Target": ""
+          "Target": "Enlace copiado al portapapeles."
         },
         {
           "LocalizationKey": "CopyLinkToClipboardFallback",
@@ -863,32 +863,32 @@
         {
           "LocalizationKey": "CopyLink",
           "Reference": "Copy link",
-          "Target": ""
+          "Target": "Copiar enlace"
         },
         {
           "LocalizationKey": "FileSource",
           "Reference": "File source: %{name}",
-          "Target": ""
+          "Target": "Origen de archivo %{name}"
         },
         {
           "LocalizationKey": "Done",
           "Reference": "Done",
-          "Target": ""
+          "Target": "Hecho"
         },
         {
           "LocalizationKey": "Back",
           "Reference": "Back",
-          "Target": ""
+          "Target": "Atras"
         },
         {
           "LocalizationKey": "RemoveFile",
           "Reference": "Remove file",
-          "Target": ""
+          "Target": "Remover archivo"
         },
         {
           "LocalizationKey": "EditFile",
           "Reference": "Edit file",
-          "Target": ""
+          "Target": "Editar archivo"
         },
         {
           "LocalizationKey": "Editing",
@@ -898,7 +898,7 @@
         {
           "LocalizationKey": "Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "FinishEditingFile",
@@ -908,12 +908,12 @@
         {
           "LocalizationKey": "SaveChanges",
           "Reference": "Save changes",
-          "Target": ""
+          "Target": "Guardar cambios"
         },
         {
           "LocalizationKey": "MyDevice",
           "Reference": "My Device",
-          "Target": ""
+          "Target": "Mi dispositivo"
         },
         {
           "LocalizationKey": "DropPasteImport",
@@ -933,37 +933,37 @@
         {
           "LocalizationKey": "Browse",
           "Reference": "browse",
-          "Target": ""
+          "Target": "Explorar"
         },
         {
           "LocalizationKey": "UploadComplete",
           "Reference": "Upload complete",
-          "Target": ""
+          "Target": "Terminado de subir"
         },
         {
           "LocalizationKey": "UploadPaused",
           "Reference": "Upload paused",
-          "Target": ""
+          "Target": "Subida pausada"
         },
         {
           "LocalizationKey": "ResumeUpload",
           "Reference": "Resume upload",
-          "Target": ""
+          "Target": "Continuar subida"
         },
         {
           "LocalizationKey": "PauseUpload",
           "Reference": "Pause upload",
-          "Target": ""
+          "Target": "Pausar subida"
         },
         {
           "LocalizationKey": "RetryUpload",
           "Reference": "Retry upload",
-          "Target": ""
+          "Target": "Volver a subir"
         },
         {
           "LocalizationKey": "CancelUpload",
           "Reference": "Cancel upload",
-          "Target": ""
+          "Target": "Cancelar subida"
         },
         {
           "LocalizationKey": "FileSelected",
@@ -998,32 +998,32 @@
         {
           "LocalizationKey": "Uploading",
           "Reference": "Uploading",
-          "Target": ""
+          "Target": "Subiendo"
         },
         {
           "LocalizationKey": "Complete",
           "Reference": "Complete",
-          "Target": ""
+          "Target": "Completado"
         },
         {
           "LocalizationKey": "UploadFailed",
           "Reference": "Upload failed",
-          "Target": ""
+          "Target": "Fallo la subida"
         },
         {
           "LocalizationKey": "Paused",
           "Reference": "Paused",
-          "Target": ""
+          "Target": "Pausado"
         },
         {
           "LocalizationKey": "Retry",
           "Reference": "Retry",
-          "Target": ""
+          "Target": "Volver a intentar"
         },
         {
           "LocalizationKey": "Cancel",
           "Reference": "Cancel",
-          "Target": ""
+          "Target": "Cancelar"
         },
         {
           "LocalizationKey": "FileUploadedOfTotal",
@@ -1038,7 +1038,7 @@
         {
           "LocalizationKey": "DataUploadedOfTotal",
           "Reference": "%{complete} of %{total}",
-          "Target": ""
+          "Target": "%{complete} de %{total}"
         },
         {
           "LocalizationKey": "XTimeLeft",
@@ -1083,72 +1083,72 @@
         {
           "LocalizationKey": "SamplePageMessage",
           "Reference": "A sample page for the Forms module",
-          "Target": ""
+          "Target": "Ejemplo de página para modulo de formulario"
         },
         {
           "LocalizationKey": "Permission:Forms",
           "Reference": "Forms",
-          "Target": ""
+          "Target": "Formulario"
         },
         {
           "LocalizationKey": "Permission:Forms.Management",
           "Reference": "Form management",
-          "Target": ""
+          "Target": "Administración de formulario"
         },
         {
           "LocalizationKey": "Permission:Forms:Form.Create",
           "Reference": "Creating new form",
-          "Target": ""
+          "Target": "Crear nuevo formulario"
         },
         {
           "LocalizationKey": "Permission:Forms:Form.Edit",
           "Reference": "Editing the form",
-          "Target": ""
+          "Target": "Editar el formulario"
         },
         {
           "LocalizationKey": "Permission:Forms:Form.Delete",
           "Reference": "Deleting the form",
-          "Target": ""
+          "Target": "Eliminar el formulario"
         },
         {
           "LocalizationKey": "Permission:Forms.Question.Management",
           "Reference": "Question management",
-          "Target": ""
+          "Target": "Administración de preguntas"
         },
         {
           "LocalizationKey": "Permission:Forms:Question.Create",
           "Reference": "Creating new question",
-          "Target": ""
+          "Target": "Crar nueva pregunta"
         },
         {
           "LocalizationKey": "Permission:Forms:Question.Edit",
           "Reference": "Editing question",
-          "Target": ""
+          "Target": "Editar pregunta"
         },
         {
           "LocalizationKey": "Permission:Forms:Question.Delete",
           "Reference": "Deleting question",
-          "Target": ""
+          "Target": "Eliminar pregunta"
         },
         {
           "LocalizationKey": "Permission:Forms:Response",
           "Reference": "Form responses",
-          "Target": ""
+          "Target": "Respuestas de formulario"
         },
         {
           "LocalizationKey": "Menu:Forms",
           "Reference": "Forms",
-          "Target": ""
+          "Target": "Formularios"
         },
         {
           "LocalizationKey": "Menu:Questions",
           "Reference": "Questions",
-          "Target": ""
+          "Target": "Preguntas"
         },
         {
           "LocalizationKey": "Menu:Forms.Management",
           "Reference": "Forms Management",
-          "Target": ""
+          "Target": "Administración de formularios"
         },
         {
           "LocalizationKey": "Menu:Forms.Responded",
@@ -1158,12 +1158,12 @@
         {
           "LocalizationKey": "Menu:NewForm",
           "Reference": "Create New Form",
-          "Target": ""
+          "Target": "Crear nuevo formulario"
         },
         {
           "LocalizationKey": "FormDeletionConfirmationMessage",
           "Reference": "Form will be deleted with all the questions in it, do you confirm?",
-          "Target": ""
+          "Target": "El formulario sera eliminado y todas su preguntas con este, confirma la eliminacion?"
         },
         {
           "LocalizationKey": "FormDeletedMessage{0}",
@@ -1198,37 +1198,37 @@
         {
           "LocalizationKey": "Form:SendFormHeader",
           "Reference": "Send form",
-          "Target": ""
+          "Target": "Enviar formulario"
         },
         {
           "LocalizationKey": "Form:SendFormCopiedToClipboard",
           "Reference": "Copied to clipboard.",
-          "Target": ""
+          "Target": "Copiado al portapapeles."
         },
         {
           "LocalizationKey": "Form:Submit",
           "Reference": "Submit",
-          "Target": ""
+          "Target": "Enviar"
         },
         {
           "LocalizationKey": "Form:Update",
           "Reference": "Update",
-          "Target": ""
+          "Target": "Actualizar"
         },
         {
           "LocalizationKey": "Form:SubmitNewAnswer",
           "Reference": "Submit new answer",
-          "Target": ""
+          "Target": "Enviar nueva respuesta"
         },
         {
           "LocalizationKey": "FormSettings:Edit",
           "Reference": "Edit form settings",
-          "Target": ""
+          "Target": "Editar configuración de formulario"
         },
         {
           "LocalizationKey": "Form:EditYourResponse",
           "Reference": "Edit your response",
-          "Target": ""
+          "Target": "Editar su respuesta"
         },
         {
           "LocalizationKey": "FormSettings:IsAcceptingResponses",
@@ -1248,127 +1248,127 @@
         {
           "LocalizationKey": "FormSettings:RequiresLogin",
           "Reference": "Requires login",
-          "Target": ""
+          "Target": "Requiere inicio de sesión"
         },
         {
           "LocalizationKey": "FormSettings:HasLimitOneResponsePerUser",
           "Reference": "Has limit one response per user",
-          "Target": ""
+          "Target": "Tiene limite de una respuesta por usuario"
         },
         {
           "LocalizationKey": "FormSettings:CanEditResponse",
           "Reference": "Can edit after submit",
-          "Target": ""
+          "Target": "Puede edutar despues de enviar"
         },
         {
           "LocalizationKey": "FormSettings:Form",
           "Reference": "Form",
-          "Target": ""
+          "Target": "Formulario"
         },
         {
           "LocalizationKey": "FormSettings:FormIs",
           "Reference": "Form is",
-          "Target": ""
+          "Target": "El formulario es"
         },
         {
           "LocalizationKey": "FormSettings:Respondents",
           "Reference": "Respondents",
-          "Target": ""
+          "Target": "0"
         },
         {
           "LocalizationKey": "Answer:RequiredQuestion",
           "Reference": "This is a required question",
-          "Target": ""
+          "Target": "Esta es una pregunta requerida"
         },
         {
           "LocalizationKey": "Answer:RequiredField",
           "Reference": "This is a required field",
-          "Target": ""
+          "Target": "Este es un campo requerido"
         },
         {
           "LocalizationKey": "Answer:AnswerPlaceholder",
           "Reference": "Your answer",
-          "Target": ""
+          "Target": "Su respuesta"
         },
         {
           "LocalizationKey": "QuestionType:ShortText",
           "Reference": "Short answer",
-          "Target": ""
+          "Target": "Respuesta corta"
         },
         {
           "LocalizationKey": "QuestionType:ParagraphText",
           "Reference": "Paragraph",
-          "Target": ""
+          "Target": "El parrafo"
         },
         {
           "LocalizationKey": "QuestionType:ChoiceMultiple",
           "Reference": "Multiple choice",
-          "Target": ""
+          "Target": "Opción multiple"
         },
         {
           "LocalizationKey": "QuestionType:Checkbox",
           "Reference": "Checkboxes",
-          "Target": ""
+          "Target": "Casilla de verificación"
         },
         {
           "LocalizationKey": "QuestionType:DropdownList",
           "Reference": "Dropdown",
-          "Target": ""
+          "Target": "Desplegable"
         },
         {
           "LocalizationKey": "QuestionType:Scale",
           "Reference": "Linear scale",
-          "Target": ""
+          "Target": "Escala lineal"
         },
         {
           "LocalizationKey": "QuestionType:ChoiceGrid",
           "Reference": "Multiple choice grid",
-          "Target": ""
+          "Target": "Cuadricula de opción multiple"
         },
         {
           "LocalizationKey": "QuestionType:CheckboxGrid",
           "Reference": "Checkbox grid",
-          "Target": ""
+          "Target": "Casilla de verificacion en regilla"
         },
         {
           "LocalizationKey": "Menu:FormName",
           "Reference": "Form name",
-          "Target": ""
+          "Target": "Nombre de formulario"
         },
         {
           "LocalizationKey": "Menu:RespondedAt",
           "Reference": "Responded At",
-          "Target": ""
+          "Target": "Respondio a"
         },
         {
           "LocalizationKey": "Menu:ResponseStatus",
           "Reference": "Response Status",
-          "Target": ""
+          "Target": "Estado de respuesta"
         },
         {
           "LocalizationKey": "Menu:GotoFormView",
           "Reference": "Form View",
-          "Target": ""
+          "Target": "Vista formulario"
         },
         {
           "LocalizationKey": "Enum:FormResponseStatus:0",
           "Reference": "Draft",
-          "Target": ""
+          "Target": "Borrador"
         },
         {
           "LocalizationKey": "Enum:FormResponseStatus:1",
           "Reference": "In Progress",
-          "Target": ""
+          "Target": "En progreso"
         },
         {
           "LocalizationKey": "Enum:FormResponseStatus:2",
           "Reference": "Submitted",
-          "Target": ""
+          "Target": "Enviado"
         },
         {
           "LocalizationKey": "Enum:FormResponseStatus:3",
           "Reference": "Completed",
-          "Target": ""
+          "Target": "Completado"
         }
       ]
     },
@@ -1418,47 +1418,47 @@
         {
           "LocalizationKey": "Permission:QuestionAndAnswer",
           "Reference": "Question & Answer",
-          "Target": ""
+          "Target": "Preguntas y respuestas"
         },
         {
           "LocalizationKey": "Permission:QaOrganizationManagement",
           "Reference": "Organization management",
-          "Target": ""
+          "Target": "Administracion de organización"
         },
         {
           "LocalizationKey": "Permission:Organizations:Create",
           "Reference": "Add organization",
-          "Target": ""
+          "Target": "Agregar organización"
         },
         {
           "LocalizationKey": "Permission:Organizations:Edit",
           "Reference": "Edit organization",
-          "Target": ""
+          "Target": "Editar organización"
         },
         {
           "LocalizationKey": "Permission:Organizations:Delete",
           "Reference": "Delete organization",
-          "Target": ""
+          "Target": "Eliminar organización"
         },
         {
           "LocalizationKey": "Permission:Organizations:AddMember",
           "Reference": "Add member",
-          "Target": ""
+          "Target": "Agregar miembro"
         },
         {
           "LocalizationKey": "Permission:Organizations:RemoveMember",
           "Reference": "Remove member",
-          "Target": ""
+          "Target": "Remover miembro"
         },
         {
           "LocalizationKey": "Permission:User",
           "Reference": "Users",
-          "Target": ""
+          "Target": "Usuarios"
         },
         {
           "LocalizationKey": "Permission:Users:Edit",
           "Reference": "Edit user",
-          "Target": ""
+          "Target": "Editar usuario"
         }
       ]
     },
@@ -1468,72 +1468,72 @@
         {
           "LocalizationKey": "Permission:QuestionAndAnswer",
           "Reference": "Question & Answer",
-          "Target": ""
+          "Target": "Preguntas y respuestas"
         },
         {
           "LocalizationKey": "Permission:QuestionManagement",
           "Reference": "Question management",
-          "Target": ""
+          "Target": "Administración de Preguntas"
         },
         {
           "LocalizationKey": "Permission:Questions:Create",
           "Reference": "Ask new question",
-          "Target": ""
+          "Target": "Realizar nueva pregunta"
         },
         {
           "LocalizationKey": "Permission:Questions:Edit",
           "Reference": "Edit question",
-          "Target": ""
+          "Target": "Editar pregunta"
         },
         {
           "LocalizationKey": "Permission:Questions:Delete",
           "Reference": "Delete question",
-          "Target": ""
+          "Target": "Eliminar pregunta"
         },
         {
           "LocalizationKey": "Permission:Questions:AssignToUser",
           "Reference": "Assign question to user",
-          "Target": ""
+          "Target": "Asignar pregunta a usuario"
         },
         {
           "LocalizationKey": "Permission:Questions:Subscription",
           "Reference": "Subscribe to question",
-          "Target": ""
+          "Target": "Suscribirse a la pregunta"
         },
         {
           "LocalizationKey": "Permission:Questions:Template",
           "Reference": "Edit question template",
-          "Target": ""
+          "Target": "Editar plantilla de pregunta"
         },
         {
           "LocalizationKey": "Permission:Questions:Pinned",
           "Reference": "Pin question",
-          "Target": ""
+          "Target": "Anclar pregunta"
         },
         {
           "LocalizationKey": "Permission:Questions:Lock",
           "Reference": "Lock question",
-          "Target": ""
+          "Target": "Bloquear pregunta"
         },
         {
           "LocalizationKey": "Permission:AnswerManagement",
           "Reference": "Answer management",
-          "Target": ""
+          "Target": "Administración de respuesta"
         },
         {
           "LocalizationKey": "Permission:Answers:Create",
           "Reference": "Add answer",
-          "Target": ""
+          "Target": "Agregar respuesta"
         },
         {
           "LocalizationKey": "Permission:Answers:Edit",
           "Reference": "Edit answer",
-          "Target": ""
+          "Target": "Editar respuesta"
         },
         {
           "LocalizationKey": "Permission:Answers:Delete",
           "Reference": "Delete answer",
-          "Target": ""
+          "Target": "Eliminar respuesta"
         }
       ]
     },
@@ -1558,22 +1558,22 @@
         {
           "LocalizationKey": "Close",
           "Reference": "Close",
-          "Target": ""
+          "Target": "Cerrar"
         },
         {
           "LocalizationKey": "Closed",
           "Reference": "Closed",
-          "Target": ""
+          "Target": "Cerrado"
         },
         {
           "LocalizationKey": "Open",
           "Reference": "Open",
-          "Target": ""
+          "Target": "Abierto"
         },
         {
           "LocalizationKey": "ReOpen",
           "Reference": "Reopen",
-          "Target": ""
+          "Target": "Volver a abrir"
         },
         {
           "LocalizationKey": "ReOpenAndAnswer",
@@ -1588,7 +1588,7 @@
         {
           "LocalizationKey": "Questions",
           "Reference": "Questions",
-          "Target": ""
+          "Target": "Preguntas"
         },
         {
           "LocalizationKey": "QuestionCount",
@@ -1598,22 +1598,22 @@
         {
           "LocalizationKey": "Search",
           "Reference": "Search",
-          "Target": ""
+          "Target": "Buscar"
         },
         {
           "LocalizationKey": "SupportTeam",
           "Reference": "Support Team",
-          "Target": ""
+          "Target": "Equipo de soporte"
         },
         {
           "LocalizationKey": "Subscribe",
           "Reference": "Subscribe",
-          "Target": ""
+          "Target": "Suscribirs"
         },
         {
           "LocalizationKey": "Unsubscribe",
           "Reference": "Unsubscribe",
-          "Target": ""
+          "Target": "Dessuscribir"
         },
         {
           "LocalizationKey": "SubscribeInfoText",
@@ -1623,12 +1623,12 @@
         {
           "LocalizationKey": "Pin",
           "Reference": "Pin the question",
-          "Target": ""
+          "Target": "Anclar la pregunta"
         },
         {
           "LocalizationKey": "UnPin",
           "Reference": "Unpin the question",
-          "Target": ""
+          "Target": "Desanclar la pregunta"
         },
         {
           "LocalizationKey": "PinInfoText",
@@ -1638,12 +1638,12 @@
         {
           "LocalizationKey": "Lock",
           "Reference": "Lock the question",
-          "Target": ""
+          "Target": "Bloquear la pregunta"
         },
         {
           "LocalizationKey": "Unlock",
           "Reference": "Unlock the question",
-          "Target": ""
+          "Target": "Desbloquear la pregunta"
         },
         {
           "LocalizationKey": "QuestionLockedMessage",
@@ -1658,17 +1658,17 @@
         {
           "LocalizationKey": "Creator",
           "Reference": "Creator",
-          "Target": ""
+          "Target": "Creador"
         },
         {
           "LocalizationKey": "ClearSelections",
           "Reference": "Clear selections",
-          "Target": ""
+          "Target": "Limpiar selecciones"
         },
         {
           "LocalizationKey": "All",
           "Reference": "All",
-          "Target": ""
+          "Target": "Todo"
         },
         {
           "LocalizationKey": "AssignToMe",
@@ -1678,12 +1678,12 @@
         {
           "LocalizationKey": "AssignedToMe",
           "Reference": "Assigned to me",
-          "Target": ""
+          "Target": "Asignado a mi"
         },
         {
           "LocalizationKey": "CreatedByMe",
           "Reference": "Created By me",
-          "Target": ""
+          "Target": "Creado por mi"
         },
         {
           "LocalizationKey": "NoOne",
@@ -1698,17 +1698,17 @@
         {
           "LocalizationKey": "LoginToYourAccount",
           "Reference": "Log in",
-          "Target": ""
+          "Target": "Iniciar sesión"
         },
         {
           "LocalizationKey": "AndWriteYourAnswer",
           "Reference": "and write your answer.",
-          "Target": ""
+          "Target": "y escribe tu respuesta."
         },
         {
           "LocalizationKey": "Created",
           "Reference": "created",
-          "Target": ""
+          "Target": "Creado"
         },
         {
           "LocalizationKey": "NoAnswerYet",
@@ -1718,77 +1718,77 @@
         {
           "LocalizationKey": "CreatedBy",
           "Reference": "created by {0}",
-          "Target": ""
+          "Target": "creado por {0}"
         },
         {
           "LocalizationKey": "Reopened",
           "Reference": "reopened",
-          "Target": ""
+          "Target": "voler a abrir"
         },
         {
           "LocalizationKey": "DidClosed",
           "Reference": "closed",
-          "Target": ""
+          "Target": "cerrado"
         },
         {
           "LocalizationKey": "AssignedTo",
           "Reference": "assigned to {0}",
-          "Target": ""
+          "Target": "asignado a {0}"
         },
         {
           "LocalizationKey": "NoMatchingQuestion",
           "Reference": "No questions found!",
-          "Target": ""
+          "Target": "No se encontraron preguntas!"
         },
         {
           "LocalizationKey": "Active",
           "Reference": "active",
-          "Target": ""
+          "Target": "activo"
         },
         {
           "LocalizationKey": "NoAnswerTextWarning",
           "Reference": "Enter your answer text!",
-          "Target": ""
+          "Target": "Ingrese su texto respuesta!"
         },
         {
           "LocalizationKey": "MaxLengthAnswerExceedingWarning",
           "Reference": "You have exceeded the maximum length of answer!",
-          "Target": ""
+          "Target": "Usted ha excedido el tamaño maximo de respuesta!"
         },
         {
           "LocalizationKey": "Title",
           "Reference": "Title",
-          "Target": ""
+          "Target": "Titulo"
         },
         {
           "LocalizationKey": "Text",
           "Reference": "Text",
-          "Target": ""
+          "Target": "Texto"
         },
         {
           "LocalizationKey": "EditAnswer",
           "Reference": "Edit the answer",
-          "Target": ""
+          "Target": "Editar la respuesta"
         },
         {
           "LocalizationKey": "QuestionDeleteConfirmMessage",
           "Reference": "Are you sure you want to delete this question?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar esta pregunta?"
         },
         {
           "LocalizationKey": "AnswerDeleteConfirmMessage",
           "Reference": "Are you sure you want to delete this answer?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar esta respuesta?"
         },
         {
           "LocalizationKey": "SelectUser",
           "Reference": "Select a user",
-          "Target": ""
+          "Target": "Seleccione un usuario"
         },
         {
           "LocalizationKey": "MarkdownSupported",
           "Reference": "Markdown is supported",
-          "Target": ""
+          "Target": "Markdown esta soportado"
         },
         {
           "LocalizationKey": "FileUploadInfo",
@@ -1798,27 +1798,27 @@
         {
           "LocalizationKey": "PagerInfo",
           "Reference": "Showing {0} to {1} of {2} entries.",
-          "Target": ""
+          "Target": "Mostrando {0} de {1} en {2} entradas. "
         },
         {
           "LocalizationKey": "PagerPrevious",
           "Reference": "Previous",
-          "Target": ""
+          "Target": "Atras"
         },
         {
           "LocalizationKey": "PagerNext",
           "Reference": "Next",
-          "Target": ""
+          "Target": "Siguiente"
         },
         {
           "LocalizationKey": "AskQuestion",
           "Reference": "Ask question",
-          "Target": ""
+          "Target": "Realizar pregunta"
         },
         {
           "LocalizationKey": "QuestionListSortBy_LastActivityDate_desc",
           "Reference": "Active",
-          "Target": ""
+          "Target": "Activo"
         },
         {
           "LocalizationKey": "QuestionListSortBy_LastActivityDate_asc",
@@ -1828,12 +1828,12 @@
         {
           "LocalizationKey": "QuestionListSortBy_CreationTime_desc",
           "Reference": "Newest",
-          "Target": ""
+          "Target": "Mas nuevo"
         },
         {
           "LocalizationKey": "QuestionListSortBy_CreationTime_asc",
           "Reference": "Oldest",
-          "Target": ""
+          "Target": "Mas antiguo"
         },
         {
           "LocalizationKey": "QuestionListSortBy_AnswerCount_desc",
@@ -1903,27 +1903,27 @@
         {
           "LocalizationKey": "Category",
           "Reference": "Category",
-          "Target": ""
+          "Target": "Categoria"
         },
         {
           "LocalizationKey": "NotAssigned",
           "Reference": "Not assigned",
-          "Target": ""
+          "Target": "No asignado"
         },
         {
           "LocalizationKey": "LastActivity",
           "Reference": "Last activity",
-          "Target": ""
+          "Target": "Ultima actividad"
         },
         {
           "LocalizationKey": "DescriptionFormat",
           "Reference": "{0}: {1}",
-          "Target": ""
+          "Target": "{0}: {1}"
         },
         {
           "LocalizationKey": "QuestionStatus",
           "Reference": "Status",
-          "Target": ""
+          "Target": "Estado"
         },
         {
           "LocalizationKey": "ClearAssignee",
@@ -1958,7 +1958,7 @@
         {
           "LocalizationKey": "New",
           "Reference": "New",
-          "Target": ""
+          "Target": "Nuevo"
         },
         {
           "LocalizationKey": "YouVoted",
@@ -2003,57 +2003,57 @@
         {
           "LocalizationKey": "Menu:User",
           "Reference": "Users",
-          "Target": ""
+          "Target": "Usuarios"
         },
         {
           "LocalizationKey": "User",
           "Reference": "Users",
-          "Target": ""
+          "Target": "Usuarios"
         },
         {
           "LocalizationKey": "Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "Actions",
           "Reference": "Actions",
-          "Target": ""
+          "Target": "Acciones"
         },
         {
           "LocalizationKey": "Username",
           "Reference": "Username",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "Surname",
           "Reference": "Surname",
-          "Target": ""
+          "Target": "Apellido"
         },
         {
           "LocalizationKey": "Email",
           "Reference": "Email",
-          "Target": ""
+          "Target": "Correo electronico"
         },
         {
           "LocalizationKey": "PhoneNumber",
           "Reference": "Phone Number",
-          "Target": ""
+          "Target": "Numero de telefono"
         },
         {
           "LocalizationKey": "UserInformation",
           "Reference": "User Information",
-          "Target": ""
+          "Target": "Información de usuario"
         },
         {
           "LocalizationKey": "Organization",
           "Reference": "Organization",
-          "Target": ""
+          "Target": "organización"
         },
         {
           "LocalizationKey": "NoQuestionCreditWarning",
@@ -2073,7 +2073,7 @@
         {
           "LocalizationKey": "GoToMainPage",
           "Reference": "Go to main page",
-          "Target": ""
+          "Target": "Ir a página principal"
         },
         {
           "LocalizationKey": "YourOrganizations",
@@ -2098,127 +2098,127 @@
         {
           "LocalizationKey": "Menu:Home",
           "Reference": "Home",
-          "Target": ""
+          "Target": "Inicio"
         },
         {
           "LocalizationKey": "Menu:CrudPageGenerator",
           "Reference": "CRUD Page Generator",
-          "Target": ""
+          "Target": "Generador de páginas CRUD"
         },
         {
           "LocalizationKey": "Menu:Modules",
           "Reference": "Modules",
-          "Target": ""
+          "Target": "Modulos"
         },
         {
           "LocalizationKey": "Menu:Templates",
           "Reference": "Templates",
-          "Target": ""
+          "Target": "Plantillas"
         },
         {
           "LocalizationKey": "DisplayName:PropertyName",
           "Reference": "Property name",
-          "Target": ""
+          "Target": "Nombre de propiedad"
         },
         {
           "LocalizationKey": "DisplayName:PropertyType",
           "Reference": "Property type",
-          "Target": ""
+          "Target": "Tipo de propiedad"
         },
         {
           "LocalizationKey": "AddProperty",
           "Reference": "Add property",
-          "Target": ""
+          "Target": "Agregar propiedad"
         },
         {
           "LocalizationKey": "CrudPageGenerator",
           "Reference": "CRUD Page Generator",
-          "Target": ""
+          "Target": "Generador de páginas CRUD"
         },
         {
           "LocalizationKey": "DefineProperty",
           "Reference": "Define property",
-          "Target": ""
+          "Target": "Definición de propiedad"
         },
         {
           "LocalizationKey": "EntityInfo",
           "Reference": "Entity info",
-          "Target": ""
+          "Target": "Informacion de entidad"
         },
         {
           "LocalizationKey": "Properties",
           "Reference": "Properties",
-          "Target": ""
+          "Target": "Propiedades"
         },
         {
           "LocalizationKey": "DeleteItem",
           "Reference": "Are you sure you want to delete {0}?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar {0}?"
         },
         {
           "LocalizationKey": "Deleted",
           "Reference": "Deleted.",
-          "Target": ""
+          "Target": "Eliminado"
         },
         {
           "LocalizationKey": "Saving",
           "Reference": "Saving",
-          "Target": ""
+          "Target": "Guardando"
         },
         {
           "LocalizationKey": "Saved",
           "Reference": "Saved",
-          "Target": ""
+          "Target": "Guargado"
         },
         {
           "LocalizationKey": "Generating",
           "Reference": "Generating",
-          "Target": ""
+          "Target": "Generando"
         },
         {
           "LocalizationKey": "Completed",
           "Reference": "Completed",
-          "Target": ""
+          "Target": "Completado"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "Add",
           "Reference": "Add",
-          "Target": ""
+          "Target": "Agregar"
         },
         {
           "LocalizationKey": "EntityNamePlaceholder",
           "Reference": "Enter entity name...",
-          "Target": ""
+          "Target": "Ingrese nombre de entidad..."
         },
         {
           "LocalizationKey": "EntityNamePluralPlaceholder",
           "Reference": "Enter plural entity name...",
-          "Target": ""
+          "Target": "Ingrese nombre de la entiad en plural..."
         },
         {
           "LocalizationKey": "DatabaseTableNamePlaceholder",
           "Reference": "Enter database table / collection name...",
-          "Target": ""
+          "Target": "Ingrese la tabla en base de datos / nombre de colección..."
         },
         {
           "LocalizationKey": "NamespacePlaceholder",
           "Reference": "Enter namespace...",
-          "Target": ""
+          "Target": "Ingrese el espacio de nombres..."
         },
         {
           "LocalizationKey": "Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "SortingField",
           "Reference": "Sorting field",
-          "Target": ""
+          "Target": "Ordenar por campo"
         },
         {
           "LocalizationKey": "SortingDirection",
@@ -2228,112 +2228,112 @@
         {
           "LocalizationKey": "Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "Save",
           "Reference": "Save",
-          "Target": ""
+          "Target": "Guardar"
         },
         {
           "LocalizationKey": "SaveAsDraft",
           "Reference": "Save",
-          "Target": ""
+          "Target": "Guardar"
         },
         {
           "LocalizationKey": "SaveAndGenerate",
           "Reference": "Save and generate",
-          "Target": ""
+          "Target": "Guardar y generar"
         },
         {
           "LocalizationKey": "Generate",
           "Reference": "Generate",
-          "Target": ""
+          "Target": "Generar"
         },
         {
           "LocalizationKey": "PropertyName",
           "Reference": "Property name",
-          "Target": ""
+          "Target": "Nombre de propiedad"
         },
         {
           "LocalizationKey": "PropertyType",
           "Reference": "Property type",
-          "Target": ""
+          "Target": "Tipo de propiedad"
         },
         {
           "LocalizationKey": "DefaultSortingField",
           "Reference": "Default sorting field",
-          "Target": ""
+          "Target": "Ordenar por campo"
         },
         {
           "LocalizationKey": "Entity",
           "Reference": "Entity",
-          "Target": ""
+          "Target": "Entidad"
         },
         {
           "LocalizationKey": "SelectEntity",
           "Reference": "- Select entity -",
-          "Target": ""
+          "Target": "- Seleccione la entidad -"
         },
         {
           "LocalizationKey": "MultiTenant",
           "Reference": "Multi-tenant",
-          "Target": ""
+          "Target": "Multi-tenant"
         },
         {
           "LocalizationKey": "NewEntity",
           "Reference": "New entity",
-          "Target": ""
+          "Target": "Nueva entidad"
         },
         {
           "LocalizationKey": "DisplayName:Entity:Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "DisplayName:Entity:NamePlural",
           "Reference": "Plural Name",
-          "Target": ""
+          "Target": "Nombre en plural"
         },
         {
           "LocalizationKey": "DisplayName:Entity:Namespace",
           "Reference": "Namespace",
-          "Target": ""
+          "Target": "Espacio de nombres"
         },
         {
           "LocalizationKey": "DisplayName:Entity:BaseClass",
           "Reference": "Base class",
-          "Target": ""
+          "Target": "Clase base"
         },
         {
           "LocalizationKey": "DisplayName:Entity:PrimaryKeyType",
           "Reference": "Primary key type",
-          "Target": ""
+          "Target": "Tipo de clave primaria"
         },
         {
           "LocalizationKey": "DisplayName:Entity:DatabaseTableName",
           "Reference": "Database table / collection name",
-          "Target": ""
+          "Target": "Tabla base de datos/ nombre de colección"
         },
         {
           "LocalizationKey": "Removed",
           "Reference": "Removed",
-          "Target": ""
+          "Target": "Removido"
         },
         {
           "LocalizationKey": "RemoveSolutionConfirm",
           "Reference": "Are you sure you want to remove the solution: {0} ?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar la solucion: {0} ?"
         },
         {
           "LocalizationKey": "EmptySolutionFilePathWarning",
           "Reference": "Solution path cannot be empty!",
-          "Target": ""
+          "Target": "La ruta de la solucion no puede estar vacia!"
         },
         {
           "LocalizationKey": "NotSlnFileWarning",
           "Reference": "Not a valid solution file! Solution file should have .sln extension.",
-          "Target": ""
+          "Target": "No es un archivo de solucion valido! El archivo solucion debe tener la extension .sln"
         },
         {
           "LocalizationKey": "SolutionFileNotExists",
@@ -2343,47 +2343,47 @@
         {
           "LocalizationKey": "CreateUserInterface",
           "Reference": "Create user interface",
-          "Target": ""
+          "Target": "Crear interfaz de usuario"
         },
         {
           "LocalizationKey": "CreateBackend",
           "Reference": "Create backend",
-          "Target": ""
+          "Target": "Crear backend"
         },
         {
           "LocalizationKey": "EntityAlreadyExists",
           "Reference": "The entity with the same name already exists!",
-          "Target": ""
+          "Target": "Una entidad con el mismo nombre ya existe!"
         },
         {
           "LocalizationKey": "SolutionAlreadyExists",
           "Reference": "The solution with the same path already exists!",
-          "Target": ""
+          "Target": "Ya existe una solucion en la ruta!"
         },
         {
           "LocalizationKey": "MinMaxLength",
           "Reference": "Min - Max length",
-          "Target": ""
+          "Target": "Min - Max longitud"
         },
         {
           "LocalizationKey": "MinLength",
           "Reference": "Min length",
-          "Target": ""
+          "Target": "Min longitud"
         },
         {
           "LocalizationKey": "MaxLength",
           "Reference": "Max length",
-          "Target": ""
+          "Target": "Max longitud"
         },
         {
           "LocalizationKey": "Required",
           "Reference": "Required",
-          "Target": ""
+          "Target": "Requerido"
         },
         {
           "LocalizationKey": "Nullable",
           "Reference": "Nullable",
-          "Target": ""
+          "Target": "Puede ser nulo"
         },
         {
           "LocalizationKey": "MinMaxLengthInvalidMissing",
@@ -2398,12 +2398,12 @@
         {
           "LocalizationKey": "AddMigration",
           "Reference": "Add migration",
-          "Target": ""
+          "Target": "Agregar migracion"
         },
         {
           "LocalizationKey": "UpdateDatabase",
           "Reference": "Update database",
-          "Target": ""
+          "Target": "Actualizar base de datos"
         },
         {
           "LocalizationKey": "NoProperty",
@@ -2418,7 +2418,7 @@
         {
           "LocalizationKey": "AddSolution",
           "Reference": "Add an existing solution",
-          "Target": ""
+          "Target": "Agregar una solucion existente"
         },
         {
           "LocalizationKey": "EnterSolutionPath",
@@ -2438,7 +2438,7 @@
         {
           "LocalizationKey": "Active",
           "Reference": "Active",
-          "Target": ""
+          "Target": "Activo"
         },
         {
           "LocalizationKey": "EnterSolutionDirectoryOrFilePath",
@@ -2448,7 +2448,7 @@
         {
           "LocalizationKey": "ErrorDbMigrationStep",
           "Reference": "Error occurred on DB migration step: {0}",
-          "Target": ""
+          "Target": "Ocurrio un error al ejecutar la migracion, en el paso: {0}"
         },
         {
           "LocalizationKey": "ErrorDbMigrationStepProjectRunning",
@@ -2458,47 +2458,47 @@
         {
           "LocalizationKey": "CreateSolution",
           "Reference": "Create a new solution",
-          "Target": ""
+          "Target": "Crear una nueva solucion"
         },
         {
           "LocalizationKey": "ProjectName",
           "Reference": "Project name",
-          "Target": ""
+          "Target": "Nombre de proyecto"
         },
         {
           "LocalizationKey": "TemplateType",
           "Reference": "Template type",
-          "Target": ""
+          "Target": "Tipo de plantilla"
         },
         {
           "LocalizationKey": "OutputFolder",
           "Reference": "Output folder",
-          "Target": ""
+          "Target": "Folder de salida"
         },
         {
           "LocalizationKey": "ConnectionString",
           "Reference": "Connection string",
-          "Target": ""
+          "Target": "Cadena de conexion"
         },
         {
           "LocalizationKey": "UiFramework",
           "Reference": "UI framework",
-          "Target": ""
+          "Target": "Framework de UI"
         },
         {
           "LocalizationKey": "DatabaseProvider",
           "Reference": "Database provider",
-          "Target": ""
+          "Target": "Provehedor de base de datos"
         },
         {
           "LocalizationKey": "Tiered",
           "Reference": "Tiered",
-          "Target": ""
+          "Target": "Tiered"
         },
         {
           "LocalizationKey": "NoUi",
           "Reference": "No user interface",
-          "Target": ""
+          "Target": "No crear interfaz de usuario"
         },
         {
           "LocalizationKey": "PreviewVersion",
@@ -2513,7 +2513,7 @@
         {
           "LocalizationKey": "SolutionCreated",
           "Reference": "Solution created!",
-          "Target": ""
+          "Target": "Solucion creada!"
         },
         {
           "LocalizationKey": "SolutionCreatedInfo",
@@ -2523,7 +2523,7 @@
         {
           "LocalizationKey": "UpdateAllAbpPackages",
           "Reference": "Update all ABP packages",
-          "Target": ""
+          "Target": "Actualizar todos los paquetes ABP"
         },
         {
           "LocalizationKey": "SuccessfullyUpdatedNpmNugetPackages",
@@ -2618,17 +2618,17 @@
         {
           "LocalizationKey": "See",
           "Reference": "See",
-          "Target": ""
+          "Target": "Ver"
         },
         {
           "LocalizationKey": "GoToDetails",
           "Reference": "Details",
-          "Target": ""
+          "Target": "Detalles"
         },
         {
           "LocalizationKey": "GoToDocs",
           "Reference": "Documentation",
-          "Target": ""
+          "Target": "Documentacion"
         },
         {
           "LocalizationKey": "DownloadSourceCode",
@@ -2648,12 +2648,12 @@
         {
           "LocalizationKey": "Modules",
           "Reference": "Modules",
-          "Target": ""
+          "Target": "Modulos"
         },
         {
           "LocalizationKey": "SavePath",
           "Reference": "Save path",
-          "Target": ""
+          "Target": "Guardar ruta"
         },
         {
           "LocalizationKey": "SavePathInfo",
@@ -2683,7 +2683,7 @@
         {
           "LocalizationKey": "Templates",
           "Reference": "Templates",
-          "Target": ""
+          "Target": "Plantillas"
         },
         {
           "LocalizationKey": "CustomizedTemplateExplanation",
@@ -2698,12 +2698,12 @@
         {
           "LocalizationKey": "EditTemplates",
           "Reference": "Edit templates",
-          "Target": ""
+          "Target": "Editar plantillas"
         },
         {
           "LocalizationKey": "EditTemplate",
           "Reference": "Edit template",
-          "Target": ""
+          "Target": "Editar plantilla"
         },
         {
           "LocalizationKey": "AreYouSureRevertCustomization{0}",
@@ -2723,7 +2723,7 @@
         {
           "LocalizationKey": "RevertCustomization",
           "Reference": "Revert customization",
-          "Target": ""
+          "Target": "Revertir personalización"
         },
         {
           "LocalizationKey": "Outdated",
@@ -2733,12 +2733,12 @@
         {
           "LocalizationKey": "Customized",
           "Reference": "Customized",
-          "Target": ""
+          "Target": "Personalizado"
         },
         {
           "LocalizationKey": "Processing",
           "Reference": "Processing",
-          "Target": ""
+          "Target": "Procesando"
         },
         {
           "LocalizationKey": "Server.AppService.AppService.txt",
@@ -3078,17 +3078,17 @@
         {
           "LocalizationKey": "Frontend.Mvc.Page.Index.cshtml.txt",
           "Reference": "Template of new Index.cshtml in mvc web application.",
-          "Target": ""
+          "Target": "Plantilla de nueva Index.cshtml en mvc web application."
         },
         {
           "LocalizationKey": "Frontend.Mvc.Page.Index.cshtml_cs.txt",
           "Reference": "Template of new Index.cshtml.cs in mvc web application.",
-          "Target": ""
+          "Target": "plantilla de nueva Index.cshtml.cs en mvc web application."
         },
         {
           "LocalizationKey": "Frontend.Mvc.Page.index.js.txt",
           "Reference": "Template of new Index.js in mvc web application.",
-          "Target": ""
+          "Target": "Plantilla de nueva Index.js en mvc web application."
         },
         {
           "LocalizationKey": "Frontend.Mvc.Page.Localizations.txt",
@@ -3648,37 +3648,37 @@
         {
           "LocalizationKey": "BuildFailed",
           "Reference": "Build failed. Check the solution!",
-          "Target": ""
+          "Target": "Compilación fallida. Revusa la solución."
         },
         {
           "LocalizationKey": "CodeGenerationFailed",
           "Reference": "Code generation failed.",
-          "Target": ""
+          "Target": "Fallo la generacion de codigo."
         },
         {
           "LocalizationKey": "Building",
           "Reference": "Building",
-          "Target": ""
+          "Target": "Compilando"
         },
         {
           "LocalizationKey": "AddAsProject",
           "Reference": "Add as project",
-          "Target": ""
+          "Target": "Agregar como proyecto"
         },
         {
           "LocalizationKey": "ReplacePackageReferencesWithSourceCode",
           "Reference": "Replace packages with source code",
-          "Target": ""
+          "Target": "Reemplazar paquetes con codigo fuente"
         },
         {
           "LocalizationKey": "AddWithoutSourceCodeNuget",
           "Reference": "Add as package",
-          "Target": ""
+          "Target": "Agregar como paquete"
         },
         {
           "LocalizationKey": "JustDownloadSourceCode",
           "Reference": "Download",
-          "Target": ""
+          "Target": "Descargar"
         },
         {
           "LocalizationKey": "Added{0}ModuleTo{1}Solution",
@@ -3693,17 +3693,17 @@
         {
           "LocalizationKey": "ReactNative",
           "Reference": "React Native",
-          "Target": ""
+          "Target": "React Nativo"
         },
         {
           "LocalizationKey": "None",
           "Reference": "None",
-          "Target": ""
+          "Target": "None"
         },
         {
           "LocalizationKey": "Mobile",
           "Reference": "Mobile",
-          "Target": ""
+          "Target": "Mobile"
         },
         {
           "LocalizationKey": "ErrorOccuredWhileRetrievingModuleList",
@@ -3723,7 +3723,7 @@
         {
           "LocalizationKey": "AddToYourSolution",
           "Reference": "Add to your solution",
-          "Target": ""
+          "Target": "Agregar a su solucion"
         },
         {
           "LocalizationKey": "AddAsProjectReferenceConfirm",
@@ -3743,12 +3743,12 @@
         {
           "LocalizationKey": "JustDownloadSourceCodeDescription",
           "Reference": "Download the source-code of this module.",
-          "Target": ""
+          "Target": "Descargar el codigo-fuente de este modulo."
         },
         {
           "LocalizationKey": "AnErrorOccured",
           "Reference": "An error occured. {0}",
-          "Target": ""
+          "Target": "Ocurrio un error. {0}"
         },
         {
           "LocalizationKey": "CouldNotGetVersions",
@@ -3773,7 +3773,7 @@
         {
           "LocalizationKey": "Regex",
           "Reference": "Regex",
-          "Target": ""
+          "Target": "Regex"
         },
         {
           "LocalizationKey": "CreateTests",
@@ -3788,12 +3788,12 @@
         {
           "LocalizationKey": "AddNavigationProperty",
           "Reference": "Add navigation property",
-          "Target": ""
+          "Target": "Agregar propiedad de navegación"
         },
         {
           "LocalizationKey": "NoNavigationProperty",
           "Reference": "No navigation property",
-          "Target": ""
+          "Target": "No propieda de navegación"
         },
         {
           "LocalizationKey": "DefineNavigationProperty",
@@ -3813,7 +3813,7 @@
         {
           "LocalizationKey": "NPEntityNamespace",
           "Reference": "Entity namespace",
-          "Target": ""
+          "Target": "Entidad namespace"
         },
         {
           "LocalizationKey": "NPEntityNamespaceHelpText",
@@ -3823,17 +3823,17 @@
         {
           "LocalizationKey": "NPEntityName",
           "Reference": "Entity name",
-          "Target": ""
+          "Target": "Nombre de entidad"
         },
         {
           "LocalizationKey": "NPEntityNameHelpText",
           "Reference": "Name of the entity. Eg: Author",
-          "Target": ""
+          "Target": "Nombre de la entidad. Ejm: Autor"
         },
         {
           "LocalizationKey": "NPEntitySetName",
           "Reference": "Collection name",
-          "Target": ""
+          "Target": "Nombre de collección"
         },
         {
           "LocalizationKey": "NPEntitySetNameHelpText",
@@ -3843,7 +3843,7 @@
         {
           "LocalizationKey": "NPDtoNamespace",
           "Reference": "Dto namespace",
-          "Target": ""
+          "Target": "Dto namespace"
         },
         {
           "LocalizationKey": "NPDtoNamespaceHelpText",
@@ -3853,7 +3853,7 @@
         {
           "LocalizationKey": "NPDtoEntityName",
           "Reference": "Dto name",
-          "Target": ""
+          "Target": "nombre Dto"
         },
         {
           "LocalizationKey": "NPDtoEntityNameHelpText",
@@ -3863,7 +3863,7 @@
         {
           "LocalizationKey": "NPPrimaryKey",
           "Reference": "Primary key",
-          "Target": ""
+          "Target": "Llave primaria"
         },
         {
           "LocalizationKey": "NPPrimaryKeyHelpText",
@@ -3873,7 +3873,7 @@
         {
           "LocalizationKey": "NPPropertyName",
           "Reference": "Property name",
-          "Target": ""
+          "Target": "Nombre de propiedad"
         },
         {
           "LocalizationKey": "NPPropertyNameHelpText",
@@ -3903,17 +3903,17 @@
         {
           "LocalizationKey": "EntityFrameworkCore",
           "Reference": "Entity Framework Core",
-          "Target": ""
+          "Target": "Entity Framework Core"
         },
         {
           "LocalizationKey": "MongoDb",
           "Reference": "MongoDB",
-          "Target": ""
+          "Target": "MongoDB"
         },
         {
           "LocalizationKey": "Mandatory",
           "Reference": "Mandatory",
-          "Target": ""
+          "Target": "Mandatory"
         },
         {
           "LocalizationKey": "ConnectionStringHelp",
@@ -3928,12 +3928,12 @@
         {
           "LocalizationKey": "ApplicationTemplate",
           "Reference": "Application template",
-          "Target": ""
+          "Target": "Plantilla de aplicación"
         },
         {
           "LocalizationKey": "ModuleTemplate",
           "Reference": "Module template",
-          "Target": ""
+          "Target": "Plantilla modulo"
         },
         {
           "LocalizationKey": "ProjectNameHelp",
@@ -3988,42 +3988,42 @@
         {
           "LocalizationKey": "SolutionPath",
           "Reference": "Solution path",
-          "Target": ""
+          "Target": "Ruta de solucion"
         },
         {
           "LocalizationKey": "DiretoryPreview",
           "Reference": "Your solution will be created in:",
-          "Target": ""
+          "Target": "Su solución se creará en:"
         },
         {
           "LocalizationKey": "EnumNamespace",
           "Reference": "Enum namespace",
-          "Target": ""
+          "Target": "Enum namespace"
         },
         {
           "LocalizationKey": "EnumName",
           "Reference": "Enum name",
-          "Target": ""
+          "Target": "Nombre de Enum"
         },
         {
           "LocalizationKey": "Suggestion",
           "Reference": "Suggestion",
-          "Target": ""
+          "Target": "Sugerencia"
         },
         {
           "LocalizationKey": "EnumLocationSuggestion",
           "Reference": "Locate your enums in <code>Domain.Shared</code> project.",
-          "Target": ""
+          "Target": "Localize sus enumeraciones en el proyecto <code>Domain.Shared</code>."
         },
         {
           "LocalizationKey": "SolutionNotFound",
           "Reference": "Solution not found!",
-          "Target": ""
+          "Target": "Solución no encontrada!"
         },
         {
           "LocalizationKey": "EnumAngularImport",
           "Reference": "Enum location",
-          "Target": ""
+          "Target": "Enum location"
         },
         {
           "LocalizationKey": "EntityNameCannotBeSameWithNamespace",
@@ -4053,7 +4053,7 @@
         {
           "LocalizationKey": "CollectionNames",
           "Reference": "Collection names",
-          "Target": ""
+          "Target": "Collección de nombres"
         },
         {
           "LocalizationKey": "EntitySelectionInfoText",
@@ -4068,22 +4068,22 @@
         {
           "LocalizationKey": "DependentEntity",
           "Reference": "Dependent Entity",
-          "Target": ""
+          "Target": "Entidad dependiente"
         },
         {
           "LocalizationKey": "DependentDto",
           "Reference": "Dependent DTO",
-          "Target": ""
+          "Target": "Dependencia DTO"
         },
         {
           "LocalizationKey": "OtherFields",
           "Reference": "Others",
-          "Target": ""
+          "Target": "Otros"
         },
         {
           "LocalizationKey": "DirectoryNotExists",
           "Reference": "The directory does not exist!",
-          "Target": ""
+          "Target": "El directorio no existe!"
         },
         {
           "LocalizationKey": "MultipleSolutionsFound",
@@ -4093,12 +4093,12 @@
         {
           "LocalizationKey": "CannotFindDirectory",
           "Reference": "Cannot find the directory {0}",
-          "Target": ""
+          "Target": "No se pudo encontrar el directorio {0}"
         },
         {
           "LocalizationKey": "DefaultConnectionStringInfo",
           "Reference": "Default connection string is {0}",
-          "Target": ""
+          "Target": "La cadena de conexion por defecto es {0}"
         },
         {
           "LocalizationKey": "TemplateOutdatedWarning",
@@ -4108,12 +4108,12 @@
         {
           "LocalizationKey": "OpenSolution",
           "Reference": "Open in Visual Studio",
-          "Target": ""
+          "Target": "Abrir en Visual Studio"
         },
         {
           "LocalizationKey": "AbpVersion",
           "Reference": "ABP Version",
-          "Target": ""
+          "Target": "ABP Versión"
         },
         {
           "LocalizationKey": "UpdateAllNuGetPackagesInfo",
@@ -4123,12 +4123,12 @@
         {
           "LocalizationKey": "ThisIsModuleProject",
           "Reference": "This is an ABP module project",
-          "Target": ""
+          "Target": "Esto es un proyecto modulo ABP"
         },
         {
           "LocalizationKey": "DoYouWantToGoToSolution",
           "Reference": "Do you want to open {0}?",
-          "Target": ""
+          "Target": "Desea abrir {0}?"
         },
         {
           "LocalizationKey": "PropertyNameSameAsEntityName",
@@ -4138,12 +4138,12 @@
         {
           "LocalizationKey": "CannotBeEmpty",
           "Reference": "The field {0} cannot be empty!",
-          "Target": ""
+          "Target": "El campo {0} no puede ser vacio!"
         },
         {
           "LocalizationKey": "ModuleAlreadyInstalled",
           "Reference": "This module is already added to your project.",
-          "Target": ""
+          "Target": "Este modulo ya esta agregado a su proyecto."
         },
         {
           "LocalizationKey": "ModuleAlreadyInstalledWithSourceCode",
@@ -4153,7 +4153,7 @@
         {
           "LocalizationKey": "UpdateAbpPackages",
           "Reference": "Update ABP Packages",
-          "Target": ""
+          "Target": "Actualizar paquetes ABP"
         },
         {
           "LocalizationKey": "SourceCodeDownloadDisabledInfo",
@@ -4163,7 +4163,7 @@
         {
           "LocalizationKey": "SwitchToStable",
           "Reference": "Switch to stable packages",
-          "Target": ""
+          "Target": "Cambiar a paquetes estables"
         },
         {
           "LocalizationKey": "SwitchToNightly",
@@ -4173,7 +4173,7 @@
         {
           "LocalizationKey": "SwitchToPreview",
           "Reference": "Switch to pre-release packages",
-          "Target": ""
+          "Target": "Cambiar a paquetes pre-release"
         },
         {
           "LocalizationKey": "SwitchToStableInfo",
@@ -4228,27 +4228,27 @@
         {
           "LocalizationKey": "LicenseType",
           "Reference": "License type",
-          "Target": ""
+          "Target": "Tipo de licence"
         },
         {
           "LocalizationKey": "Organization",
           "Reference": "Organization",
-          "Target": ""
+          "Target": "Organizacion"
         },
         {
           "LocalizationKey": "LicenseEndDate",
           "Reference": "License end date",
-          "Target": ""
+          "Target": "Fin de fecha de licencia"
         },
         {
           "LocalizationKey": "Basic",
           "Reference": "Basic",
-          "Target": ""
+          "Target": "Basico"
         },
         {
           "LocalizationKey": "Advanced",
           "Reference": "Advanced",
-          "Target": ""
+          "Target": "Avanzado"
         }
       ]
     },
@@ -4308,12 +4308,12 @@
         {
           "LocalizationKey": "SamplePageMessage",
           "Reference": "A sample page for the MyProjectName module",
-          "Target": ""
+          "Target": "Ejemplo de página para modulo MiNombreDeProyecto"
         },
         {
           "LocalizationKey": "Menu:MyProjectName",
           "Reference": "MyProjectName",
-          "Target": ""
+          "Target": "MiNombreDeProyecto"
         }
       ]
     },
@@ -4333,17 +4333,17 @@
         {
           "LocalizationKey": "Volo.Account:PhoneNumberEmpty",
           "Reference": "Phone number is empty!",
-          "Target": ""
+          "Target": "Numero de telefono esta vacio!"
         },
         {
           "LocalizationKey": "Volo.Account:PhoneNumberConfirmationDisabled",
           "Reference": "Phone number confirmation is disabled!",
-          "Target": ""
+          "Target": "Confirmación de numero de telefono esta desactivada!"
         },
         {
           "LocalizationKey": "PasswordReset",
           "Reference": "Password reset",
-          "Target": ""
+          "Target": "Restablecer contraseña"
         },
         {
           "LocalizationKey": "PasswordResetInfoInEmail",
@@ -4353,7 +4353,7 @@
         {
           "LocalizationKey": "ResetMyPassword",
           "Reference": "Reset my password",
-          "Target": ""
+          "Target": "Restablecer mi contraseña"
         },
         {
           "LocalizationKey": "NotAMemberYet",
@@ -4363,67 +4363,67 @@
         {
           "LocalizationKey": "OrSignInWith",
           "Reference": "Or sign in with",
-          "Target": ""
+          "Target": "O iniciar sesion con"
         },
         {
           "LocalizationKey": "EmailConfirmation",
           "Reference": "Email confirmation",
-          "Target": ""
+          "Target": "Confirmación de correo electronico"
         },
         {
           "LocalizationKey": "EmailConfirmationInfoInEmail",
           "Reference": "Please confirm your email address by clicking the following link.",
-          "Target": ""
+          "Target": "Por favor confirme su dirección de correo, dando click en el enlace."
         },
         {
           "LocalizationKey": "ConfirmMyEmail",
           "Reference": "Confirm my email address",
-          "Target": ""
+          "Target": "Confiarmar mi dirección de correo"
         },
         {
           "LocalizationKey": "UserName",
           "Reference": "User name",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "EmailAddress",
           "Reference": "Email address",
-          "Target": ""
+          "Target": "Dirección de correo"
         },
         {
           "LocalizationKey": "UserNameOrEmailAddress",
           "Reference": "User name or email address",
-          "Target": ""
+          "Target": "Nombre de usuario o dirección de correo"
         },
         {
           "LocalizationKey": "Password",
           "Reference": "Password",
-          "Target": ""
+          "Target": "Contraseña"
         },
         {
           "LocalizationKey": "RememberMe",
           "Reference": "Remember me",
-          "Target": ""
+          "Target": "Recordarme"
         },
         {
           "LocalizationKey": "UseAnotherServiceToLogin",
           "Reference": "Use another service to log in",
-          "Target": ""
+          "Target": "Usar otro servicio para iniciar sesión"
         },
         {
           "LocalizationKey": "UserLockedOutMessage",
           "Reference": "Your account has been locked by the admin or due to invalid login attempts. Please try later. Contact to your system administrator if you think this is a mistake.",
-          "Target": ""
+          "Target": "Su cuenta ha sido bloqueada por el administrador o debido a intentos de inicio de sesion invalidos. Contacte con el administrador del sistema si cree que esto es un error."
         },
         {
           "LocalizationKey": "InvalidUserNameOrPassword",
           "Reference": "Invalid username or password!",
-          "Target": ""
+          "Target": "Nombre de usuario o contraseña invalido!"
         },
         {
           "LocalizationKey": "LoginIsNotAllowed",
           "Reference": "You are not allowed to login! You need to confirm your email/phone number.",
-          "Target": ""
+          "Target": "No se le permite iniciar sesion! Usted necesita confirmar su correo electronico/numero de telefono."
         },
         {
           "LocalizationKey": "SelfRegistrationDisabledMessage",
@@ -4438,22 +4438,22 @@
         {
           "LocalizationKey": "InvalidSecurityCode",
           "Reference": "Invalid security code!",
-          "Target": ""
+          "Target": "Código de seguridad invalido!"
         },
         {
           "LocalizationKey": "EmailSecurityCodeBody",
           "Reference": "Your security code is: {0}",
-          "Target": ""
+          "Target": "Su código de seguridad es: {0}"
         },
         {
           "LocalizationKey": "EmailSecurityCodeSubject",
           "Reference": "Security Code",
-          "Target": ""
+          "Target": "Código de seguridad"
         },
         {
           "LocalizationKey": "VerifySecurityCode_Information",
           "Reference": "Please enter the verification code sent to you.",
-          "Target": ""
+          "Target": "Por favor ingrese el código de seguridad que se le envió."
         },
         {
           "LocalizationKey": "SendSecurityCode_Information",
@@ -4463,7 +4463,7 @@
         {
           "LocalizationKey": "ForgotPassword",
           "Reference": "Forgot password?",
-          "Target": ""
+          "Target": "Olvido su contraseña?"
         },
         {
           "LocalizationKey": "SendPasswordResetLink_Information",
@@ -4478,62 +4478,62 @@
         {
           "LocalizationKey": "ResetPassword",
           "Reference": "Reset Password",
-          "Target": ""
+          "Target": "Restablecer Contraseña"
         },
         {
           "LocalizationKey": "ConfirmPassword",
           "Reference": "Confirm (repeat) the password",
-          "Target": ""
+          "Target": "Confirme la contraseña(repetir)"
         },
         {
           "LocalizationKey": "ResetPassword_Information",
           "Reference": "Please enter your new password.",
-          "Target": ""
+          "Target": "Por favor ingrese su nueva contraseña."
         },
         {
           "LocalizationKey": "YourPasswordIsSuccessfullyReset",
           "Reference": "Your password is successfully reset.",
-          "Target": ""
+          "Target": "Su contraseña ha sido restablecida exitosamente."
         },
         {
           "LocalizationKey": "YourEmailAddressIsSuccessfullyConfirmed",
           "Reference": "Your email address has been successfully confirmed.",
-          "Target": ""
+          "Target": "Su dirección de correo ha sido confirmada exitosamente."
         },
         {
           "LocalizationKey": "GoToTheHomePage",
           "Reference": "Go to the home page",
-          "Target": ""
+          "Target": "Ir a la pagina de inicio"
         },
         {
           "LocalizationKey": "TwoFactorVerification",
           "Reference": "Two factor verification",
-          "Target": ""
+          "Target": "Verificación en dos pasos"
         },
         {
           "LocalizationKey": "BackToLogin",
           "Reference": "Back to login",
-          "Target": ""
+          "Target": "Volver al inicio de sesion"
         },
         {
           "LocalizationKey": "AlreadyRegistered",
           "Reference": "Already registered?",
-          "Target": ""
+          "Target": "Ya esta registrado?"
         },
         {
           "LocalizationKey": "Permission:Account",
           "Reference": "Account",
-          "Target": ""
+          "Target": "Cuenta"
         },
         {
           "LocalizationKey": "Permission:SettingManagement",
           "Reference": "Setting management",
-          "Target": ""
+          "Target": "Administracion de configuración"
         },
         {
           "LocalizationKey": "TwoFactorAuthentication",
           "Reference": "Two Factor Authentication",
-          "Target": ""
+          "Target": "Autentiacion en dos pasos"
         },
         {
           "LocalizationKey": "LdapPasswordPlaceholder",
@@ -4543,7 +4543,7 @@
         {
           "LocalizationKey": "LdapLoginSettings",
           "Reference": "Ldap login settings",
-          "Target": ""
+          "Target": "Configuración de inicio de sesión Ldap"
         },
         {
           "LocalizationKey": "DisplayName:IsSelfRegistrationEnabled",
@@ -4558,137 +4558,137 @@
         {
           "LocalizationKey": "DisplayName:IsRememberBrowserEnabled",
           "Reference": "Remember browser",
-          "Target": ""
+          "Target": "Recordar navegador"
         },
         {
           "LocalizationKey": "Menu:Account",
           "Reference": "Account",
-          "Target": ""
+          "Target": "Cuenta"
         },
         {
           "LocalizationKey": "Menu:Account:Ldap",
           "Reference": "Ldap Account",
-          "Target": ""
+          "Target": "Cuenta Ldap"
         },
         {
           "LocalizationKey": "AccountSettingsGeneral",
           "Reference": "General",
-          "Target": ""
+          "Target": "General"
         },
         {
           "LocalizationKey": "AccountSettingsTwoFactor",
           "Reference": "Two factor",
-          "Target": ""
+          "Target": "Dos factores"
         },
         {
           "LocalizationKey": "AccountSettingsLdap",
           "Reference": "Ldap",
-          "Target": ""
+          "Target": "Ldap"
         },
         {
           "LocalizationKey": "TwoFactorHasBeenDisabled",
           "Reference": "Two factor has been disabled.",
-          "Target": ""
+          "Target": "Doble factor ha sido desactivado."
         },
         {
           "LocalizationKey": "DisplayName:CurrentPassword",
           "Reference": "Current password",
-          "Target": ""
+          "Target": "Contraseña actual"
         },
         {
           "LocalizationKey": "DisplayName:NewPassword",
           "Reference": "New password",
-          "Target": ""
+          "Target": "Nueva contraseña"
         },
         {
           "LocalizationKey": "DisplayName:NewPasswordConfirm",
           "Reference": "Confirm new password",
-          "Target": ""
+          "Target": "Confiarmar nueva contraseña"
         },
         {
           "LocalizationKey": "PasswordChangedMessage",
           "Reference": "Your password has been changed successfully.",
-          "Target": ""
+          "Target": "Su contraseña ha sido cambiada correctamente."
         },
         {
           "LocalizationKey": "DisplayName:UserName",
           "Reference": "User name",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "DisplayName:Email",
           "Reference": "Email",
-          "Target": ""
+          "Target": "Correo electronico"
         },
         {
           "LocalizationKey": "DisplayName:Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "DisplayName:Surname",
           "Reference": "Surname",
-          "Target": ""
+          "Target": "Apellido"
         },
         {
           "LocalizationKey": "DisplayName:Password",
           "Reference": "Password",
-          "Target": ""
+          "Target": "Contraseña"
         },
         {
           "LocalizationKey": "DisplayName:EmailAddress",
           "Reference": "Email address",
-          "Target": ""
+          "Target": "Dirección de correo"
         },
         {
           "LocalizationKey": "DisplayName:PhoneNumber",
           "Reference": "Phone number",
-          "Target": ""
+          "Target": "Numbeo de telefono"
         },
         {
           "LocalizationKey": "PersonalSettings",
           "Reference": "Personal settings",
-          "Target": ""
+          "Target": "Ajustes personales"
         },
         {
           "LocalizationKey": "PersonalSettingsSaved",
           "Reference": "Personal settings saved",
-          "Target": ""
+          "Target": "Ajustes personales guardados "
         },
         {
           "LocalizationKey": "PasswordChanged",
           "Reference": "Password changed",
-          "Target": ""
+          "Target": "Contraseña cambiada"
         },
         {
           "LocalizationKey": "TwoFactorChanged",
           "Reference": "Two factor settings saved",
-          "Target": ""
+          "Target": "Configuración de doble factor guardado"
         },
         {
           "LocalizationKey": "DisplayName:TwoFactorEnabled",
           "Reference": "Two factor enabled",
-          "Target": ""
+          "Target": "Doble factor activado"
         },
         {
           "LocalizationKey": "NewPasswordConfirmFailed",
           "Reference": "Please confirm the new password.",
-          "Target": ""
+          "Target": "Por favor confirme la nueva contraseña."
         },
         {
           "LocalizationKey": "Manage",
           "Reference": "Manage",
-          "Target": ""
+          "Target": "Administración"
         },
         {
           "LocalizationKey": "ManageYourProfile",
           "Reference": "Manage your profile",
-          "Target": ""
+          "Target": "Administración de su prefil"
         },
         {
           "LocalizationKey": "UserInformation",
           "Reference": "User Information",
-          "Target": ""
+          "Target": "Informació de usuario"
         },
         {
           "LocalizationKey": "DisplayName:EnableLocalLogin",
@@ -4708,22 +4708,22 @@
         {
           "LocalizationKey": "Description:EnableLdapLogin",
           "Reference": "Enable Ldap login",
-          "Target": ""
+          "Target": "Activar Inicio de sesión Ldap"
         },
         {
           "LocalizationKey": "Feature:AccountGroup",
           "Reference": "Account",
-          "Target": ""
+          "Target": "Cuenta"
         },
         {
           "LocalizationKey": "Feature:EnableLdapLogin",
           "Reference": "Enable Ldap login",
-          "Target": ""
+          "Target": "Activar Inicio de sesión Ldap"
         },
         {
           "LocalizationKey": "Feature:EnableLdapLoginDescription",
           "Reference": "Enable Ldap login",
-          "Target": ""
+          "Target": "Activar Inicio de sesión Ldap"
         },
         {
           "LocalizationKey": "DoYouWantToVerifyPhoneNumberMessage",
@@ -4733,27 +4733,27 @@
         {
           "LocalizationKey": "InvalidPhoneConfirmationToken",
           "Reference": "Verify code is invalid!",
-          "Target": ""
+          "Target": "El código de verificación es invalido!"
         },
         {
           "LocalizationKey": "ConfirmYourPhoneNumber",
           "Reference": "Verify your phone number",
-          "Target": ""
+          "Target": "Verifique su numero de telefono"
         },
         {
           "LocalizationKey": "Verify",
           "Reference": "Verify",
-          "Target": ""
+          "Target": "Verificar"
         },
         {
           "LocalizationKey": "Verified",
           "Reference": "Verified",
-          "Target": ""
+          "Target": "Verificado"
         },
         {
           "LocalizationKey": "NotVerified",
           "Reference": "Not verified",
-          "Target": ""
+          "Target": "No verificado"
         },
         {
           "LocalizationKey": "FirstlySubmitToVerify",
@@ -4773,12 +4773,12 @@
         {
           "LocalizationKey": "PhoneConfirmationToken",
           "Reference": "Please enter the code below to verify your phone number:",
-          "Target": ""
+          "Target": "Por favor ingrese el código luego verifique su numero de telefono:"
         },
         {
           "LocalizationKey": "PhoneConfirmationSms",
           "Reference": "Hi {0}! Here is your verification code: {1}",
-          "Target": ""
+          "Target": "Hola {0}! Este es tu código de verificación: {1}"
         },
         {
           "LocalizationKey": "TextTemplate:Abp.Account.Layout",
@@ -4798,7 +4798,7 @@
         {
           "LocalizationKey": "LoggedOutTitle",
           "Reference": "Signed Out",
-          "Target": ""
+          "Target": "Cerró sesión"
         },
         {
           "LocalizationKey": "LoggedOutText",
@@ -4808,47 +4808,47 @@
         {
           "LocalizationKey": "ReturnToText",
           "Reference": "Click here to redirect to {0}",
-          "Target": ""
+          "Target": "Click aqui para redirigir a {0}"
         },
         {
           "LocalizationKey": "MySecurityLogs",
           "Reference": "My security logs",
-          "Target": ""
+          "Target": "Mis logs de seguridad"
         },
         {
           "LocalizationKey": "MySecurityLogs:StartTime",
           "Reference": "Start Time",
-          "Target": ""
+          "Target": "Tiempo de inicio"
         },
         {
           "LocalizationKey": "MySecurityLogs:EndTime",
           "Reference": "End Time",
-          "Target": ""
+          "Target": "Tiempo final"
         },
         {
           "LocalizationKey": "MySecurityLogs:Application",
           "Reference": "Application",
-          "Target": ""
+          "Target": "Aplicación"
         },
         {
           "LocalizationKey": "MySecurityLogs:Identity",
           "Reference": "Identity",
-          "Target": ""
+          "Target": "Identidad"
         },
         {
           "LocalizationKey": "MySecurityLogs:Action",
           "Reference": "Action",
-          "Target": ""
+          "Target": "Acción"
         },
         {
           "LocalizationKey": "MySecurityLogs:Client",
           "Reference": "Client",
-          "Target": ""
+          "Target": "Cliente"
         },
         {
           "LocalizationKey": "MySecurityLogs:Time",
           "Reference": "Time",
-          "Target": ""
+          "Target": "Tiempo"
         },
         {
           "LocalizationKey": "MySecurityLogs:CorrelationId",
@@ -4858,27 +4858,27 @@
         {
           "LocalizationKey": "MySecurityLogs:IpAddress",
           "Reference": "Ip Address",
-          "Target": ""
+          "Target": "Dirección Ip"
         },
         {
           "LocalizationKey": "MySecurityLogs:Browser",
           "Reference": "Browser",
-          "Target": ""
+          "Target": "Navegador"
         },
         {
           "LocalizationKey": "GoToTheApplication",
           "Reference": "Go to the application",
-          "Target": ""
+          "Target": "Ir a la aplicación"
         },
         {
           "LocalizationKey": "RememberBrowser",
           "Reference": "Remember this browser",
-          "Target": ""
+          "Target": "Recordar en este navegador"
         },
         {
           "LocalizationKey": "ProfilePicture",
           "Reference": "Profile Picture",
-          "Target": ""
+          "Target": "Imagen de perfil"
         },
         {
           "LocalizationKey": "MoveCursorOnExamples",
@@ -4888,27 +4888,27 @@
         {
           "LocalizationKey": "ProfilePictureWillBeChanged",
           "Reference": "Your profile picture will be changed.",
-          "Target": ""
+          "Target": "Su imangen de perfil será cambiada."
         },
         {
           "LocalizationKey": "CurrentProfilePicture",
           "Reference": "Current Profile Picture",
-          "Target": ""
+          "Target": "Imagen de perfil actual"
         },
         {
           "LocalizationKey": "ChangeProfilePicture",
           "Reference": "Change Profile Picture",
-          "Target": ""
+          "Target": "Cambiar imagen de perfil"
         },
         {
           "LocalizationKey": "SelectNewImage",
           "Reference": "Select New Image",
-          "Target": ""
+          "Target": "Seleccione una nueva imagen"
         },
         {
           "LocalizationKey": "DisplayName:UseGravatar",
           "Reference": "Use Gravatar",
-          "Target": ""
+          "Target": "Usar Gravatar"
         },
         {
           "LocalizationKey": "Description:UseGravatar",
@@ -4918,17 +4918,17 @@
         {
           "LocalizationKey": "SaveChanges",
           "Reference": "Save Changes",
-          "Target": ""
+          "Target": "Guardar cambios"
         },
         {
           "LocalizationKey": "UploadFile",
           "Reference": "Upload File",
-          "Target": ""
+          "Target": "Subir archivo"
         },
         {
           "LocalizationKey": "UseDefault",
           "Reference": "Use Default Avatar",
-          "Target": ""
+          "Target": "Usar avatar por defecto"
         },
         {
           "LocalizationKey": "UseGravatarConfirm",
@@ -4948,12 +4948,12 @@
         {
           "LocalizationKey": "PleaseSelectImage",
           "Reference": "Please select an image",
-          "Target": ""
+          "Target": "Por favor seleccione una imagen"
         },
         {
           "LocalizationKey": "UploadFailedMessage",
           "Reference": "Upload failed!",
-          "Target": ""
+          "Target": "Falló al subir!"
         },
         {
           "LocalizationKey": "AccountPro:0001",
@@ -4963,22 +4963,22 @@
         {
           "LocalizationKey": "ProfileTab:Picture",
           "Reference": "Profile picture",
-          "Target": ""
+          "Target": "Imagen de perfil"
         },
         {
           "LocalizationKey": "ProfileTab:Password",
           "Reference": "Change password",
-          "Target": ""
+          "Target": "Cambiar contraseña"
         },
         {
           "LocalizationKey": "ProfileTab:PersonalInfo",
           "Reference": "Personal info",
-          "Target": ""
+          "Target": "Información personal"
         },
         {
           "LocalizationKey": "ProfileTab:TwoFactor",
           "Reference": "Two factor",
-          "Target": ""
+          "Target": "Doble factor"
         },
         {
           "LocalizationKey": "DisplayName:UseCaptchaOnLogin",
@@ -5003,12 +5003,12 @@
         {
           "LocalizationKey": "Captcha",
           "Reference": "Captcha",
-          "Target": ""
+          "Target": "Captcha"
         },
         {
           "LocalizationKey": "DisplayName:VerifyBaseUrl",
           "Reference": "Verify base url",
-          "Target": ""
+          "Target": "Verificar url base"
         },
         {
           "LocalizationKey": "DisplayName:SiteKey",
@@ -5023,7 +5023,7 @@
         {
           "LocalizationKey": "DisplayName:Version",
           "Reference": "Version",
-          "Target": ""
+          "Target": "Versión"
         },
         {
           "LocalizationKey": "InvalidSiteKeyOrSiteSecret",
@@ -5038,7 +5038,7 @@
         {
           "LocalizationKey": "IncorrectCaptchaAnswer",
           "Reference": "Incorrect captcha answer",
-          "Target": ""
+          "Target": "Respuesta captcha incorrecta"
         },
         {
           "LocalizationKey": "SetNullWillUseGlobalSettings",
@@ -5048,32 +5048,32 @@
         {
           "LocalizationKey": "ReturnToApplication",
           "Reference": "Return to application",
-          "Target": ""
+          "Target": "Volver a la aplicación"
         },
         {
           "LocalizationKey": "AccountExternalProviderSettings",
           "Reference": "External provider",
-          "Target": ""
+          "Target": "Provehedor externo"
         },
         {
           "LocalizationKey": "ExternalProviderUseHostSettings",
           "Reference": "Use host settings",
-          "Target": ""
+          "Target": "Usar configuracion de host"
         },
         {
           "LocalizationKey": "ExternalProviderEnabled",
           "Reference": "Enabled",
-          "Target": ""
+          "Target": "Activado"
         },
         {
           "LocalizationKey": "ProfileTab:LinkUsers",
           "Reference": "Link users",
-          "Target": ""
+          "Target": "Usuarios enlazados"
         },
         {
           "LocalizationKey": "LoginAsThisUser",
           "Reference": "Login as this user",
-          "Target": ""
+          "Target": "Iniciar sesión como este usuario"
         },
         {
           "LocalizationKey": "DeleteLinkUserConfirmationMessage",
@@ -5083,7 +5083,7 @@
         {
           "LocalizationKey": "NewLinkUser",
           "Reference": "New link user",
-          "Target": ""
+          "Target": "Enlazar nuevo usuario"
         },
         {
           "LocalizationKey": "NewLinkUserWarning",
@@ -5093,12 +5093,12 @@
         {
           "LocalizationKey": "TenantAndUserName",
           "Reference": "User name",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "BackToMyAccount",
           "Reference": "Back to: {0}",
-          "Target": ""
+          "Target": "Volver a: {0}"
         },
         {
           "LocalizationKey": "TheTargetUserIsNotLinkedToYou",
@@ -5143,7 +5143,7 @@
         {
           "LocalizationKey": "HttpMethod",
           "Reference": "Http Method",
-          "Target": ""
+          "Target": "Metodo Http"
         },
         {
           "LocalizationKey": "HttpMethodFilter",
@@ -5153,12 +5153,12 @@
         {
           "LocalizationKey": "HttpRequest",
           "Reference": "Http Request",
-          "Target": ""
+          "Target": "Peticion Http"
         },
         {
           "LocalizationKey": "User",
           "Reference": "User",
-          "Target": ""
+          "Target": "Usuario"
         },
         {
           "LocalizationKey": "UserNameFilter",
@@ -5173,22 +5173,22 @@
         {
           "LocalizationKey": "IpAddress",
           "Reference": "Ip Address",
-          "Target": ""
+          "Target": "Dirección Ip"
         },
         {
           "LocalizationKey": "Time",
           "Reference": "Time",
-          "Target": ""
+          "Target": "Tiempo"
         },
         {
           "LocalizationKey": "Duration",
           "Reference": "Duration",
-          "Target": ""
+          "Target": "Duración"
         },
         {
           "LocalizationKey": "Detail",
           "Reference": "Detail",
-          "Target": ""
+          "Target": "Detalles"
         },
         {
           "LocalizationKey": "Overall",
@@ -5198,32 +5198,32 @@
         {
           "LocalizationKey": "Actions",
           "Reference": "Actions",
-          "Target": ""
+          "Target": "Acciones"
         },
         {
           "LocalizationKey": "ClientIpAddress",
           "Reference": "Client Ip Address",
-          "Target": ""
+          "Target": "Dirección Ip del Cliente"
         },
         {
           "LocalizationKey": "ClientName",
           "Reference": "Client Name",
-          "Target": ""
+          "Target": "Nombre de cliente"
         },
         {
           "LocalizationKey": "BrowserInfo",
           "Reference": "Browser Info",
-          "Target": ""
+          "Target": "Informacion de buscador"
         },
         {
           "LocalizationKey": "Url",
           "Reference": "Url",
-          "Target": ""
+          "Target": "Url"
         },
         {
           "LocalizationKey": "UserName",
           "Reference": "User Name",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "UrlFilter",
@@ -5233,12 +5233,12 @@
         {
           "LocalizationKey": "Exceptions",
           "Reference": "Exceptions",
-          "Target": ""
+          "Target": "Excepciones"
         },
         {
           "LocalizationKey": "Comments",
           "Reference": "Comments",
-          "Target": ""
+          "Target": "Comentarios"
         },
         {
           "LocalizationKey": "HttpStatusCode",
@@ -5253,12 +5253,12 @@
         {
           "LocalizationKey": "ServiceName",
           "Reference": "Service",
-          "Target": ""
+          "Target": "Servicio"
         },
         {
           "LocalizationKey": "MethodName",
           "Reference": "Method",
-          "Target": ""
+          "Target": "Metodo"
         },
         {
           "LocalizationKey": "CorrelationId",
@@ -5273,32 +5273,32 @@
         {
           "LocalizationKey": "ExecutionDuration",
           "Reference": "Duration",
-          "Target": ""
+          "Target": "Duración"
         },
         {
           "LocalizationKey": "ExtraProperties",
           "Reference": "Extra properties",
-          "Target": ""
+          "Target": "Propiedades adicionales"
         },
         {
           "LocalizationKey": "MaxDuration",
           "Reference": "Max. Duration",
-          "Target": ""
+          "Target": "Max. Duración"
         },
         {
           "LocalizationKey": "MinDuration",
           "Reference": "Min. Duration",
-          "Target": ""
+          "Target": "Min. Duración"
         },
         {
           "LocalizationKey": "{0}Milliseconds",
           "Reference": "{0} milliseconds",
-          "Target": ""
+          "Target": "{0} milisegundos"
         },
         {
           "LocalizationKey": "ExecutionTime",
           "Reference": "Time",
-          "Target": ""
+          "Target": "Tiempo"
         },
         {
           "LocalizationKey": "Parameters",
@@ -5323,7 +5323,7 @@
         {
           "LocalizationKey": "ChangeTime",
           "Reference": "Time",
-          "Target": ""
+          "Target": "Tiempo"
         },
         {
           "LocalizationKey": "NewValue",
@@ -5348,17 +5348,17 @@
         {
           "LocalizationKey": "Yes",
           "Reference": "Yes",
-          "Target": ""
+          "Target": "Si"
         },
         {
           "LocalizationKey": "No",
           "Reference": "No",
-          "Target": ""
+          "Target": "No"
         },
         {
           "LocalizationKey": "Changes",
           "Reference": "Changes",
-          "Target": ""
+          "Target": "Cambios"
         },
         {
           "LocalizationKey": "AverageExecutionDurationInLogsPerDay",
@@ -5378,87 +5378,87 @@
         {
           "LocalizationKey": "Success",
           "Reference": "Success",
-          "Target": ""
+          "Target": "Exitosamente"
         },
         {
           "LocalizationKey": "Fault",
           "Reference": "Fault",
-          "Target": ""
+          "Target": "Culpa"
         },
         {
           "LocalizationKey": "NoChanges",
           "Reference": "No change(s)",
-          "Target": ""
+          "Target": "No cambio(s)"
         },
         {
           "LocalizationKey": "EntityChanges",
           "Reference": "Entity Changes",
-          "Target": ""
+          "Target": "Cambios en entidad"
         },
         {
           "LocalizationKey": "EntityId",
           "Reference": "Entity Id",
-          "Target": ""
+          "Target": "Id Entidad"
         },
         {
           "LocalizationKey": "EntityChangeStartTime",
           "Reference": "Min Change Date",
-          "Target": ""
+          "Target": "Cambiar fecha mínima"
         },
         {
           "LocalizationKey": "EntityChangeEndTime",
           "Reference": "Max Change Date",
-          "Target": ""
+          "Target": "Cambiar fecha mámima"
         },
         {
           "LocalizationKey": "EntityHistory",
           "Reference": "Entity History",
-          "Target": ""
+          "Target": "Historial de entidad"
         },
         {
           "LocalizationKey": "DaysAgoTitle",
           "Reference": "{0} {1}.",
-          "Target": ""
+          "Target": "{0} {1}."
         },
         {
           "LocalizationKey": "DaysAgoWithUserTitle",
           "Reference": "{0} {1} by {2}.",
-          "Target": ""
+          "Target": "{0} {1} por {2}."
         },
         {
           "LocalizationKey": "Created",
           "Reference": "Created",
-          "Target": ""
+          "Target": "Creado"
         },
         {
           "LocalizationKey": "Updated",
           "Reference": "Updated",
-          "Target": ""
+          "Target": "Actualizado"
         },
         {
           "LocalizationKey": "Deleted",
           "Reference": "Deleted",
-          "Target": ""
+          "Target": "Eliminado"
         },
         {
           "LocalizationKey": "ChangeHistory",
           "Reference": "Change History",
-          "Target": ""
+          "Target": "Historial de cambios"
         },
         {
           "LocalizationKey": "FullChangeHistory",
           "Reference": "Full Change History",
-          "Target": ""
+          "Target": "Historial de cambios completo"
         },
         {
           "LocalizationKey": "ChangeDetails",
           "Reference": "Change Details",
-          "Target": ""
+          "Target": "Detalles del cambio"
         },
         {
           "LocalizationKey": "DurationMs",
           "Reference": "Duration (ms)",
-          "Target": ""
+          "Target": "Duración (ms)"
         }
       ]
     },
@@ -5468,12 +5468,12 @@
         {
           "LocalizationKey": "Permission:EmailManagement",
           "Reference": "Email Management",
-          "Target": ""
+          "Target": "Administración de correo electronico"
         },
         {
           "LocalizationKey": "Permission:SettingManagement",
           "Reference": "Settings",
-          "Target": ""
+          "Target": "Configuraciones"
         }
       ]
     },
@@ -5483,52 +5483,52 @@
         {
           "LocalizationKey": "Menu:EmailManagement",
           "Reference": "Email management",
-          "Target": ""
+          "Target": "Administración de correo electronico"
         },
         {
           "LocalizationKey": "SmtpHost",
           "Reference": "Host",
-          "Target": ""
+          "Target": "Host"
         },
         {
           "LocalizationKey": "SmtpPort",
           "Reference": "Port",
-          "Target": ""
+          "Target": "Puerto"
         },
         {
           "LocalizationKey": "SmtpUserName",
           "Reference": "User name",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "SmtpPassword",
           "Reference": "Password",
-          "Target": ""
+          "Target": "Contraseña"
         },
         {
           "LocalizationKey": "SmtpDomain",
           "Reference": "Domain",
-          "Target": ""
+          "Target": "Dominio"
         },
         {
           "LocalizationKey": "SmtpEnableSsl",
           "Reference": "Enable ssl",
-          "Target": ""
+          "Target": "Activar ssl"
         },
         {
           "LocalizationKey": "SmtpUseDefaultCredentials",
           "Reference": "Use default credentials",
-          "Target": ""
+          "Target": "Usar credenciales por defecto"
         },
         {
           "LocalizationKey": "DefaultFromAddress",
           "Reference": "Default from address",
-          "Target": ""
+          "Target": "Dirección origen por defecto"
         },
         {
           "LocalizationKey": "DefaultFromDisplayName",
           "Reference": "Default from display name",
-          "Target": ""
+          "Target": "Nombre a mostrar por defecto"
         }
       ]
     },
@@ -5548,97 +5548,97 @@
         {
           "LocalizationKey": "Permission:RoleManagement",
           "Reference": "Role management",
-          "Target": ""
+          "Target": "Administración de roles"
         },
         {
           "LocalizationKey": "Permission:ClaimManagement",
           "Reference": "Claim management",
-          "Target": ""
+          "Target": "Administración de claims"
         },
         {
           "LocalizationKey": "Permission:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "Crear"
         },
         {
           "LocalizationKey": "Permission:Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "Permission:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "Permission:ChangePermissions",
           "Reference": "Change permissions",
-          "Target": ""
+          "Target": "Cambiar permisos"
         },
         {
           "LocalizationKey": "Permission:ViewChangeHistory",
           "Reference": "View change history",
-          "Target": ""
+          "Target": "Ver historial de cambios"
         },
         {
           "LocalizationKey": "Permission:UserManagement",
           "Reference": "User management",
-          "Target": ""
+          "Target": "Administración de usuario"
         },
         {
           "LocalizationKey": "Permission:SettingManagement",
           "Reference": "Setting management",
-          "Target": ""
+          "Target": "Administracion de configuraciones"
         },
         {
           "LocalizationKey": "Permission:OrganizationUnitManagement",
           "Reference": "Organization Unit Management",
-          "Target": ""
+          "Target": "Administracion de unidades organizativas"
         },
         {
           "LocalizationKey": "Permission:ManageOU",
           "Reference": "Managing organization tree",
-          "Target": ""
+          "Target": "Administrar arbol organizacional"
         },
         {
           "LocalizationKey": "Permission:ManageUsers",
           "Reference": "Managing users",
-          "Target": ""
+          "Target": "Administrar usuarios"
         },
         {
           "LocalizationKey": "Permission:ManageRoles",
           "Reference": "Managing roles",
-          "Target": ""
+          "Target": "Administración de roles"
         },
         {
           "LocalizationKey": "Permission:SecurityLogs",
           "Reference": "Security logs",
-          "Target": ""
+          "Target": "Logs de seguridad"
         },
         {
           "LocalizationKey": "Menu:SecurityLogs",
           "Reference": "Security logs",
-          "Target": ""
+          "Target": "Logs de seguridad"
         },
         {
           "LocalizationKey": "Menu:IdentityManagement",
           "Reference": "Identity Management",
-          "Target": ""
+          "Target": "Administración de identidad"
         },
         {
           "LocalizationKey": "Users",
           "Reference": "Users",
-          "Target": ""
+          "Target": "Usuarios"
         },
         {
           "LocalizationKey": "Lock",
           "Reference": "Lock",
-          "Target": ""
+          "Target": "Bloqueo"
         },
         {
           "LocalizationKey": "Unlock",
           "Reference": "Unlock",
-          "Target": ""
+          "Target": "Desbloqueo"
         },
         {
           "LocalizationKey": "UserLockoutNotEnabled{0}",
@@ -5648,67 +5648,67 @@
         {
           "LocalizationKey": "TwoFactor",
           "Reference": "Two factor",
-          "Target": ""
+          "Target": "Doble factor"
         },
         {
           "LocalizationKey": "DisplayName:TwoFactorEnabled",
           "Reference": "Two factor enabled",
-          "Target": ""
+          "Target": "Doble facto activado"
         },
         {
           "LocalizationKey": "NewUser",
           "Reference": "New user",
-          "Target": ""
+          "Target": "Nuevo usuario"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "UserName",
           "Reference": "User name",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "EmailAddress",
           "Reference": "Email address",
-          "Target": ""
+          "Target": "Direcion de correo"
         },
         {
           "LocalizationKey": "PhoneNumber",
           "Reference": "Phone number",
-          "Target": ""
+          "Target": "Numero de telefono"
         },
         {
           "LocalizationKey": "UserInformation",
           "Reference": "User information",
-          "Target": ""
+          "Target": "Informacion de usuario"
         },
         {
           "LocalizationKey": "ClaimTypes",
           "Reference": "Claim Types",
-          "Target": ""
+          "Target": "Tipos de claim"
         },
         {
           "LocalizationKey": "Roles",
           "Reference": "Roles",
-          "Target": ""
+          "Target": "Roles"
         },
         {
           "LocalizationKey": "Roles{0}",
           "Reference": "Roles ({0})",
-          "Target": ""
+          "Target": "Roles ({0})"
         },
         {
           "LocalizationKey": "Members",
           "Reference": "Members",
-          "Target": ""
+          "Target": "Miembros"
         },
         {
           "LocalizationKey": "OrganizationUnits",
           "Reference": "Organization Units",
-          "Target": ""
+          "Target": "Unidad oganizativa"
         },
         {
           "LocalizationKey": "OrganizationUnits{0}",
@@ -5723,52 +5723,52 @@
         {
           "LocalizationKey": "OrganizationUnit:Root",
           "Reference": "Root unit",
-          "Target": ""
+          "Target": "Unidad raiz"
         },
         {
           "LocalizationKey": "Type",
           "Reference": "Type",
-          "Target": ""
+          "Target": "Tipo"
         },
         {
           "LocalizationKey": "Claims",
           "Reference": "Claims",
-          "Target": ""
+          "Target": "Claims"
         },
         {
           "LocalizationKey": "NewClaimType",
           "Reference": "New claim type",
-          "Target": ""
+          "Target": "Nuevo tipo de Claim"
         },
         {
           "LocalizationKey": "ValueType",
           "Reference": "Value Type",
-          "Target": ""
+          "Target": "Tipo de valor"
         },
         {
           "LocalizationKey": "Description",
           "Reference": "Description",
-          "Target": ""
+          "Target": "Descripción"
         },
         {
           "LocalizationKey": "Required",
           "Reference": "Required",
-          "Target": ""
+          "Target": "Requerido"
         },
         {
           "LocalizationKey": "Regex",
           "Reference": "Regex",
-          "Target": ""
+          "Target": "Expresión regular"
         },
         {
           "LocalizationKey": "RegexDescription",
           "Reference": "Regex description",
-          "Target": ""
+          "Target": "Descripción Regex"
         },
         {
           "LocalizationKey": "IsStatic",
           "Reference": "Is Static",
-          "Target": ""
+          "Target": "Es estatico"
         },
         {
           "LocalizationKey": "ClaimTypeDeletionConfirmationMessage",
@@ -5778,7 +5778,7 @@
         {
           "LocalizationKey": "Password",
           "Reference": "Password",
-          "Target": ""
+          "Target": "Contraseña"
         },
         {
           "LocalizationKey": "UserDeletionConfirmationMessage",
@@ -5798,67 +5798,67 @@
         {
           "LocalizationKey": "SelectUsers",
           "Reference": "Select users",
-          "Target": ""
+          "Target": "Seleccione usuarios"
         },
         {
           "LocalizationKey": "SelectRoles",
           "Reference": "Select roles",
-          "Target": ""
+          "Target": "Seleccione roles"
         },
         {
           "LocalizationKey": "DisplayName:RoleName",
           "Reference": "Role name",
-          "Target": ""
+          "Target": "Nombre rol"
         },
         {
           "LocalizationKey": "DisplayName:IsDefault",
           "Reference": "Default",
-          "Target": ""
+          "Target": "Por defecto"
         },
         {
           "LocalizationKey": "DisplayName:IsStatic",
           "Reference": "Static",
-          "Target": ""
+          "Target": "Estatico"
         },
         {
           "LocalizationKey": "DisplayName:IsPublic",
           "Reference": "Public",
-          "Target": ""
+          "Target": "Publico"
         },
         {
           "LocalizationKey": "DisplayName:UserName",
           "Reference": "User name",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "DisplayName:Email",
           "Reference": "Email",
-          "Target": ""
+          "Target": "Correo electronico"
         },
         {
           "LocalizationKey": "DisplayName:Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "DisplayName:Surname",
           "Reference": "Surname",
-          "Target": ""
+          "Target": "Apellido"
         },
         {
           "LocalizationKey": "DisplayName:Password",
           "Reference": "Password",
-          "Target": ""
+          "Target": "Contraseña"
         },
         {
           "LocalizationKey": "DisplayName:EmailAddress",
           "Reference": "Email address",
-          "Target": ""
+          "Target": "Dirección de correo"
         },
         {
           "LocalizationKey": "DisplayName:PhoneNumber",
           "Reference": "Phone number",
-          "Target": ""
+          "Target": "Numero de telefono"
         },
         {
           "LocalizationKey": "DisplayName:LockoutEnabled",
@@ -5868,12 +5868,12 @@
         {
           "LocalizationKey": "SelectAnOrganizationUnitToSeeMembers",
           "Reference": "Select an organization unit to see members",
-          "Target": ""
+          "Target": "Seleccione una unidad organizativa para ver los miembros"
         },
         {
           "LocalizationKey": "SelectAnOrganizationUnitToSeeRoles",
           "Reference": "Select an organization unit to see roles",
-          "Target": ""
+          "Target": "Seleccione una unidad organizativa para ver los roles"
         },
         {
           "LocalizationKey": "RemoveUserFromOuWarningMessage",
@@ -5888,97 +5888,97 @@
         {
           "LocalizationKey": "OrganizationTree",
           "Reference": "Organization tree",
-          "Target": ""
+          "Target": "Arbol organizacional"
         },
         {
           "LocalizationKey": "AddRootUnit",
           "Reference": "Add root unit",
-          "Target": ""
+          "Target": "Agregar unidad raiz"
         },
         {
           "LocalizationKey": "AddSubUnit",
           "Reference": "Add sub-unit",
-          "Target": ""
+          "Target": "Agregar sub-unidad"
         },
         {
           "LocalizationKey": "AddRole",
           "Reference": "Add role",
-          "Target": ""
+          "Target": "Agregar rol"
         },
         {
           "LocalizationKey": "AddMember",
           "Reference": "Add member",
-          "Target": ""
+          "Target": "Agregar miembro"
         },
         {
           "LocalizationKey": "NewRole",
           "Reference": "New role",
-          "Target": ""
+          "Target": "Nuevo rol"
         },
         {
           "LocalizationKey": "RoleName",
           "Reference": "Role name",
-          "Target": ""
+          "Target": "Nombre de rol"
         },
         {
           "LocalizationKey": "CreationTime",
           "Reference": "Creation time",
-          "Target": ""
+          "Target": "Fecha de creacion"
         },
         {
           "LocalizationKey": "Permissions",
           "Reference": "Permissions",
-          "Target": ""
+          "Target": "Permisos"
         },
         {
           "LocalizationKey": "DisplayName:CurrentPassword",
           "Reference": "Current password",
-          "Target": ""
+          "Target": "Contraseña actual"
         },
         {
           "LocalizationKey": "DisplayName:NewPassword",
           "Reference": "New password",
-          "Target": ""
+          "Target": "Nueva contraseña"
         },
         {
           "LocalizationKey": "DisplayName:NewPasswordConfirm",
           "Reference": "Confirm new password",
-          "Target": ""
+          "Target": "Confirmar nueva contraseña"
         },
         {
           "LocalizationKey": "GenerateRandomPasswordTooltip",
           "Reference": "Generate Random Password",
-          "Target": ""
+          "Target": "Generar contraseña aleatoria"
         },
         {
           "LocalizationKey": "PasswordChangedMessage",
           "Reference": "Your password has been changed successfully.",
-          "Target": ""
+          "Target": "Su contraseña ha sido cambiada exitosamente."
         },
         {
           "LocalizationKey": "SavedSuccessfully",
           "Reference": "Saved Successfully",
-          "Target": ""
+          "Target": "Guardado exitosamente"
         },
         {
           "LocalizationKey": "PasswordSettings",
           "Reference": "Password Settings",
-          "Target": ""
+          "Target": "Configuración de contraseña"
         },
         {
           "LocalizationKey": "SetPassword",
           "Reference": "Set Password",
-          "Target": ""
+          "Target": "Establecer contraseña"
         },
         {
           "LocalizationKey": "PasswordsAreNotSame",
           "Reference": "The given passwords are not equal.",
-          "Target": ""
+          "Target": "Las contraseñas ingresadas no son iguales."
         },
         {
           "LocalizationKey": "UserNotFound",
           "Reference": "User is not exist",
-          "Target": ""
+          "Target": "El usuario no existe"
         },
         {
           "LocalizationKey": "LockoutSettings",
@@ -5988,12 +5988,12 @@
         {
           "LocalizationKey": "SignInSettings",
           "Reference": "SignIn Settings",
-          "Target": ""
+          "Target": "Configuración de inicio de sesión"
         },
         {
           "LocalizationKey": "UserSettings",
           "Reference": "User Settings",
-          "Target": ""
+          "Target": "Configuración de usuario"
         },
         {
           "LocalizationKey": "DisplayName:LockDurationType",
@@ -6003,32 +6003,32 @@
         {
           "LocalizationKey": "Enum:LockDurationType.Second",
           "Reference": "Seconds",
-          "Target": ""
+          "Target": "Segundos"
         },
         {
           "LocalizationKey": "Enum:LockDurationType.Minute",
           "Reference": "Minutes",
-          "Target": ""
+          "Target": "Minutos"
         },
         {
           "LocalizationKey": "Enum:LockDurationType.Hour",
           "Reference": "Hours",
-          "Target": ""
+          "Target": "Horas"
         },
         {
           "LocalizationKey": "Enum:LockDurationType.Day",
           "Reference": "Days",
-          "Target": ""
+          "Target": "Dias"
         },
         {
           "LocalizationKey": "Enum:LockDurationType.Month",
           "Reference": "Months",
-          "Target": ""
+          "Target": "Meses"
         },
         {
           "LocalizationKey": "Enum:LockDurationType.Year",
           "Reference": "Years",
-          "Target": ""
+          "Target": "Años"
         },
         {
           "LocalizationKey": "ThisUserIsLockedOutMessage",
@@ -6038,27 +6038,27 @@
         {
           "LocalizationKey": "UserUnlocked",
           "Reference": "User unlocked.",
-          "Target": ""
+          "Target": "Usuario desbloqueado."
         },
         {
           "LocalizationKey": "AddClaim",
           "Reference": "Add Claim",
-          "Target": ""
+          "Target": "Agregar claim"
         },
         {
           "LocalizationKey": "ChangeHistory",
           "Reference": "Change History",
-          "Target": ""
+          "Target": "Cambiar historial"
         },
         {
           "LocalizationKey": "NewOrganizationUnit",
           "Reference": "New organization unit",
-          "Target": ""
+          "Target": "Nueva unidad organizativa"
         },
         {
           "LocalizationKey": "DisplayName",
           "Reference": "Display name",
-          "Target": ""
+          "Target": "Nombre a mostrar"
         },
         {
           "LocalizationKey": "OrganizationUnitMoveConfirmMessage",
@@ -6068,7 +6068,7 @@
         {
           "LocalizationKey": "NoOrganizationUnits",
           "Reference": "No organization units!",
-          "Target": ""
+          "Target": "No hay unidades organizativas!"
         },
         {
           "LocalizationKey": "OrganizationUnitDuplicateDisplayNameWarning",
@@ -6078,42 +6078,42 @@
         {
           "LocalizationKey": "SecurityLogs",
           "Reference": "Security Logs",
-          "Target": ""
+          "Target": "Logs de seguridad"
         },
         {
           "LocalizationKey": "SecurityLogs:StartTime",
           "Reference": "Start Time",
-          "Target": ""
+          "Target": "Fecha de inicio"
         },
         {
           "LocalizationKey": "SecurityLogs:EndTime",
           "Reference": "End Time",
-          "Target": ""
+          "Target": "Fecha final"
         },
         {
           "LocalizationKey": "SecurityLogs:Application",
           "Reference": "Application",
-          "Target": ""
+          "Target": "Aplicación"
         },
         {
           "LocalizationKey": "SecurityLogs:Identity",
           "Reference": "Identity",
-          "Target": ""
+          "Target": "Identidad"
         },
         {
           "LocalizationKey": "SecurityLogs:Action",
           "Reference": "Action",
-          "Target": ""
+          "Target": "Acción"
         },
         {
           "LocalizationKey": "SecurityLogs:UserName",
           "Reference": "Username",
-          "Target": ""
+          "Target": "Nombre de usuario"
         },
         {
           "LocalizationKey": "SecurityLogs:Client",
           "Reference": "Client",
-          "Target": ""
+          "Target": "Cliente"
         },
         {
           "LocalizationKey": "SecurityLogs:CorrelationId",
@@ -6123,7 +6123,7 @@
         {
           "LocalizationKey": "SecurityLogs:Time",
           "Reference": "Time",
-          "Target": ""
+          "Target": "TiempoTiempo"
         },
         {
           "LocalizationKey": "SecurityLogs:IpAddress",
@@ -6133,7 +6133,7 @@
         {
           "LocalizationKey": "SecurityLogs:Browser",
           "Reference": "Browser",
-          "Target": ""
+          "Target": "Navegar"
         },
         {
           "LocalizationKey": "InvalidLinkToken",
@@ -6148,42 +6148,42 @@
         {
           "LocalizationKey": "Permission:LanguageManagement",
           "Reference": "Language Management",
-          "Target": ""
+          "Target": "administración de lenguaje"
         },
         {
           "LocalizationKey": "Permission:LanguageTexts",
           "Reference": "Language Texts",
-          "Target": ""
+          "Target": "Textos de lenguaje"
         },
         {
           "LocalizationKey": "Permission:LanguageTextsEdit",
           "Reference": "Edit Language Texts",
-          "Target": ""
+          "Target": "Editar textos de lenguaje"
         },
         {
           "LocalizationKey": "Permission:Languages",
           "Reference": "Languages",
-          "Target": ""
+          "Target": "Lenguajes"
         },
         {
           "LocalizationKey": "Permission:LanguagesEdit",
           "Reference": "Edit Language",
-          "Target": ""
+          "Target": "Editar lenguaje"
         },
         {
           "LocalizationKey": "Permission:LanguagesCreate",
           "Reference": "Create Language",
-          "Target": ""
+          "Target": "Crear lenguaje"
         },
         {
           "LocalizationKey": "Permission:LanguagesChangeDefault",
           "Reference": "Change Default Language",
-          "Target": ""
+          "Target": "Cambiar el lenguaje por defecto"
         },
         {
           "LocalizationKey": "Permission:LanguagesDelete",
           "Reference": "Delete Language",
-          "Target": ""
+          "Target": "Eliminar lenguaje"
         }
       ]
     },
@@ -6193,7 +6193,7 @@
         {
           "LocalizationKey": "LanguageManagement",
           "Reference": "Language Management",
-          "Target": ""
+          "Target": "Administración de lenguaje"
         },
         {
           "LocalizationKey": "Languages",
@@ -6208,62 +6208,62 @@
         {
           "LocalizationKey": "All",
           "Reference": "All",
-          "Target": ""
+          "Target": "Todo"
         },
         {
           "LocalizationKey": "BaseValue",
           "Reference": "Base Value",
-          "Target": ""
+          "Target": "Valor base"
         },
         {
           "LocalizationKey": "LanguageTexts",
           "Reference": "Language Texts",
-          "Target": ""
+          "Target": "Textos de lenguaje"
         },
         {
           "LocalizationKey": "BaseCultureName",
           "Reference": "Base Culture Name",
-          "Target": ""
+          "Target": "Nombre de cultura base"
         },
         {
           "LocalizationKey": "BaseCultureValue",
           "Reference": "Base Culture Value",
-          "Target": ""
+          "Target": "Valor de cultura base"
         },
         {
           "LocalizationKey": "TargetCultureValue",
           "Reference": "Target Culture Value",
-          "Target": ""
+          "Target": "Valor de cultura destino"
         },
         {
           "LocalizationKey": "TargetCultureName",
           "Reference": "Target Culture Name",
-          "Target": ""
+          "Target": "Nombre de cultura destino"
         },
         {
           "LocalizationKey": "CultureName",
           "Reference": "Culture Name",
-          "Target": ""
+          "Target": "Nombre cultura"
         },
         {
           "LocalizationKey": "UiCultureName",
           "Reference": "Ui Culture Name",
-          "Target": ""
+          "Target": "Nombre de cultura Ui"
         },
         {
           "LocalizationKey": "ResourceName",
           "Reference": "Resource Name",
-          "Target": ""
+          "Target": "Nombre de recurso"
         },
         {
           "LocalizationKey": "RestoreToDefault",
           "Reference": "Restore to default",
-          "Target": ""
+          "Target": "Restablecer al valor por defecto"
         },
         {
           "LocalizationKey": "SaveAndNext",
           "Reference": "Save And Next",
-          "Target": ""
+          "Target": "Guardar y siguiente"
         },
         {
           "LocalizationKey": "TargetValue",
@@ -6273,62 +6273,62 @@
         {
           "LocalizationKey": "Value",
           "Reference": "Value",
-          "Target": ""
+          "Target": "Valor"
         },
         {
           "LocalizationKey": "Key",
           "Reference": "Key",
-          "Target": ""
+          "Target": "Clave"
         },
         {
           "LocalizationKey": "Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "CreateNewLanguage",
           "Reference": "Create new language",
-          "Target": ""
+          "Target": "Crear nuevo lenguaje"
         },
         {
           "LocalizationKey": "Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "DisplayName",
           "Reference": "Display Name",
-          "Target": ""
+          "Target": "Nombre a mostrar"
         },
         {
           "LocalizationKey": "FlagIcon",
           "Reference": "Flag Icon",
-          "Target": ""
+          "Target": "Icono bandera"
         },
         {
           "LocalizationKey": "IsEnabled",
           "Reference": "Is Enabled",
-          "Target": ""
+          "Target": "Activo"
         },
         {
           "LocalizationKey": "SetAsDefaultLanguage",
           "Reference": "Set as default language",
-          "Target": ""
+          "Target": "Establecer como lenguaje predeterminado"
         },
         {
           "LocalizationKey": "DefaultLanguage",
           "Reference": "Default Language",
-          "Target": ""
+          "Target": "Lenguaje predeterminado"
         },
         {
           "LocalizationKey": "Menu:Languages",
           "Reference": "Languages",
-          "Target": ""
+          "Target": "Lenguajes"
         },
         {
           "LocalizationKey": "LanguageDeletionConfirmationMessage",
           "Reference": "'{0}' Language will be deleted. Do you confirm that?",
-          "Target": ""
+          "Target": "'{0}' Lenguaje sera eliminado. Esta seguro de esto?"
         },
         {
           "LocalizationKey": "Filter",
@@ -6348,7 +6348,7 @@
         {
           "LocalizationKey": "Menu:Saas",
           "Reference": "Saas",
-          "Target": ""
+          "Target": "Saas"
         },
         {
           "LocalizationKey": "Tenants",
@@ -6358,102 +6358,102 @@
         {
           "LocalizationKey": "NewTenant",
           "Reference": "New tenant",
-          "Target": ""
+          "Target": "Nuevo tenant"
         },
         {
           "LocalizationKey": "TenantName",
           "Reference": "Tenant name",
-          "Target": ""
+          "Target": "Nombre de tenant"
         },
         {
           "LocalizationKey": "DisplayName:TenantName",
           "Reference": "Tenant name",
-          "Target": ""
+          "Target": "Nombre de tenant"
         },
         {
           "LocalizationKey": "TenantDeletionConfirmationMessage",
           "Reference": "Tenant '{0}' will be deleted. Do you confirm that?",
-          "Target": ""
+          "Target": "El tenant '{0}' será eliminado. Esta seguro?"
         },
         {
           "LocalizationKey": "EditionDeletionConfirmationMessage",
           "Reference": "Edition '{0}' will be deleted. Do you confirm that?",
-          "Target": ""
+          "Target": "La edicion '{0}' sera eliminada. Esta seguro?"
         },
         {
           "LocalizationKey": "ConnectionStrings",
           "Reference": "Connection Strings",
-          "Target": ""
+          "Target": "Cadena de conexión"
         },
         {
           "LocalizationKey": "DisplayName:DefaultConnectionString",
           "Reference": "Default Connection String",
-          "Target": ""
+          "Target": "Cadena de conexión por defecto"
         },
         {
           "LocalizationKey": "DisplayName:UseSharedDatabase",
           "Reference": "Use the Shared Database",
-          "Target": ""
+          "Target": "Usar la base de datos compartida"
         },
         {
           "LocalizationKey": "DisplayName:EditionId",
           "Reference": "Edition",
-          "Target": ""
+          "Target": "Edicion"
         },
         {
           "LocalizationKey": "Edition",
           "Reference": "Edition",
-          "Target": ""
+          "Target": "Edicion"
         },
         {
           "LocalizationKey": "Editions",
           "Reference": "Editions",
-          "Target": ""
+          "Target": "Ediciones"
         },
         {
           "LocalizationKey": "NewEdition",
           "Reference": "New edition",
-          "Target": ""
+          "Target": "Nueva edicion"
         },
         {
           "LocalizationKey": "EditionName",
           "Reference": "Edition name",
-          "Target": ""
+          "Target": "Nombre de edicion"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "LatestTenants",
           "Reference": "Latest tenants",
-          "Target": ""
+          "Target": "Ultimos tenants(inquilinos)"
         },
         {
           "LocalizationKey": "EditionUsageStatistics",
           "Reference": "Edition usage statistics",
-          "Target": ""
+          "Target": "Estadisticas de uso de edicion"
         },
         {
           "LocalizationKey": "DisplayName:AdminEmailAddress",
           "Reference": "Tenant admin's email address",
-          "Target": ""
+          "Target": "Dirección de correo electronico de admin de tenant"
         },
         {
           "LocalizationKey": "DisplayName:AdminPassword",
           "Reference": "Tenant admin's password",
-          "Target": ""
+          "Target": "Contraseña de administrador del tenant"
         },
         {
           "LocalizationKey": "ChangeHistory",
           "Reference": "Change History",
-          "Target": ""
+          "Target": "Canbiar historia"
         },
         {
           "LocalizationKey": "ManageHostFeatures",
           "Reference": "Manage Host features",
-          "Target": ""
+          "Target": "Administrar funcionalidades del host"
         }
       ]
     },
@@ -6463,47 +6463,47 @@
         {
           "LocalizationKey": "Permission:Saas",
           "Reference": "Saas",
-          "Target": ""
+          "Target": "Saas"
         },
         {
           "LocalizationKey": "Permission:TenantManagement",
           "Reference": "Tenant management",
-          "Target": ""
+          "Target": "Administración de tenant"
         },
         {
           "LocalizationKey": "Permission:EditionManagement",
           "Reference": "Edition management",
-          "Target": ""
+          "Target": "Administración de ediciones"
         },
         {
           "LocalizationKey": "Permission:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "Crear"
         },
         {
           "LocalizationKey": "Permission:Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "Permission:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "Permission:ManageConnectionStrings",
           "Reference": "Manage connection strings",
-          "Target": ""
+          "Target": "Administrar cadenas de conexión"
         },
         {
           "LocalizationKey": "Permission:ManageFeatures",
           "Reference": "Manage features",
-          "Target": ""
+          "Target": "Administrar funcionalidades"
         },
         {
           "LocalizationKey": "Permission:ViewChangeHistory",
           "Reference": "View change history",
-          "Target": ""
+          "Target": "Ver historial de cambios"
         }
       ]
     },
@@ -6513,47 +6513,47 @@
         {
           "LocalizationKey": "Menu:TextTemplates",
           "Reference": "Text Templates",
-          "Target": ""
+          "Target": "Plantillas de texto"
         },
         {
           "LocalizationKey": "Menu:TextTemplates:TemplateDefinitions",
           "Reference": "Template Definitions",
-          "Target": ""
+          "Target": "Definiciones de plantilla"
         },
         {
           "LocalizationKey": "Permission:TextTemplateManagement",
           "Reference": "Text Template Management",
-          "Target": ""
+          "Target": "Administracion de plantillas de texto"
         },
         {
           "LocalizationKey": "Permission:TextTemplates",
           "Reference": "Text Templates",
-          "Target": ""
+          "Target": "Plantillas de texto"
         },
         {
           "LocalizationKey": "Permission:EditContents",
           "Reference": "Edit Contents",
-          "Target": ""
+          "Target": "Editar contenido"
         },
         {
           "LocalizationKey": "TemplateContents",
           "Reference": "Template Contents",
-          "Target": ""
+          "Target": "Contenido de plantilla"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "IsLayout",
           "Reference": "Is Layout?",
-          "Target": ""
+          "Target": "Es Layout?"
         },
         {
           "LocalizationKey": "Layout",
           "Reference": "Layout",
-          "Target": ""
+          "Target": "Layout"
         },
         {
           "LocalizationKey": "LocalizationResource",
@@ -6563,67 +6563,67 @@
         {
           "LocalizationKey": "DefaultCultureName",
           "Reference": "Default Culture Name",
-          "Target": ""
+          "Target": "Nombre de cultura por defecto"
         },
         {
           "LocalizationKey": "Contents",
           "Reference": "Contents",
-          "Target": ""
+          "Target": "Contenidos"
         },
         {
           "LocalizationKey": "SeeContents",
           "Reference": "See Contents",
-          "Target": ""
+          "Target": "Ver contenidos"
         },
         {
           "LocalizationKey": "EditContents",
           "Reference": "Edit Contents",
-          "Target": ""
+          "Target": "Editar contenidos"
         },
         {
           "LocalizationKey": "BaseCultureName",
           "Reference": "Reference Culture Name",
-          "Target": ""
+          "Target": "Referencia de nombre de cultura"
         },
         {
           "LocalizationKey": "TargetCultureName",
           "Reference": "Target Culture Name",
-          "Target": ""
+          "Target": "Nombre de cultura objetivo"
         },
         {
           "LocalizationKey": "BaseContent",
           "Reference": "Reference Content",
-          "Target": ""
+          "Target": "Contenido de referencia"
         },
         {
           "LocalizationKey": "TargetContent",
           "Reference": "Target Content",
-          "Target": ""
+          "Target": "Objetivo de contenido"
         },
         {
           "LocalizationKey": "SaveContent",
           "Reference": "Save Content",
-          "Target": ""
+          "Target": "Guardar contenido"
         },
         {
           "LocalizationKey": "RestoreToDefault",
           "Reference": "Restore To Default",
-          "Target": ""
+          "Target": "Restablecer al valor por defecto"
         },
         {
           "LocalizationKey": "RestoreToDefaultMessage",
           "Reference": "Are you sure? This action will convert the content to the default value.",
-          "Target": ""
+          "Target": "Esta seguro? Esto convertira el contenido en el valor por defecto"
         },
         {
           "LocalizationKey": "IsInlineLocalized",
           "Reference": "Inline Localized",
-          "Target": ""
+          "Target": "Localizado en linea"
         },
         {
           "LocalizationKey": "Success",
           "Reference": "Success",
-          "Target": ""
+          "Target": "Realizado con exito"
         },
         {
           "LocalizationKey": "TemplateContentUpdated",
@@ -6638,7 +6638,7 @@
         {
           "LocalizationKey": "TemplateContent",
           "Reference": "Template Content",
-          "Target": ""
+          "Target": "Contenido de plantilla"
         },
         {
           "LocalizationKey": "InlineContentDescription",
@@ -6648,22 +6648,22 @@
         {
           "LocalizationKey": "CustomizePerCulture",
           "Reference": "Customize per culture",
-          "Target": ""
+          "Target": "Personalizar por cultura"
         },
         {
           "LocalizationKey": "DisplayName",
           "Reference": "Display Name",
-          "Target": ""
+          "Target": "Nombre a mostrar"
         },
         {
           "LocalizationKey": "Search",
           "Reference": "Search",
-          "Target": ""
+          "Target": "Buscar"
         },
         {
           "LocalizationKey": "ReturnToTemplates",
           "Reference": "Return To Templates",
-          "Target": ""
+          "Target": "Volver a las plantillas"
         }
       ]
     },
@@ -6673,97 +6673,97 @@
         {
           "LocalizationKey": "Permissions",
           "Reference": "Permissions",
-          "Target": ""
+          "Target": "Permisos"
         },
         {
           "LocalizationKey": "Permission:Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "Permission:Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "Crear"
         },
         {
           "LocalizationKey": "Permission:Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "Permission:ApiResources",
           "Reference": "Api Resources",
-          "Target": ""
+          "Target": "Recursos Api"
         },
         {
           "LocalizationKey": "Permission:ApiScope",
           "Reference": "Api Scopes",
-          "Target": ""
+          "Target": "Alcance de Api"
         },
         {
           "LocalizationKey": "Permission:IdentityResources",
           "Reference": "Identity Resources",
-          "Target": ""
+          "Target": "Recursos de Identity"
         },
         {
           "LocalizationKey": "Permission:Clients",
           "Reference": "Clients",
-          "Target": ""
+          "Target": "Clientes"
         },
         {
           "LocalizationKey": "Permission:ManagePermissions",
           "Reference": "Manage Permissions",
-          "Target": ""
+          "Target": "Administrar Permisos"
         },
         {
           "LocalizationKey": "Permission:IdentityServer",
           "Reference": "Identity Server",
-          "Target": ""
+          "Target": "Servidor de identidad"
         },
         {
           "LocalizationKey": "Permission:ViewChangeHistory",
           "Reference": "View change history",
-          "Target": ""
+          "Target": "Ver historial de cambios"
         },
         {
           "LocalizationKey": "Id",
           "Reference": "Id",
-          "Target": ""
+          "Target": "Id"
         },
         {
           "LocalizationKey": "ClientId",
           "Reference": "Client Id",
-          "Target": ""
+          "Target": "Id Cliente"
         },
         {
           "LocalizationKey": "Resources",
           "Reference": "Resources",
-          "Target": ""
+          "Target": "Recursos"
         },
         {
           "LocalizationKey": "Tokens",
           "Reference": "Tokens",
-          "Target": ""
+          "Target": "Tokens"
         },
         {
           "LocalizationKey": "IdentityProviderRestrictions",
           "Reference": "Restrictions",
-          "Target": ""
+          "Target": "Restricciones"
         },
         {
           "LocalizationKey": "Details",
           "Reference": "Details",
-          "Target": ""
+          "Target": "Detalles"
         },
         {
           "LocalizationKey": "Properties",
           "Reference": "Properties",
-          "Target": ""
+          "Target": "Propiedades"
         },
         {
           "LocalizationKey": "GrantTypes",
           "Reference": "Grant Types",
-          "Target": ""
+          "Target": "Tipos de permisos"
         },
         {
           "LocalizationKey": "AllowRememberConsent",
@@ -6778,12 +6778,12 @@
         {
           "LocalizationKey": "ApplicationUrls",
           "Reference": "Application Urls",
-          "Target": ""
+          "Target": "Urls de aplicacion"
         },
         {
           "LocalizationKey": "ApplicationUrl",
           "Reference": "Application Url",
-          "Target": ""
+          "Target": "Urls de aplicacion"
         },
         {
           "LocalizationKey": "PairWiseSubjectSalt",
@@ -6838,22 +6838,22 @@
         {
           "LocalizationKey": "LogoUri",
           "Reference": "Logo Uri",
-          "Target": ""
+          "Target": "Uri de logo"
         },
         {
           "LocalizationKey": "LogoutUrl",
           "Reference": "Logout Url",
-          "Target": ""
+          "Target": "Url logout"
         },
         {
           "LocalizationKey": "CallbackUrl",
           "Reference": "Callback Url",
-          "Target": ""
+          "Target": "Url Callback"
         },
         {
           "LocalizationKey": "SignoutUrl",
           "Reference": "Signout Url",
-          "Target": ""
+          "Target": "Url Signout"
         },
         {
           "LocalizationKey": "AllowedIdentityTokenSigningAlgorithms",
@@ -6888,212 +6888,212 @@
         {
           "LocalizationKey": "AllowedCorsOrigins",
           "Reference": "Allowed CORS Origins",
-          "Target": ""
+          "Target": "Permitir origenes CORS"
         },
         {
           "LocalizationKey": "RequireConsent",
           "Reference": "Require Consent",
-          "Target": ""
+          "Target": "Requiere consentimiento"
         },
         {
           "LocalizationKey": "RequirePkce",
           "Reference": "Require pkce",
-          "Target": ""
+          "Target": "Requiere pkce"
         },
         {
           "LocalizationKey": "RequireRequestObject",
           "Reference": "Require request object",
-          "Target": ""
+          "Target": "Requiere solicitud de objeto"
         },
         {
           "LocalizationKey": "RequireClientSecret",
           "Reference": "Require client secret",
-          "Target": ""
+          "Target": "Requiere secretos del cliente"
         },
         {
           "LocalizationKey": "AlwaysSendClientClaims",
           "Reference": "Always send client claims",
-          "Target": ""
+          "Target": "Siempre enviar claims al cliente"
         },
         {
           "LocalizationKey": "EnableLocalLogin",
           "Reference": "Enable local login",
-          "Target": ""
+          "Target": "Activar login local"
         },
         {
           "LocalizationKey": "AccessTokenLifetime",
           "Reference": "Access Token Lifetime",
-          "Target": ""
+          "Target": "Acceso al token de por vida"
         },
         {
           "LocalizationKey": "Menu:IdentityServer",
           "Reference": "Identity Server",
-          "Target": ""
+          "Target": "Servidor de identidad"
         },
         {
           "LocalizationKey": "Menu:IdentityResources",
           "Reference": "Identity resources",
-          "Target": ""
+          "Target": "Recursos de identidad"
         },
         {
           "LocalizationKey": "Menu:ApiResources",
           "Reference": "Api resources",
-          "Target": ""
+          "Target": "Recursos Api"
         },
         {
           "LocalizationKey": "Menu:ApiScopes",
           "Reference": "Api scopes",
-          "Target": ""
+          "Target": "Alcance de Api"
         },
         {
           "LocalizationKey": "Menu:Clients",
           "Reference": "Clients",
-          "Target": ""
+          "Target": "Clientes"
         },
         {
           "LocalizationKey": "Clients",
           "Reference": "Clients",
-          "Target": ""
+          "Target": "Clientes"
         },
         {
           "LocalizationKey": "CreateANewResource",
           "Reference": "Create a new resource",
-          "Target": ""
+          "Target": "Crear un nuevo recurso"
         },
         {
           "LocalizationKey": "CreateANewScope",
           "Reference": "Create a new api scope",
-          "Target": ""
+          "Target": "Crear un nuevo alcance de api"
         },
         {
           "LocalizationKey": "CreateANewClient",
           "Reference": "Create a new client",
-          "Target": ""
+          "Target": "Crear un nuevo cliente"
         },
         {
           "LocalizationKey": "IdentityResources",
           "Reference": "Identity resources",
-          "Target": ""
+          "Target": "Recurso de identidad"
         },
         {
           "LocalizationKey": "ApiResources",
           "Reference": "Api resources",
-          "Target": ""
+          "Target": "Recursos Api"
         },
         {
           "LocalizationKey": "ApiScopes",
           "Reference": "Api scopes",
-          "Target": ""
+          "Target": "Recursos Api"
         },
         {
           "LocalizationKey": "NotOwnedClaims",
           "Reference": "Not owned claims:",
-          "Target": ""
+          "Target": "Not owned claims:"
         },
         {
           "LocalizationKey": "OwnedClaims",
           "Reference": "Owned claims:",
-          "Target": ""
+          "Target": "Propiedades claim"
         },
         {
           "LocalizationKey": "Claims",
           "Reference": "Claims",
-          "Target": ""
+          "Target": "Claims"
         },
         {
           "LocalizationKey": "DisplayName",
           "Reference": "Display Name",
-          "Target": ""
+          "Target": "Nombre a mostrar"
         },
         {
           "LocalizationKey": "Description",
           "Reference": "Description",
-          "Target": ""
+          "Target": "Descripcion"
         },
         {
           "LocalizationKey": "Name",
           "Reference": "Name",
-          "Target": ""
+          "Target": "Nombre"
         },
         {
           "LocalizationKey": "Type",
           "Reference": "Type",
-          "Target": ""
+          "Target": "Tipo"
         },
         {
           "LocalizationKey": "Value",
           "Reference": "Value",
-          "Target": ""
+          "Target": "Valor"
         },
         {
           "LocalizationKey": "Expiration",
           "Reference": "Expiration",
-          "Target": ""
+          "Target": "Expira"
         },
         {
           "LocalizationKey": "AddNew",
           "Reference": "Add new",
-          "Target": ""
+          "Target": "Agregar nuevo"
         },
         {
           "LocalizationKey": "Secrets",
           "Reference": "Secrets",
-          "Target": ""
+          "Target": "Secretos"
         },
         {
           "LocalizationKey": "ShowInDiscoveryDocument",
           "Reference": "Show In Discovery Document",
-          "Target": ""
+          "Target": "Mostrar en el documento descubierto"
         },
         {
           "LocalizationKey": "Required",
           "Reference": "Required",
-          "Target": ""
+          "Target": "Requerido"
         },
         {
           "LocalizationKey": "Enabled",
           "Reference": "Enabled",
-          "Target": ""
+          "Target": "Activado"
         },
         {
           "LocalizationKey": "Add",
           "Reference": "Add",
-          "Target": ""
+          "Target": "Agregar"
         },
         {
           "LocalizationKey": "Info",
           "Reference": "Info",
-          "Target": ""
+          "Target": "Info"
         },
         {
           "LocalizationKey": "Scopes",
           "Reference": "Scopes",
-          "Target": ""
+          "Target": "Alcances"
         },
         {
           "LocalizationKey": "Create",
           "Reference": "Create",
-          "Target": ""
+          "Target": "Crear"
         },
         {
           "LocalizationKey": "Delete",
           "Reference": "Delete",
-          "Target": ""
+          "Target": "Eliminar"
         },
         {
           "LocalizationKey": "Edit",
           "Reference": "Edit",
-          "Target": ""
+          "Target": "Editar"
         },
         {
           "LocalizationKey": "Emphasize",
           "Reference": "Emphasize",
-          "Target": ""
+          "Target": "Enfatizar"
         },
         {
           "LocalizationKey": "CreateStandardResources",
           "Reference": "Create standard resources",
-          "Target": ""
+          "Target": "Crear recursos estandar"
         },
         {
           "LocalizationKey": "CreateStandardIdentityResourcesWarningMessage",
@@ -7123,12 +7123,12 @@
         {
           "LocalizationKey": "MissingRequiredField",
           "Reference": "'{0}' field is required!",
-          "Target": ""
+          "Target": "'{0}' campo es requerido!"
         },
         {
           "LocalizationKey": "ChangeHistory",
           "Reference": "Change History",
-          "Target": ""
+          "Target": "Cambiar historial"
         }
       ]
     },
@@ -7138,67 +7138,67 @@
         {
           "LocalizationKey": "Menu:LeptonThemeSettings",
           "Reference": "Lepton Theme",
-          "Target": ""
+          "Target": "Lepton Theme"
         },
         {
           "LocalizationKey": "Permission:LeptonThemeSettings",
           "Reference": "Lepton Theme settings",
-          "Target": ""
+          "Target": "Lepton Theme Configuraciones"
         },
         {
           "LocalizationKey": "Permission:LeptonThemeManagement",
           "Reference": "Lepton Theme management",
-          "Target": ""
+          "Target": "Lepton Theme administración"
         },
         {
           "LocalizationKey": "DisplayName:BoxedLayout",
           "Reference": "Boxed layout",
-          "Target": ""
+          "Target": "Diseño de caja"
         },
         {
           "LocalizationKey": "DisplayName:MenuPlacement",
           "Reference": "Menu placement",
-          "Target": ""
+          "Target": "Ubicación de menu"
         },
         {
           "LocalizationKey": "DisplayName:MenuStatus",
           "Reference": "Menu status",
-          "Target": ""
+          "Target": "Estadod de menu"
         },
         {
           "LocalizationKey": "SuccessfullySaved",
           "Reference": "Successfully saved",
-          "Target": ""
+          "Target": "Guardado exitosamente"
         },
         {
           "LocalizationKey": "Left",
           "Reference": "Left",
-          "Target": ""
+          "Target": "Izquierda"
         },
         {
           "LocalizationKey": "Top",
           "Reference": "Top",
-          "Target": ""
+          "Target": "Arriba"
         },
         {
           "LocalizationKey": "AlwaysOpened",
           "Reference": "Always opened",
-          "Target": ""
+          "Target": "Siempre abierto"
         },
         {
           "LocalizationKey": "OpenOnHover",
           "Reference": "Open on hover",
-          "Target": ""
+          "Target": "Abrir al pasar cursor"
         },
         {
           "LocalizationKey": "DisplayName:Style",
           "Reference": "Style",
-          "Target": ""
+          "Target": "Estilo"
         },
         {
           "LocalizationKey": "Authentication:YouAreLoggedOut",
           "Reference": "You are logged out.",
-          "Target": ""
+          "Target": "Usted esta registrado."
         }
       ]
     }
