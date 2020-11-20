@@ -2338,7 +2338,7 @@
         {
           "LocalizationKey": "SolutionFileNotExists",
           "Reference": "Solution file doesn't exist! Ensure that {0} exists.",
-          "Target": ""
+          "Target": "El archivo solución no existe! Asegurese de que {0} exista."
         },
         {
           "LocalizationKey": "CreateUserInterface",
@@ -2408,12 +2408,12 @@
         {
           "LocalizationKey": "NoProperty",
           "Reference": "No property yet.",
-          "Target": ""
+          "Target": "Sin propiedad todavia."
         },
         {
           "LocalizationKey": "NoSolutionFound",
           "Reference": "No solution file found! Ensure that {0} is a valid solution file or there is only 1 solution in that folder.",
-          "Target": ""
+          "Target": "Archivo solución no encontrado! Asegurese de que {0} sea un archivo solución válido o que solo haya una solución en la carpeta."
         },
         {
           "LocalizationKey": "AddSolution",
@@ -2423,17 +2423,17 @@
         {
           "LocalizationKey": "EnterSolutionPath",
           "Reference": "Enter your solution`s path / Create new solution",
-          "Target": ""
+          "Target": "Ingrese el directorio de la solucion / Crear nueva solución"
         },
         {
           "LocalizationKey": "ChooseFromRecentSolutions",
           "Reference": "Open Recent",
-          "Target": ""
+          "Target": "Recientemente abierto"
         },
         {
           "LocalizationKey": "ChooseAModuleToGetSourceCode",
           "Reference": "Choose a module to get source code",
-          "Target": ""
+          "Target": "Elija un módulo para obtener el código fuente"
         },
         {
           "LocalizationKey": "Active",
@@ -2478,7 +2478,7 @@
         {
           "LocalizationKey": "ConnectionString",
           "Reference": "Connection string",
-          "Target": "Cadena de conexion"
+          "Target": "Cadena de conexión"
         },
         {
           "LocalizationKey": "UiFramework",
@@ -2503,12 +2503,12 @@
         {
           "LocalizationKey": "PreviewVersion",
           "Reference": "PreviewVersion",
-          "Target": ""
+          "Target": "Version preliminar"
         },
         {
           "LocalizationKey": "SeparateIdentityServer",
           "Reference": "Separated Identity Server",
-          "Target": ""
+          "Target": "Identity Server separado"
         },
         {
           "LocalizationKey": "SolutionCreated",
@@ -2518,7 +2518,7 @@
         {
           "LocalizationKey": "SolutionCreatedInfo",
           "Reference": "Your solution has been created in {0}. Do you want to open the solution?",
-          "Target": ""
+          "Target": "Su solucion ha sido creada en {0}. Quiere abrir la solución?"
         },
         {
           "LocalizationKey": "UpdateAllAbpPackages",
@@ -2528,37 +2528,37 @@
         {
           "LocalizationKey": "SuccessfullyUpdatedNpmNugetPackages",
           "Reference": "Successfully updated NPM and NuGet packages in {0} solution",
-          "Target": ""
+          "Target": "Actualizado paquetes NPM y NuGet exitosamente en la solución {0}"
         },
         {
           "LocalizationKey": "SuccessfullyUpdatedNpmPackages",
           "Reference": "Successfully updated NPM packages in {0} solution",
-          "Target": ""
+          "Target": "Actualizado paquetes NPM exitosamente en la solución {0}"
         },
         {
           "LocalizationKey": "SuccessfullyUpdatedNugetPackages",
           "Reference": "Successfully updated NuGet packages in {0} solution",
-          "Target": ""
+          "Target": "Actualizado paquetes NuGet exitosamente en la solución {0}"
         },
         {
           "LocalizationKey": "AreYouSureUpdateNpmNugetPackages",
           "Reference": "Are you sure that you want to update NPM and NuGet packages in {0} solution?",
-          "Target": ""
+          "Target": "Está seguro que quiere actualizar los paquetes NPM y NuGet en la solución {0} ?"
         },
         {
           "LocalizationKey": "AreYouSureUpdateNpmPackages",
           "Reference": "Are you sure you want to update NPM packages in {0} solution?",
-          "Target": ""
+          "Target": "Esta seguro que quiere actualizar los paquetes NPM en la solución {0} ?"
         },
         {
           "LocalizationKey": "AreYouSureUpdateNugetPackages",
           "Reference": "Are you sure you want to update NuGet packages in {0} solution?",
-          "Target": ""
+          "Target": "Esta seguro que quiere actualizar los paquetes NuGet en la solución {0} ?"
         },
         {
           "LocalizationKey": "Or",
           "Reference": "or",
-          "Target": ""
+          "Target": "o"
         },
         {
           "LocalizationKey": "RemoveSolution",
@@ -2568,27 +2568,27 @@
         {
           "LocalizationKey": "ClickToOpenThisSolution",
           "Reference": "Click to open this solution",
-          "Target": ""
+          "Target": "Click para abrir esta solución"
         },
         {
           "LocalizationKey": "UpdateNpmPackages",
           "Reference": "Update NPM packages",
-          "Target": ""
+          "Target": "Actualizar paquetes NPM"
         },
         {
           "LocalizationKey": "UpdateNuGetPackages",
           "Reference": "Update NuGet packages",
-          "Target": ""
+          "Target": "Actualizar paquetes NuGet"
         },
         {
           "LocalizationKey": "UpdateNpmPackagesInfo",
           "Reference": "Updates only the NPM packages in the solution with the name prefix Volo.*",
-          "Target": ""
+          "Target": "Actualizar solo paquetes NPM en la solución con el nombre de prefijo Volo.*"
         },
         {
           "LocalizationKey": "UpdateNuGetPackagesInfo",
           "Reference": "Updates only the NuGet packages in the solution with the name prefix Volo.*",
-          "Target": ""
+          "Target": "Actualizar solo paquetes NuGet en la solución con el nombre de prefijo Volo.*"
         },
         {
           "LocalizationKey": "EntityNameHelpText",
@@ -2628,12 +2628,12 @@
         {
           "LocalizationKey": "GoToDocs",
           "Reference": "Documentation",
-          "Target": "Documentacion"
+          "Target": "Documentación"
         },
         {
           "LocalizationKey": "DownloadSourceCode",
           "Reference": "Download source code",
-          "Target": ""
+          "Target": "Descargar código fuente"
         },
         {
           "LocalizationKey": "Downloaded{0}Module{1}To{2}Location",
@@ -2643,7 +2643,7 @@
         {
           "LocalizationKey": "showOnlyProModules",
           "Reference": "Show only pro (commercial) modules",
-          "Target": ""
+          "Target": "Mostrar solo modulos pro (commercial)"
         },
         {
           "LocalizationKey": "Modules",
@@ -2658,7 +2658,7 @@
         {
           "LocalizationKey": "SavePathInfo",
           "Reference": "Where do you want to save this module in your computer?",
-          "Target": ""
+          "Target": "Donde desea guradar este módulo en su computadora?"
         },
         {
           "LocalizationKey": "VersionInfo",
@@ -4783,17 +4783,17 @@
         {
           "LocalizationKey": "TextTemplate:Abp.Account.Layout",
           "Reference": "Account email layout",
-          "Target": ""
+          "Target": "Layout cuenta de correo electronico"
         },
         {
           "LocalizationKey": "TextTemplate:Abp.Account.PasswordResetLink",
           "Reference": "Password reset email",
-          "Target": ""
+          "Target": "Correo electronico de restrablecimiento de contraseña"
         },
         {
           "LocalizationKey": "TextTemplate:Abp.Account.EmailConfirmationLink",
           "Reference": "Email confirmation email",
-          "Target": ""
+          "Target": "Correo electronico de confirmación"
         },
         {
           "LocalizationKey": "LoggedOutTitle",
@@ -4913,7 +4913,7 @@
         {
           "LocalizationKey": "Description:UseGravatar",
           "Reference": "Use Gravatar service for your profile picture.",
-          "Target": ""
+          "Target": "Usar servicio de Gravatar para su imagen de perfil."
         },
         {
           "LocalizationKey": "SaveChanges",
@@ -4958,7 +4958,7 @@
         {
           "LocalizationKey": "AccountPro:0001",
           "Reference": "You must upload an image!",
-          "Target": ""
+          "Target": "Debe subir una imagen!"
         },
         {
           "LocalizationKey": "ProfileTab:Picture",
