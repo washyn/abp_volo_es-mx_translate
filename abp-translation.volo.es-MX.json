@@ -5013,12 +5013,12 @@
         {
           "LocalizationKey": "DisplayName:SiteKey",
           "Reference": "Site key",
-          "Target": ""
+          "Target": "Clave del sitio"
         },
         {
           "LocalizationKey": "DisplayName:SiteSecret",
           "Reference": "Site secret",
-          "Target": ""
+          "Target": "Secreto del sitio"
         },
         {
           "LocalizationKey": "DisplayName:Version",
@@ -5118,42 +5118,42 @@
         {
           "LocalizationKey": "Permission:AuditLogging",
           "Reference": "Audit Logging",
-          "Target": ""
+          "Target": "Registro de auditoría"
         },
         {
           "LocalizationKey": "Permission:AuditLogs",
           "Reference": "Audit Logs",
-          "Target": ""
+          "Target": "Registros de auditoría"
         },
         {
           "LocalizationKey": "Menu:AuditLogging",
           "Reference": "Audit Logs",
-          "Target": ""
+          "Target": "Registros de auditoría"
         },
         {
           "LocalizationKey": "AuditLogs",
           "Reference": "Audit Logs",
-          "Target": ""
+          "Target": "Registros de auditoría"
         },
         {
           "LocalizationKey": "HttpStatus",
           "Reference": "Http Status",
-          "Target": ""
+          "Target": "Estado Http"
         },
         {
           "LocalizationKey": "HttpMethod",
           "Reference": "Http Method",
-          "Target": "Metodo Http"
+          "Target": "Método Http"
         },
         {
           "LocalizationKey": "HttpMethodFilter",
           "Reference": "Http Method Filter",
-          "Target": ""
+          "Target": "Filtro de método Http"
         },
         {
           "LocalizationKey": "HttpRequest",
           "Reference": "Http Request",
-          "Target": "Peticion Http"
+          "Target": "Petición Http"
         },
         {
           "LocalizationKey": "User",
@@ -5163,12 +5163,12 @@
         {
           "LocalizationKey": "UserNameFilter",
           "Reference": "User Filter",
-          "Target": ""
+          "Target": "Filtro de usuario"
         },
         {
           "LocalizationKey": "HasException",
           "Reference": "Has Exception",
-          "Target": ""
+          "Target": "Tiene excepción"
         },
         {
           "LocalizationKey": "IpAddress",
@@ -5193,7 +5193,7 @@
         {
           "LocalizationKey": "Overall",
           "Reference": "Overall",
-          "Target": ""
+          "Target": "Total"
         },
         {
           "LocalizationKey": "Actions",
@@ -5228,7 +5228,7 @@
         {
           "LocalizationKey": "UrlFilter",
           "Reference": "Url Filter",
-          "Target": ""
+          "Target": "Filtro de Url"
         },
         {
           "LocalizationKey": "Exceptions",
@@ -5243,12 +5243,12 @@
         {
           "LocalizationKey": "HttpStatusCode",
           "Reference": "Http Status Code",
-          "Target": ""
+          "Target": "Código de estado Http"
         },
         {
           "LocalizationKey": "HttpStatusCodeFilter",
           "Reference": "Http Status Code Filter",
-          "Target": ""
+          "Target": "Filtro de código de estado Http"
         },
         {
           "LocalizationKey": "ServiceName",
@@ -5263,12 +5263,12 @@
         {
           "LocalizationKey": "CorrelationId",
           "Reference": "Correlation Id",
-          "Target": ""
+          "Target": "Id de correlación"
         },
         {
           "LocalizationKey": "ApplicationName",
           "Reference": "Application Name",
-          "Target": ""
+          "Target": "Nombre de la aplicación"
         },
         {
           "LocalizationKey": "ExecutionDuration",
@@ -5303,22 +5303,22 @@
         {
           "LocalizationKey": "Parameters",
           "Reference": "Parameters",
-          "Target": ""
+          "Target": "Parámetros"
         },
         {
           "LocalizationKey": "EntityTypeFullName",
           "Reference": "Entity Type Full Name",
-          "Target": ""
+          "Target": "Nombre completo de tipo de entidad"
         },
         {
           "LocalizationKey": "Entity",
           "Reference": "Entity",
-          "Target": ""
+          "Target": "Entidad"
         },
         {
           "LocalizationKey": "ChangeType",
           "Reference": "Change Type",
-          "Target": ""
+          "Target": "Cambiar tipo"
         },
         {
           "LocalizationKey": "ChangeTime",
@@ -5328,22 +5328,22 @@
         {
           "LocalizationKey": "NewValue",
           "Reference": "New Value",
-          "Target": ""
+          "Target": "Nuevo valor"
         },
         {
           "LocalizationKey": "OriginalValue",
           "Reference": "Original Value",
-          "Target": ""
+          "Target": "Valor original"
         },
         {
           "LocalizationKey": "PropertyName",
           "Reference": "Property Name",
-          "Target": ""
+          "Target": "Nombre de propiedad"
         },
         {
           "LocalizationKey": "PropertyTypeFullName",
           "Reference": "Property Type Full Name",
-          "Target": ""
+          "Target": "Nombre completo de tipo de propiedad"
         },
         {
           "LocalizationKey": "Yes",
@@ -5363,17 +5363,17 @@
         {
           "LocalizationKey": "AverageExecutionDurationInLogsPerDay",
           "Reference": "Average execution duration",
-          "Target": ""
+          "Target": "Tiempo promedio de ejecución"
         },
         {
           "LocalizationKey": "AverageExecutionDurationInMilliseconds",
           "Reference": "Average execution duration in milliseconds",
-          "Target": ""
+          "Target": "Tiempo promedio de ejecución en milisegundos"
         },
         {
           "LocalizationKey": "ErrorRateInLogs",
           "Reference": "Error rate in logs",
-          "Target": ""
+          "Target": "Taza de error en los registros"
         },
         {
           "LocalizationKey": "Success",
@@ -5538,12 +5538,12 @@
         {
           "LocalizationKey": "Volo.Abp.Identity:010001",
           "Reference": "You can not delete your own account!",
-          "Target": ""
+          "Target": "No puede eliminar su propia cuenta!"
         },
         {
           "LocalizationKey": "Permission:IdentityManagement",
           "Reference": "Idetity management",
-          "Target": ""
+          "Target": "Administración de identidad"
         },
         {
           "LocalizationKey": "Permission:RoleManagement",
@@ -5643,7 +5643,7 @@
         {
           "LocalizationKey": "UserLockoutNotEnabled{0}",
           "Reference": "User '{0}' lockout is not enabled!",
-          "Target": ""
+          "Target": "El bloqueo del usuario '{0}' no está habilitado!"
         },
         {
           "LocalizationKey": "TwoFactor",
@@ -5653,7 +5653,7 @@
         {
           "LocalizationKey": "DisplayName:TwoFactorEnabled",
           "Reference": "Two factor enabled",
-          "Target": "Doble facto activado"
+          "Target": "Doble factor activado"
         },
         {
           "LocalizationKey": "NewUser",
@@ -5713,12 +5713,12 @@
         {
           "LocalizationKey": "OrganizationUnits{0}",
           "Reference": "Org. units ({0})",
-          "Target": ""
+          "Target": "Unidades Org. ({0})"
         },
         {
           "LocalizationKey": "OrganizationUnit:Parent{0}",
           "Reference": "Parent: {0}",
-          "Target": ""
+          "Target": "Padre: {0}"
         },
         {
           "LocalizationKey": "OrganizationUnit:Root",
