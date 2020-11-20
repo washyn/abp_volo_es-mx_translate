@@ -318,12 +318,12 @@
         {
           "LocalizationKey": "YourEmailAddress",
           "Reference": "Your e-mail address",
-          "Target": ""
+          "Target": "Su dirección de correo electrónico"
         },
         {
           "LocalizationKey": "HowMayWeHelpYou",
           "Reference": "How may we help you?",
-          "Target": ""
+          "Target": "Cómo podemos ayudarle?"
         },
         {
           "LocalizationKey": "ContactSuccess",
@@ -483,7 +483,7 @@
         {
           "LocalizationKey": "NewsletterUpdatePreferenceMessage",
           "Reference": "Your preference changes have been successfully made.",
-          "Target": ""
+          "Target": "Sus configuraciones fueron realizadas con exito."
         },
         {
           "LocalizationKey": "UpdatePreference",
@@ -593,7 +593,7 @@
         {
           "LocalizationKey": "FileTooBig",
           "Reference": "File is too big, maximum file size limit is {0}.",
-          "Target": ""
+          "Target": "El archivo es grande, el límite de tamaño de archivo es {0}."
         },
         {
           "LocalizationKey": "Menu:FileManagement",
@@ -918,17 +918,17 @@
         {
           "LocalizationKey": "DropPasteImport",
           "Reference": "Drop files here, paste, %{browse} or import from",
-          "Target": ""
+          "Target": "Suelta los archivos aquí, %{buscar} o importar de"
         },
         {
           "LocalizationKey": "DropPaste",
           "Reference": "Drop files here, paste or %{browse}",
-          "Target": ""
+          "Target": "Suelta los archivos aquí, pegar o %{buscar}"
         },
         {
           "LocalizationKey": "DropHint",
           "Reference": "Drop your files here",
-          "Target": ""
+          "Target": "Suelta tus archivos aquí"
         },
         {
           "LocalizationKey": "Browse",
@@ -1068,12 +1068,12 @@
         {
           "LocalizationKey": "FileManagement:Datatable:InfoEmpty",
           "Reference": "There is no file or folder",
-          "Target": ""
+          "Target": "No hay archivos o carpetas"
         },
         {
           "LocalizationKey": "FileManagement:Datatable:Info",
           "Reference": "Showing _END_ of _TOTAL_ entries",
-          "Target": ""
+          "Target": "Mostrando _END_ de _TOTAL_ registros"
         }
       ]
     },
@@ -1153,7 +1153,7 @@
         {
           "LocalizationKey": "Menu:Forms.Responded",
           "Reference": "Responded Forms",
-          "Target": ""
+          "Target": "Formularios respondidos"
         },
         {
           "LocalizationKey": "Menu:NewForm",
@@ -1173,7 +1173,7 @@
         {
           "LocalizationKey": "FormRestoredMessage{0}",
           "Reference": "'{0}' restored.",
-          "Target": ""
+          "Target": "'{0}' restaurado."
         },
         {
           "LocalizationKey": "Form:IsNotAcceptingResponses",
@@ -1183,12 +1183,12 @@
         {
           "LocalizationKey": "Form:EnterEmailDesc",
           "Reference": "Please enter your email address",
-          "Target": ""
+          "Target": "Por favor ingrese su correo electrónico"
         },
         {
           "LocalizationKey": "Form:InvalidEmailError",
           "Reference": "Please enter valid email address",
-          "Target": ""
+          "Target": "Por favor ingrese un correo electrónico válido"
         },
         {
           "LocalizationKey": "Form:SendFormInvitation",
@@ -1233,17 +1233,17 @@
         {
           "LocalizationKey": "FormSettings:IsAcceptingResponses",
           "Reference": "Is accepting responses",
-          "Target": ""
+          "Target": "Esta aceptando respuestas"
         },
         {
           "LocalizationKey": "FormSettings:IsCollectingEmail",
           "Reference": "Is collecting email",
-          "Target": ""
+          "Target": "Esta recolectando correo electronico"
         },
         {
           "LocalizationKey": "FormSettings:IsQuiz",
           "Reference": "Is a quiz",
-          "Target": ""
+          "Target": "Es una pregunta"
         },
         {
           "LocalizationKey": "FormSettings:RequiresLogin",
@@ -1273,7 +1273,7 @@
         {
           "LocalizationKey": "FormSettings:Respondents",
           "Reference": "Respondents",
-          "Target": "0"
+          "Target": "Encuestados"
         },
         {
           "LocalizationKey": "Answer:RequiredQuestion",
@@ -1378,7 +1378,7 @@
         {
           "LocalizationKey": "Permission:Payment",
           "Reference": "Payment",
-          "Target": ""
+          "Target": "Pago"
         }
       ]
     },
@@ -1388,27 +1388,27 @@
         {
           "LocalizationKey": "PayWithGateway",
           "Reference": "Pay with {0}",
-          "Target": ""
+          "Target": "Pagar con {0}"
         },
         {
           "LocalizationKey": "two-checkout",
           "Reference": "2Checkout",
-          "Target": ""
+          "Target": "2Checkout"
         },
         {
           "LocalizationKey": "payu",
           "Reference": "PayU",
-          "Target": ""
+          "Target": "PayU"
         },
         {
           "LocalizationKey": "paypal",
           "Reference": "PayPal",
-          "Target": ""
+          "Target": "PayPal"
         },
         {
           "LocalizationKey": "stripe",
           "Reference": "Stripe",
-          "Target": ""
+          "Target": "Stripe"
         }
       ]
     },
@@ -5783,17 +5783,17 @@
         {
           "LocalizationKey": "UserDeletionConfirmationMessage",
           "Reference": "Are you sure you want to delete the user '{0}'?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar el usuario '{0}'?"
         },
         {
           "LocalizationKey": "RoleDeletionConfirmationMessage",
           "Reference": "Are you sure you want to delete the role '{0}'?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar el rol '{0}'?"
         },
         {
           "LocalizationKey": "OrganizationUnitDeletionConfirmationMessage",
           "Reference": "Are you sure you want to delete the organization unit '{0}'?",
-          "Target": ""
+          "Target": "Esta seguro que quiere eliminar la unidad organizativa '{0}'?"
         },
         {
           "LocalizationKey": "SelectUsers",
