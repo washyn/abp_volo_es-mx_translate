@@ -1608,7 +1608,7 @@
         {
           "LocalizationKey": "Subscribe",
           "Reference": "Subscribe",
-          "Target": "Suscribirs"
+          "Target": "Suscribirse"
         },
         {
           "LocalizationKey": "Unsubscribe",
@@ -1618,7 +1618,7 @@
         {
           "LocalizationKey": "SubscribeInfoText",
           "Reference": "You are receiving e-mail notifications.",
-          "Target": ""
+          "Target": "Usted esta recibiendo notificaciones por correo electronico"
         },
         {
           "LocalizationKey": "Pin",
@@ -1648,12 +1648,12 @@
         {
           "LocalizationKey": "QuestionLockedMessage",
           "Reference": "This question has been locked.",
-          "Target": ""
+          "Target": "Esta pregunta ha sido bloqueada."
         },
         {
           "LocalizationKey": "Assignee",
           "Reference": "Assignee",
-          "Target": ""
+          "Target": "Discucion"
         },
         {
           "LocalizationKey": "Creator",
@@ -1713,7 +1713,7 @@
         {
           "LocalizationKey": "NoAnswerYet",
           "Reference": "No answer yet!",
-          "Target": ""
+          "Target": "Sin respuestas aun!"
         },
         {
           "LocalizationKey": "CreatedBy",
@@ -1838,47 +1838,47 @@
         {
           "LocalizationKey": "QuestionListSortBy_AnswerCount_desc",
           "Reference": "Most answer",
-          "Target": ""
+          "Target": "Mas respondido"
         },
         {
           "LocalizationKey": "QuestionListSortBy_AnswerCount_asc",
           "Reference": "Least answer",
-          "Target": ""
+          "Target": "Menos respondido"
         },
         {
           "LocalizationKey": "QuestionListSortBy_Score_desc",
           "Reference": "Highest score",
-          "Target": ""
+          "Target": "Puntaje más alto"
         },
         {
           "LocalizationKey": "QuestionListSortBy_Score_asc",
           "Reference": "Lowest score",
-          "Target": ""
+          "Target": "Puntuación más baja"
         },
         {
           "LocalizationKey": "GoToAcceptedAnswer",
           "Reference": "Go to accepted answer",
-          "Target": ""
+          "Target": "Ir a la respuesta aceptada"
         },
         {
           "LocalizationKey": "AddAnswer",
           "Reference": "Add answer",
-          "Target": ""
+          "Target": "Agregar respuesta"
         },
         {
           "LocalizationKey": "AnswersCount",
           "Reference": "{0} Answer(s)",
-          "Target": ""
+          "Target": "{0} Respuesta(s)"
         },
         {
           "LocalizationKey": "AcceptedImageFormatsInfo",
           "Reference": "Accepted image formats are {0}.",
-          "Target": ""
+          "Target": "Los formatos de imagen aceptados son {0}."
         },
         {
           "LocalizationKey": "MaxFileSizeInfo",
           "Reference": "Max file size is {0} MB.",
-          "Target": ""
+          "Target": "El tamaño máximo de archivo es {0} MB."
         },
         {
           "LocalizationKey": "NoPermissionToAddAnswer",
@@ -1893,12 +1893,12 @@
         {
           "LocalizationKey": "AnswerCount",
           "Reference": "Answer count",
-          "Target": ""
+          "Target": "Contesta"
         },
         {
           "LocalizationKey": "Score",
           "Reference": "Score",
-          "Target": ""
+          "Target": "Puntuacíon"
         },
         {
           "LocalizationKey": "Category",
@@ -1928,32 +1928,32 @@
         {
           "LocalizationKey": "ClearAssignee",
           "Reference": "Clear assignee",
-          "Target": ""
+          "Target": "Limpiar discucíon"
         },
         {
           "LocalizationKey": "EditAssignee",
           "Reference": "Edit assignee",
-          "Target": ""
+          "Target": "Editar discución"
         },
         {
           "LocalizationKey": "Answered",
           "Reference": "answered",
-          "Target": ""
+          "Target": "respondió"
         },
         {
           "LocalizationKey": "AcceptedAnswer",
           "Reference": "Accepted answer",
-          "Target": ""
+          "Target": "Respuesta aceptada"
         },
         {
           "LocalizationKey": "Sort",
           "Reference": "Sort",
-          "Target": ""
+          "Target": "Ordenar"
         },
         {
           "LocalizationKey": "SortedWith",
           "Reference": "Sort: {0}",
-          "Target": ""
+          "Target": "Ordenar: {0}"
         },
         {
           "LocalizationKey": "New",
@@ -1963,42 +1963,42 @@
         {
           "LocalizationKey": "YouVoted",
           "Reference": "You voted on {0}",
-          "Target": ""
+          "Target": "Has votado en {0}"
         },
         {
           "LocalizationKey": "NotFound",
           "Reference": "Sorry, seems to be not found!",
-          "Target": ""
+          "Target": "Disculpe, al parecer no se encontró!"
         },
         {
           "LocalizationKey": "SearchInQuestions",
           "Reference": "You can search in questions",
-          "Target": ""
+          "Target": "Puedes buscar en las preguntas"
         },
         {
           "LocalizationKey": "Menu:QuestionAndAnswer",
           "Reference": "Support",
-          "Target": ""
+          "Target": "Soporte"
         },
         {
           "LocalizationKey": "Menu:Questions",
           "Reference": "Questions",
-          "Target": ""
+          "Target": "Preguntas"
         },
         {
           "LocalizationKey": "Menu:Users",
           "Reference": "Users",
-          "Target": ""
+          "Target": "Usuarios"
         },
         {
           "LocalizationKey": "By",
           "Reference": "by <strong>{0}</strong>",
-          "Target": ""
+          "Target": "por <strong>{0}</strong>"
         },
         {
           "LocalizationKey": "Menu:QuestionsTemplate",
           "Reference": "Question template",
-          "Target": ""
+          "Target": "Plantilla de pregunta"
         },
         {
           "LocalizationKey": "Menu:User",
@@ -2053,7 +2053,7 @@
         {
           "LocalizationKey": "Organization",
           "Reference": "Organization",
-          "Target": "organización"
+          "Target": "Organización"
         },
         {
           "LocalizationKey": "NoQuestionCreditWarning",
@@ -2078,17 +2078,17 @@
         {
           "LocalizationKey": "YourOrganizations",
           "Reference": "Your organization(s)",
-          "Target": ""
+          "Target": "Tu organizacion(es)"
         },
         {
           "LocalizationKey": "ChangeMembershipType",
           "Reference": "Change Membership Type",
-          "Target": ""
+          "Target": "Cambiar tipo de membresía"
         },
         {
           "LocalizationKey": "CannotAddAnswerToLockedQuestion",
           "Reference": "Cannot add answer to a locked question. Unlock the question to add a new answer.",
-          "Target": ""
+          "Target": "No puede responder a una pregunta bloqueada. Desbloquea la pregunta para agregar una respuesta."
         }
       ]
     },
@@ -3883,7 +3883,7 @@
         {
           "LocalizationKey": "NPDisplayProperty",
           "Reference": "Display property",
-          "Target": ""
+          "Target": "Propieda a mostrar"
         },
         {
           "LocalizationKey": "NPDisplayPropertyHelpText",
@@ -4338,7 +4338,7 @@
         {
           "LocalizationKey": "Volo.Account:PhoneNumberConfirmationDisabled",
           "Reference": "Phone number confirmation is disabled!",
-          "Target": "Confirmación de numero de telefono esta desactivada!"
+          "Target": "Confirmación de número de telefono esta desactivada!"
         },
         {
           "LocalizationKey": "PasswordReset",
@@ -4423,7 +4423,7 @@
         {
           "LocalizationKey": "LoginIsNotAllowed",
           "Reference": "You are not allowed to login! You need to confirm your email/phone number.",
-          "Target": "No se le permite iniciar sesion! Usted necesita confirmar su correo electronico/numero de telefono."
+          "Target": "No se le permite iniciar sesion! Usted necesita confirmar su correo electronico/número de telefono."
         },
         {
           "LocalizationKey": "SelfRegistrationDisabledMessage",
@@ -4738,7 +4738,7 @@
         {
           "LocalizationKey": "ConfirmYourPhoneNumber",
           "Reference": "Verify your phone number",
-          "Target": "Verifique su numero de telefono"
+          "Target": "Verifique su número de telefono"
         },
         {
           "LocalizationKey": "Verify",
@@ -4773,7 +4773,7 @@
         {
           "LocalizationKey": "PhoneConfirmationToken",
           "Reference": "Please enter the code below to verify your phone number:",
-          "Target": "Por favor ingrese el código luego verifique su numero de telefono:"
+          "Target": "Por favor ingrese el código luego verifique su número de telefono:"
         },
         {
           "LocalizationKey": "PhoneConfirmationSms",
