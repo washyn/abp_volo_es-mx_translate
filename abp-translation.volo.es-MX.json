@@ -6778,12 +6778,12 @@
         {
           "LocalizationKey": "ApplicationUrls",
           "Reference": "Application Urls",
-          "Target": "Urls de aplicacion"
+          "Target": "Urls de aplicación"
         },
         {
           "LocalizationKey": "ApplicationUrl",
           "Reference": "Application Url",
-          "Target": "Urls de aplicacion"
+          "Target": "Urls de aplicación"
         },
         {
           "LocalizationKey": "PairWiseSubjectSalt",
@@ -6813,12 +6813,12 @@
         {
           "LocalizationKey": "IncludeJwtId",
           "Reference": "Include Jwt Id",
-          "Target": ""
+          "Target": "Icluir Id Jwt"
         },
         {
           "LocalizationKey": "AccessTokenType",
           "Reference": "Access Token Type",
-          "Target": ""
+          "Target": "Tipo de token de acceso"
         },
         {
           "LocalizationKey": "ConsentLifetime",
@@ -6828,12 +6828,12 @@
         {
           "LocalizationKey": "ClientName",
           "Reference": "Client Name",
-          "Target": ""
+          "Target": "Nombre de cliente"
         },
         {
           "LocalizationKey": "ClientUri",
           "Reference": "Client Uri",
-          "Target": ""
+          "Target": "Uri de cliente"
         },
         {
           "LocalizationKey": "LogoUri",
