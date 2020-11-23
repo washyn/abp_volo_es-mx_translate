@@ -6333,7 +6333,7 @@
         {
           "LocalizationKey": "Filter",
           "Reference": "Filter",
-          "Target": ""
+          "Target": "Filtro"
         }
       ]
     },
@@ -6343,7 +6343,7 @@
         {
           "LocalizationKey": "Volo.Saas:DuplicateTenantName",
           "Reference": "Tenant name already exist: {Name}",
-          "Target": ""
+          "Target": "El nombre de Tenant ya existe: {Name}"
         },
         {
           "LocalizationKey": "Menu:Saas",
@@ -6353,7 +6353,7 @@
         {
           "LocalizationKey": "Tenants",
           "Reference": "Tenants",
-          "Target": ""
+          "Target": "Tenants"
         },
         {
           "LocalizationKey": "NewTenant",
@@ -6398,12 +6398,12 @@
         {
           "LocalizationKey": "DisplayName:EditionId",
           "Reference": "Edition",
-          "Target": "Edicion"
+          "Target": "Edición"
         },
         {
           "LocalizationKey": "Edition",
           "Reference": "Edition",
-          "Target": "Edicion"
+          "Target": "Edición"
         },
         {
           "LocalizationKey": "Editions",
@@ -6413,12 +6413,12 @@
         {
           "LocalizationKey": "NewEdition",
           "Reference": "New edition",
-          "Target": "Nueva edicion"
+          "Target": "Nueva edición"
         },
         {
           "LocalizationKey": "EditionName",
           "Reference": "Edition name",
-          "Target": "Nombre de edicion"
+          "Target": "Nombre de edición"
         },
         {
           "LocalizationKey": "Name",
@@ -6433,7 +6433,7 @@
         {
           "LocalizationKey": "EditionUsageStatistics",
           "Reference": "Edition usage statistics",
-          "Target": "Estadisticas de uso de edicion"
+          "Target": "Estadisticas de uso de edición"
         },
         {
           "LocalizationKey": "DisplayName:AdminEmailAddress",
@@ -6448,7 +6448,7 @@
         {
           "LocalizationKey": "ChangeHistory",
           "Reference": "Change History",
-          "Target": "Canbiar historia"
+          "Target": "Cambiar historia"
         },
         {
           "LocalizationKey": "ManageHostFeatures",
