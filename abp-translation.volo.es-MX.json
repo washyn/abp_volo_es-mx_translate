@@ -833,7 +833,7 @@
         {
           "LocalizationKey": "AddingMoreFiles",
           "Reference": "Adding more files",
-          "Target": ""
+          "Target": "Agregar mas archivos"
         },
         {
           "LocalizationKey": "ImportFrom",
@@ -893,7 +893,7 @@
         {
           "LocalizationKey": "Editing",
           "Reference": "Editing %{file}",
-          "Target": ""
+          "Target": "Editando %{file}"
         },
         {
           "LocalizationKey": "Edit",
@@ -903,7 +903,7 @@
         {
           "LocalizationKey": "FinishEditingFile",
           "Reference": "Finish editing file",
-          "Target": ""
+          "Target": "Terminado de editar el archivo"
         },
         {
           "LocalizationKey": "SaveChanges",
@@ -968,32 +968,32 @@
         {
           "LocalizationKey": "FileSelected",
           "Reference": "%{smart_count} file selected",
-          "Target": ""
+          "Target": "%{smart_count} archivo selecionado"
         },
         {
           "LocalizationKey": "NFileSelected",
           "Reference": "%{smart_count} files selected",
-          "Target": ""
+          "Target": "%{smart_count} archivos selecionados"
         },
         {
           "LocalizationKey": "UploadingFile",
           "Reference": "Uploading %{smart_count} file",
-          "Target": ""
+          "Target": "Subiendo %{smart_count} archivo"
         },
         {
           "LocalizationKey": "NUploadingFile",
           "Reference": "Uploading %{smart_count} files",
-          "Target": ""
+          "Target": "Subiendo %{smart_count} archivos"
         },
         {
           "LocalizationKey": "ProcessingFile",
           "Reference": "Processing %{smart_count} file",
-          "Target": ""
+          "Target": "Procesando %{smart_count} archivo"
         },
         {
           "LocalizationKey": "NProcessingFile",
           "Reference": "Processing %{smart_count} files",
-          "Target": ""
+          "Target": "Procesando %{smart_count} archivos"
         },
         {
           "LocalizationKey": "Uploading",
@@ -1028,12 +1028,12 @@
         {
           "LocalizationKey": "FileUploadedOfTotal",
           "Reference": "%{complete} of %{smart_count} file uploaded",
-          "Target": ""
+          "Target": "%{complete} de %{smart_count} archivo subido"
         },
         {
           "LocalizationKey": "NFileUploadedOfTotal",
           "Reference": "%{complete} of %{smart_count} files uploaded",
-          "Target": ""
+          "Target": "%{complete} de %{smart_count} archivos subidos"
         },
         {
           "LocalizationKey": "DataUploadedOfTotal",
@@ -1048,22 +1048,22 @@
         {
           "LocalizationKey": "UploadFile",
           "Reference": "Upload %{smart_count} file",
-          "Target": ""
+          "Target": "Subir %{smart_count} archivo"
         },
         {
           "LocalizationKey": "UploadXFiles",
           "Reference": "Upload %{smart_count} files",
-          "Target": ""
+          "Target": "Subir %{smart_count} archivos"
         },
         {
           "LocalizationKey": "UploadNewFile",
           "Reference": "Upload +%{smart_count} file",
-          "Target": ""
+          "Target": "Subir +%{smart_count} archivo"
         },
         {
           "LocalizationKey": "UploadXNewFile",
           "Reference": "Upload +%{smart_count} files",
-          "Target": ""
+          "Target": "Subir +%{smart_count} archivos"
         },
         {
           "LocalizationKey": "FileManagement:Datatable:InfoEmpty",
@@ -1168,7 +1168,7 @@
         {
           "LocalizationKey": "FormDeletedMessage{0}",
           "Reference": "'{0}' deleted, click here to UNDO",
-          "Target": ""
+          "Target": "'{0}' eliminado, click aquí para DESHACER"
         },
         {
           "LocalizationKey": "FormRestoredMessage{0}",
@@ -1543,12 +1543,12 @@
         {
           "LocalizationKey": "Volo.Qa:010001",
           "Reference": "You can not vote your own question!",
-          "Target": ""
+          "Target": "No puede votar por su propia pregunta!"
         },
         {
           "LocalizationKey": "Volo.Qa:010002",
           "Reference": "You can not vote your own answer!",
-          "Target": ""
+          "Target": "No puede votar por su propia respuesta!"
         },
         {
           "LocalizationKey": "Volo.Qa:020001",
@@ -1578,12 +1578,12 @@
         {
           "LocalizationKey": "ReOpenAndAnswer",
           "Reference": "Reopen and answer",
-          "Target": ""
+          "Target": "Volver a abrir y responder"
         },
         {
           "LocalizationKey": "AddAnswerAndClose",
           "Reference": "Add answer and close",
-          "Target": ""
+          "Target": "Agregar repuesta y cerrar"
         },
         {
           "LocalizationKey": "Questions",
@@ -1593,7 +1593,7 @@
         {
           "LocalizationKey": "QuestionCount",
           "Reference": "Remaining / total questions",
-          "Target": ""
+          "Target": "Restante / total de preguntas"
         },
         {
           "LocalizationKey": "Search",
@@ -1673,7 +1673,7 @@
         {
           "LocalizationKey": "AssignToMe",
           "Reference": "Assign to me",
-          "Target": ""
+          "Target": "Asignarme"
         },
         {
           "LocalizationKey": "AssignedToMe",
@@ -1688,7 +1688,7 @@
         {
           "LocalizationKey": "NoOne",
           "Reference": "No one",
-          "Target": ""
+          "Target": "Ninguno"
         },
         {
           "LocalizationKey": "HaveAnAnswerToThisQuestion",
@@ -2668,7 +2668,7 @@
         {
           "LocalizationKey": "Version",
           "Reference": "Version",
-          "Target": ""
+          "Target": "Versión"
         },
         {
           "LocalizationKey": "PrimaryKeyHelptext",
@@ -2728,7 +2728,7 @@
         {
           "LocalizationKey": "Outdated",
           "Reference": "Outdated",
-          "Target": ""
+          "Target": "Obsoleto"
         },
         {
           "LocalizationKey": "Customized",
@@ -3893,7 +3893,7 @@
         {
           "LocalizationKey": "NPUiPickType",
           "Reference": "UI pick type",
-          "Target": ""
+          "Target": "Seleccione el tipo de UI"
         },
         {
           "LocalizationKey": "NPUiPickTypeHelpText",
@@ -4038,17 +4038,17 @@
         {
           "LocalizationKey": "EnumFile",
           "Reference": "Enum file",
-          "Target": ""
+          "Target": "Archivo Enum"
         },
         {
           "LocalizationKey": "EntityFile",
           "Reference": "Select dependent entity",
-          "Target": ""
+          "Target": "Seleccione la entidad dependiente"
         },
         {
           "LocalizationKey": "DtoFile",
           "Reference": "Select dependent DTO of your entity",
-          "Target": ""
+          "Target": "Seleccione la dependencia DTO de su entidad"
         },
         {
           "LocalizationKey": "CollectionNames",
@@ -4088,7 +4088,7 @@
         {
           "LocalizationKey": "MultipleSolutionsFound",
           "Reference": "There are multiple solutions in this directory! Enter the full solution (*.sln) path.",
-          "Target": ""
+          "Target": "Existen multiples soluciones en este directorio! Ingrese la ruta completa (*.sln) de la solución."
         },
         {
           "LocalizationKey": "CannotFindDirectory",
@@ -4148,7 +4148,7 @@
         {
           "LocalizationKey": "ModuleAlreadyInstalledWithSourceCode",
           "Reference": "This module is already added to your project with source code.",
-          "Target": ""
+          "Target": "Este módulo ya esta agregado a su proyecto con el codigo fuente."
         },
         {
           "LocalizationKey": "UpdateAbpPackages",
