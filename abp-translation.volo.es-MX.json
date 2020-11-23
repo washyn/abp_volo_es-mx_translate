@@ -1083,7 +1083,7 @@
         {
           "LocalizationKey": "SamplePageMessage",
           "Reference": "A sample page for the Forms module",
-          "Target": "Ejemplo de página para modulo de formulario"
+          "Target": "Ejemplo de página para módulo de formulario"
         },
         {
           "LocalizationKey": "Permission:Forms",
@@ -2108,7 +2108,7 @@
         {
           "LocalizationKey": "Menu:Modules",
           "Reference": "Modules",
-          "Target": "Modulos"
+          "Target": "Módulos"
         },
         {
           "LocalizationKey": "Menu:Templates",
@@ -2643,12 +2643,12 @@
         {
           "LocalizationKey": "showOnlyProModules",
           "Reference": "Show only pro (commercial) modules",
-          "Target": "Mostrar solo modulos pro (commercial)"
+          "Target": "Mostrar solo módulos pro (commercial)"
         },
         {
           "LocalizationKey": "Modules",
           "Reference": "Modules",
-          "Target": "Modulos"
+          "Target": "Módulos"
         },
         {
           "LocalizationKey": "SavePath",
@@ -3743,7 +3743,7 @@
         {
           "LocalizationKey": "JustDownloadSourceCodeDescription",
           "Reference": "Download the source-code of this module.",
-          "Target": "Descargar el código-fuente de este modulo."
+          "Target": "Descargar el código-fuente de este módulo."
         },
         {
           "LocalizationKey": "AnErrorOccured",
@@ -3933,7 +3933,7 @@
         {
           "LocalizationKey": "ModuleTemplate",
           "Reference": "Module template",
-          "Target": "Plantilla modulo"
+          "Target": "Plantilla módulo"
         },
         {
           "LocalizationKey": "ProjectNameHelp",
@@ -4123,7 +4123,7 @@
         {
           "LocalizationKey": "ThisIsModuleProject",
           "Reference": "This is an ABP module project",
-          "Target": "Esto es un proyecto modulo ABP"
+          "Target": "Esto es un proyecto módulo ABP"
         },
         {
           "LocalizationKey": "DoYouWantToGoToSolution",
@@ -4143,7 +4143,7 @@
         {
           "LocalizationKey": "ModuleAlreadyInstalled",
           "Reference": "This module is already added to your project.",
-          "Target": "Este modulo ya esta agregado a su proyecto."
+          "Target": "Este módulo ya esta agregado a su proyecto."
         },
         {
           "LocalizationKey": "ModuleAlreadyInstalledWithSourceCode",
@@ -4308,7 +4308,7 @@
         {
           "LocalizationKey": "SamplePageMessage",
           "Reference": "A sample page for the MyProjectName module",
-          "Target": "Ejemplo de página para modulo MiNombreDeProyecto"
+          "Target": "Ejemplo de página para módulo MiNombreDeProyecto"
         },
         {
           "LocalizationKey": "Menu:MyProjectName",
