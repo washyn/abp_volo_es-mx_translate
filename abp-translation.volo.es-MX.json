@@ -2143,7 +2143,7 @@
         {
           "LocalizationKey": "EntityInfo",
           "Reference": "Entity info",
-          "Target": "Informacion de entidad"
+          "Target": "Información de entidad"
         },
         {
           "LocalizationKey": "Properties",
@@ -3648,12 +3648,12 @@
         {
           "LocalizationKey": "BuildFailed",
           "Reference": "Build failed. Check the solution!",
-          "Target": "Compilación fallida. Revusa la solución."
+          "Target": "Compilación fallida. Revise la solución."
         },
         {
           "LocalizationKey": "CodeGenerationFailed",
           "Reference": "Code generation failed.",
-          "Target": "Fallo la generacion de codigo."
+          "Target": "Falló la generación de código."
         },
         {
           "LocalizationKey": "Building",
@@ -3668,7 +3668,7 @@
         {
           "LocalizationKey": "ReplacePackageReferencesWithSourceCode",
           "Reference": "Replace packages with source code",
-          "Target": "Reemplazar paquetes con codigo fuente"
+          "Target": "Reemplazar paquetes con código fuente"
         },
         {
           "LocalizationKey": "AddWithoutSourceCodeNuget",
@@ -3743,7 +3743,7 @@
         {
           "LocalizationKey": "JustDownloadSourceCodeDescription",
           "Reference": "Download the source-code of this module.",
-          "Target": "Descargar el codigo-fuente de este modulo."
+          "Target": "Descargar el código-fuente de este modulo."
         },
         {
           "LocalizationKey": "AnErrorOccured",
@@ -3808,7 +3808,7 @@
         {
           "LocalizationKey": "NavigationPropertiesDocumentLink",
           "Reference": "navigation properties",
-          "Target": ""
+          "Target": "propiedades de navegación"
         },
         {
           "LocalizationKey": "NPEntityNamespace",
@@ -3868,7 +3868,7 @@
         {
           "LocalizationKey": "NPPrimaryKeyHelpText",
           "Reference": "Primary key type of the entity.",
-          "Target": ""
+          "Target": "Tipo de clave primaria para la entidad."
         },
         {
           "LocalizationKey": "NPPropertyName",
@@ -4098,7 +4098,7 @@
         {
           "LocalizationKey": "DefaultConnectionStringInfo",
           "Reference": "Default connection string is {0}",
-          "Target": "La cadena de conexion por defecto es {0}"
+          "Target": "La cadena de conexión por defecto es {0}"
         },
         {
           "LocalizationKey": "TemplateOutdatedWarning",
@@ -4118,7 +4118,7 @@
         {
           "LocalizationKey": "UpdateAllNuGetPackagesInfo",
           "Reference": "Updates all the ABP packages in the solution with the name prefix Volo.*",
-          "Target": ""
+          "Target": "Actualizaciones de todos los paquetes ABP en la solución con el nombre de prefijo Volo.*"
         },
         {
           "LocalizationKey": "ThisIsModuleProject",
@@ -4148,7 +4148,7 @@
         {
           "LocalizationKey": "ModuleAlreadyInstalledWithSourceCode",
           "Reference": "This module is already added to your project with source code.",
-          "Target": "Este módulo ya esta agregado a su proyecto con el codigo fuente."
+          "Target": "Este módulo ya esta agregado a su proyecto con el código fuente."
         },
         {
           "LocalizationKey": "UpdateAbpPackages",
@@ -4193,22 +4193,22 @@
         {
           "LocalizationKey": "ConfirmSwitchToStable",
           "Reference": "Your packages will be switched to stable versions.",
-          "Target": ""
+          "Target": "Los paquetes serán cambiados a versiones estables."
         },
         {
           "LocalizationKey": "ConfirmSwitchToNightly",
           "Reference": "Your packages will be switched to nightly preview versions.",
-          "Target": ""
+          "Target": "Los paquetes serán cambiados a versiones nightly preview."
         },
         {
           "LocalizationKey": "ConfirmSwitchToPreview",
           "Reference": "Your packages will be switched to pre-release versions.",
-          "Target": ""
+          "Target": "Los paquetes serán cambiados a versiones pre-release."
         },
         {
           "LocalizationKey": "SwitchedToStable",
           "Reference": "Your packages are switched to stable versions.",
-          "Target": ""
+          "Target": "Los paquetes serán cambiados a versiones estables."
         },
         {
           "LocalizationKey": "SwitchedToNightly",
@@ -4258,47 +4258,47 @@
         {
           "LocalizationKey": "Menu:Home",
           "Reference": "Home",
-          "Target": ""
+          "Target": "Inicio"
         },
         {
           "LocalizationKey": "Home",
           "Reference": "Home",
-          "Target": ""
+          "Target": "Inicio"
         },
         {
           "LocalizationKey": "Welcome",
           "Reference": "Welcome",
-          "Target": ""
+          "Target": "Bienvenido"
         },
         {
           "LocalizationKey": "LongWelcomeMessage",
           "Reference": "Welcome to the application. This is a startup project based on the ABP framework. For more information visit abp.io.",
-          "Target": ""
+          "Target": "Bienvenido a la aplicación. Esto es un proyecto de incio basado en el framework ABP. Para mas información visite abp.io."
         },
         {
           "LocalizationKey": "EndDate",
           "Reference": "End date",
-          "Target": ""
+          "Target": "Fecha final"
         },
         {
           "LocalizationKey": "StartDate",
           "Reference": "Start date",
-          "Target": ""
+          "Target": "Fecha de inicio"
         },
         {
           "LocalizationKey": "Permission:Dashboard",
           "Reference": "Dashboard",
-          "Target": ""
+          "Target": "Dashboard"
         },
         {
           "LocalizationKey": "Menu:Dashboard",
           "Reference": "Dashboard",
-          "Target": ""
+          "Target": "Dashboard"
         },
         {
           "LocalizationKey": "Dashboard",
           "Reference": "Dashboard",
-          "Target": ""
+          "Target": "Dashboard"
         }
       ]
     },
@@ -4548,7 +4548,7 @@
         {
           "LocalizationKey": "DisplayName:IsSelfRegistrationEnabled",
           "Reference": "Enable self registration",
-          "Target": ""
+          "Target": "Habilitar el auto registro"
         },
         {
           "LocalizationKey": "Description:IsSelfRegistrationEnabled",
@@ -4703,7 +4703,7 @@
         {
           "LocalizationKey": "DisplayName:EnableLdapLogin",
           "Reference": "Enable Ldap login",
-          "Target": ""
+          "Target": "Activar incio de sesión Ldap"
         },
         {
           "LocalizationKey": "Description:EnableLdapLogin",
@@ -4763,7 +4763,7 @@
         {
           "LocalizationKey": "EmailConfirmationSentMessage",
           "Reference": "A verification link has been sent to your email ({0}).",
-          "Target": ""
+          "Target": "Se envió un enlace de verificación a su correo electronico ({0})."
         },
         {
           "LocalizationKey": "ConfirmationTokenSentMessage",
@@ -4853,7 +4853,7 @@
         {
           "LocalizationKey": "MySecurityLogs:CorrelationId",
           "Reference": "CorrelationId",
-          "Target": ""
+          "Target": "CorrelationId"
         },
         {
           "LocalizationKey": "MySecurityLogs:IpAddress",
@@ -4928,7 +4928,7 @@
         {
           "LocalizationKey": "UseDefault",
           "Reference": "Use Default Avatar",
-          "Target": "Usar avatar por defecto"
+          "Target": "Usar avatar predeterminado"
         },
         {
           "LocalizationKey": "UseGravatarConfirm",
@@ -4983,22 +4983,22 @@
         {
           "LocalizationKey": "DisplayName:UseCaptchaOnLogin",
           "Reference": "Use security image question (captcha) on login.",
-          "Target": ""
+          "Target": "Usar captcha al iniciar sesión."
         },
         {
           "LocalizationKey": "Description:UseCaptchaOnLogin",
           "Reference": "Use security image question (captcha) on login.",
-          "Target": ""
+          "Target": "Usar imangen captcha al iniciar sesión."
         },
         {
           "LocalizationKey": "DisplayName:UseCaptchaOnRegistration",
           "Reference": "Use security image question (captcha) on registration.",
-          "Target": ""
+          "Target": "Usar imagen captcha al registrarse."
         },
         {
           "LocalizationKey": "Description:UseCaptchaOnRegistration",
           "Reference": "Use security image question (captcha) on registration.",
-          "Target": ""
+          "Target": "Usar imagen captcha al registrarse."
         },
         {
           "LocalizationKey": "Captcha",
@@ -5033,7 +5033,7 @@
         {
           "LocalizationKey": "CaptchaCanNotBeEmpty",
           "Reference": "Please check the reCAPTCHA box",
-          "Target": ""
+          "Target": "Por favor revisa el reCAPTCHA"
         },
         {
           "LocalizationKey": "IncorrectCaptchaAnswer",
@@ -5213,7 +5213,7 @@
         {
           "LocalizationKey": "BrowserInfo",
           "Reference": "Browser Info",
-          "Target": "Informacion de buscador"
+          "Target": "Información de buscador"
         },
         {
           "LocalizationKey": "Url",
@@ -5518,17 +5518,17 @@
         {
           "LocalizationKey": "SmtpUseDefaultCredentials",
           "Reference": "Use default credentials",
-          "Target": "Usar credenciales por defecto"
+          "Target": "Usar credenciales predeterminadas"
         },
         {
           "LocalizationKey": "DefaultFromAddress",
           "Reference": "Default from address",
-          "Target": "Dirección origen por defecto"
+          "Target": "Dirección origen predeterminado"
         },
         {
           "LocalizationKey": "DefaultFromDisplayName",
           "Reference": "Default from display name",
-          "Target": "Nombre a mostrar por defecto"
+          "Target": "Nombre a mostrar predeterminado"
         }
       ]
     },
@@ -5683,7 +5683,7 @@
         {
           "LocalizationKey": "UserInformation",
           "Reference": "User information",
-          "Target": "Informacion de usuario"
+          "Target": "Información de usuario"
         },
         {
           "LocalizationKey": "ClaimTypes",
@@ -5813,7 +5813,7 @@
         {
           "LocalizationKey": "DisplayName:IsDefault",
           "Reference": "Default",
-          "Target": "Por defecto"
+          "Target": "Predeterminado"
         },
         {
           "LocalizationKey": "DisplayName:IsStatic",
@@ -6118,17 +6118,17 @@
         {
           "LocalizationKey": "SecurityLogs:CorrelationId",
           "Reference": "Correlation Id",
-          "Target": ""
+          "Target": "Id de Correlación"
         },
         {
           "LocalizationKey": "SecurityLogs:Time",
           "Reference": "Time",
-          "Target": "TiempoTiempo"
+          "Target": "Tiempo"
         },
         {
           "LocalizationKey": "SecurityLogs:IpAddress",
           "Reference": "Ip Address",
-          "Target": ""
+          "Target": "Dirección Ip"
         },
         {
           "LocalizationKey": "SecurityLogs:Browser",
@@ -6148,42 +6148,42 @@
         {
           "LocalizationKey": "Permission:LanguageManagement",
           "Reference": "Language Management",
-          "Target": "administración de lenguaje"
+          "Target": "Administración de idiomas"
         },
         {
           "LocalizationKey": "Permission:LanguageTexts",
           "Reference": "Language Texts",
-          "Target": "Textos de lenguaje"
+          "Target": "Textos de idioma"
         },
         {
           "LocalizationKey": "Permission:LanguageTextsEdit",
           "Reference": "Edit Language Texts",
-          "Target": "Editar textos de lenguaje"
+          "Target": "Editar textos de idiomas"
         },
         {
           "LocalizationKey": "Permission:Languages",
           "Reference": "Languages",
-          "Target": "Lenguajes"
+          "Target": "Idiomas"
         },
         {
           "LocalizationKey": "Permission:LanguagesEdit",
           "Reference": "Edit Language",
-          "Target": "Editar lenguaje"
+          "Target": "Editar idioma"
         },
         {
           "LocalizationKey": "Permission:LanguagesCreate",
           "Reference": "Create Language",
-          "Target": "Crear lenguaje"
+          "Target": "Crear idioma"
         },
         {
           "LocalizationKey": "Permission:LanguagesChangeDefault",
           "Reference": "Change Default Language",
-          "Target": "Cambiar el lenguaje por defecto"
+          "Target": "Cambiar el idioma predeterminado"
         },
         {
           "LocalizationKey": "Permission:LanguagesDelete",
           "Reference": "Delete Language",
-          "Target": "Eliminar lenguaje"
+          "Target": "Eliminar idioma"
         }
       ]
     },
@@ -6258,7 +6258,7 @@
         {
           "LocalizationKey": "RestoreToDefault",
           "Reference": "Restore to default",
-          "Target": "Restablecer al valor por defecto"
+          "Target": "Restablecer al valor predeterminado"
         },
         {
           "LocalizationKey": "SaveAndNext",
@@ -6388,7 +6388,7 @@
         {
           "LocalizationKey": "DisplayName:DefaultConnectionString",
           "Reference": "Default Connection String",
-          "Target": "Cadena de conexión por defecto"
+          "Target": "Cadena de conexión predeterminado"
         },
         {
           "LocalizationKey": "DisplayName:UseSharedDatabase",
@@ -6563,7 +6563,7 @@
         {
           "LocalizationKey": "DefaultCultureName",
           "Reference": "Default Culture Name",
-          "Target": "Nombre de cultura por defecto"
+          "Target": "Nombre de cultura predeterminado"
         },
         {
           "LocalizationKey": "Contents",
@@ -6608,12 +6608,12 @@
         {
           "LocalizationKey": "RestoreToDefault",
           "Reference": "Restore To Default",
-          "Target": "Restablecer al valor por defecto"
+          "Target": "Restablecer al valor predeterminado"
         },
         {
           "LocalizationKey": "RestoreToDefaultMessage",
           "Reference": "Are you sure? This action will convert the content to the default value.",
-          "Target": "Esta seguro? Esto convertira el contenido en el valor por defecto"
+          "Target": "Esta seguro? Esto convertirá el contenido en el valor predeterminado"
         },
         {
           "LocalizationKey": "IsInlineLocalized",
